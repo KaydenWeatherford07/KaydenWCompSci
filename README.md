@@ -8,7 +8,7 @@ At the start of this school year, I’m learning while recovering from a broken 
 ---
 
 # What Is This?  
-This repository is a collection of my projects and coursework from my time at UWW. Some projects may be experimental or incomplete, while others will be fully developed. My goal is to use this space as a timeline of my progress and learning journey in Computer Science.  
+This repository is a collection of my projects and coursework from my time at UWW. Some projects may be experimental or incomplete, while others will be fully developed. My goal is to use this space as a timeline of my progress and learning journey in Computer Science. Currently, this is all written using JetBrains' Rider IDE.   
 
 Feel free to explore, follow along, and see how my skills evolve over the next few years!
 
