@@ -1,0 +1,15 @@
+C:\Users\ihoph\RiderProjects\KaydenWCompSci\bin\Debug\net9.0\KaydenWCompSci.exe
+C:\Users\ihoph\RiderProjects\KaydenWCompSci\bin\Debug\net9.0\KaydenWCompSci.deps.json
+C:\Users\ihoph\RiderProjects\KaydenWCompSci\bin\Debug\net9.0\KaydenWCompSci.runtimeconfig.json
+C:\Users\ihoph\RiderProjects\KaydenWCompSci\bin\Debug\net9.0\KaydenWCompSci.dll
+C:\Users\ihoph\RiderProjects\KaydenWCompSci\bin\Debug\net9.0\KaydenWCompSci.pdb
+C:\Users\ihoph\RiderProjects\KaydenWCompSci\obj\Debug\net9.0\KaydenWCompSci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ihoph\RiderProjects\KaydenWCompSci\obj\Debug\net9.0\KaydenWCompSci.AssemblyInfoInputs.cache
+C:\Users\ihoph\RiderProjects\KaydenWCompSci\obj\Debug\net9.0\KaydenWCompSci.AssemblyInfo.cs
+C:\Users\ihoph\RiderProjects\KaydenWCompSci\obj\Debug\net9.0\KaydenWCompSci.csproj.CoreCompileInputs.cache
+C:\Users\ihoph\RiderProjects\KaydenWCompSci\obj\Debug\net9.0\KaydenWCompSci.sourcelink.json
+C:\Users\ihoph\RiderProjects\KaydenWCompSci\obj\Debug\net9.0\KaydenWCompSci.dll
+C:\Users\ihoph\RiderProjects\KaydenWCompSci\obj\Debug\net9.0\refint\KaydenWCompSci.dll
+C:\Users\ihoph\RiderProjects\KaydenWCompSci\obj\Debug\net9.0\KaydenWCompSci.pdb
+C:\Users\ihoph\RiderProjects\KaydenWCompSci\obj\Debug\net9.0\KaydenWCompSci.genruntimeconfig.cache
+C:\Users\ihoph\RiderProjects\KaydenWCompSci\obj\Debug\net9.0\ref\KaydenWCompSci.dll
