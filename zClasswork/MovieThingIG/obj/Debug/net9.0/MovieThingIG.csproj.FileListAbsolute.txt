@@ -1,0 +1,15 @@
+C:\Users\ihoph\RiderProjects\KaydenWCompSci\zClasswork\MovieThingIG\bin\Debug\net9.0\MovieThingIG.exe
+C:\Users\ihoph\RiderProjects\KaydenWCompSci\zClasswork\MovieThingIG\bin\Debug\net9.0\MovieThingIG.deps.json
+C:\Users\ihoph\RiderProjects\KaydenWCompSci\zClasswork\MovieThingIG\bin\Debug\net9.0\MovieThingIG.runtimeconfig.json
+C:\Users\ihoph\RiderProjects\KaydenWCompSci\zClasswork\MovieThingIG\bin\Debug\net9.0\MovieThingIG.dll
+C:\Users\ihoph\RiderProjects\KaydenWCompSci\zClasswork\MovieThingIG\bin\Debug\net9.0\MovieThingIG.pdb
+C:\Users\ihoph\RiderProjects\KaydenWCompSci\zClasswork\MovieThingIG\obj\Debug\net9.0\MovieThingIG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ihoph\RiderProjects\KaydenWCompSci\zClasswork\MovieThingIG\obj\Debug\net9.0\MovieThingIG.AssemblyInfoInputs.cache
+C:\Users\ihoph\RiderProjects\KaydenWCompSci\zClasswork\MovieThingIG\obj\Debug\net9.0\MovieThingIG.AssemblyInfo.cs
+C:\Users\ihoph\RiderProjects\KaydenWCompSci\zClasswork\MovieThingIG\obj\Debug\net9.0\MovieThingIG.csproj.CoreCompileInputs.cache
+C:\Users\ihoph\RiderProjects\KaydenWCompSci\zClasswork\MovieThingIG\obj\Debug\net9.0\MovieThingIG.sourcelink.json
+C:\Users\ihoph\RiderProjects\KaydenWCompSci\zClasswork\MovieThingIG\obj\Debug\net9.0\MovieThingIG.dll
+C:\Users\ihoph\RiderProjects\KaydenWCompSci\zClasswork\MovieThingIG\obj\Debug\net9.0\refint\MovieThingIG.dll
+C:\Users\ihoph\RiderProjects\KaydenWCompSci\zClasswork\MovieThingIG\obj\Debug\net9.0\MovieThingIG.pdb
+C:\Users\ihoph\RiderProjects\KaydenWCompSci\zClasswork\MovieThingIG\obj\Debug\net9.0\MovieThingIG.genruntimeconfig.cache
+C:\Users\ihoph\RiderProjects\KaydenWCompSci\zClasswork\MovieThingIG\obj\Debug\net9.0\ref\MovieThingIG.dll

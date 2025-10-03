@@ -1,0 +1,15 @@
+C:\Users\ihoph\RiderProjects\KaydenWCompSci\zClasswork\TravelAgent\bin\Debug\net9.0\TravelAgent.exe
+C:\Users\ihoph\RiderProjects\KaydenWCompSci\zClasswork\TravelAgent\bin\Debug\net9.0\TravelAgent.deps.json
+C:\Users\ihoph\RiderProjects\KaydenWCompSci\zClasswork\TravelAgent\bin\Debug\net9.0\TravelAgent.runtimeconfig.json
+C:\Users\ihoph\RiderProjects\KaydenWCompSci\zClasswork\TravelAgent\bin\Debug\net9.0\TravelAgent.dll
+C:\Users\ihoph\RiderProjects\KaydenWCompSci\zClasswork\TravelAgent\bin\Debug\net9.0\TravelAgent.pdb
+C:\Users\ihoph\RiderProjects\KaydenWCompSci\zClasswork\TravelAgent\obj\Debug\net9.0\TravelAgent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ihoph\RiderProjects\KaydenWCompSci\zClasswork\TravelAgent\obj\Debug\net9.0\TravelAgent.AssemblyInfoInputs.cache
+C:\Users\ihoph\RiderProjects\KaydenWCompSci\zClasswork\TravelAgent\obj\Debug\net9.0\TravelAgent.AssemblyInfo.cs
+C:\Users\ihoph\RiderProjects\KaydenWCompSci\zClasswork\TravelAgent\obj\Debug\net9.0\TravelAgent.csproj.CoreCompileInputs.cache
+C:\Users\ihoph\RiderProjects\KaydenWCompSci\zClasswork\TravelAgent\obj\Debug\net9.0\TravelAgent.sourcelink.json
+C:\Users\ihoph\RiderProjects\KaydenWCompSci\zClasswork\TravelAgent\obj\Debug\net9.0\TravelAgent.dll
+C:\Users\ihoph\RiderProjects\KaydenWCompSci\zClasswork\TravelAgent\obj\Debug\net9.0\refint\TravelAgent.dll
+C:\Users\ihoph\RiderProjects\KaydenWCompSci\zClasswork\TravelAgent\obj\Debug\net9.0\TravelAgent.pdb
+C:\Users\ihoph\RiderProjects\KaydenWCompSci\zClasswork\TravelAgent\obj\Debug\net9.0\TravelAgent.genruntimeconfig.cache
+C:\Users\ihoph\RiderProjects\KaydenWCompSci\zClasswork\TravelAgent\obj\Debug\net9.0\ref\TravelAgent.dll

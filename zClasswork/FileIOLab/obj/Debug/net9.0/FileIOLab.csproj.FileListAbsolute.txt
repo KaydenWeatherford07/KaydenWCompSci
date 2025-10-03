@@ -1,0 +1,15 @@
+C:\Users\ihoph\RiderProjects\KaydenWCompSci\zClasswork\FileIOLab\bin\Debug\net9.0\FileIOLab.exe
+C:\Users\ihoph\RiderProjects\KaydenWCompSci\zClasswork\FileIOLab\bin\Debug\net9.0\FileIOLab.deps.json
+C:\Users\ihoph\RiderProjects\KaydenWCompSci\zClasswork\FileIOLab\bin\Debug\net9.0\FileIOLab.runtimeconfig.json
+C:\Users\ihoph\RiderProjects\KaydenWCompSci\zClasswork\FileIOLab\bin\Debug\net9.0\FileIOLab.dll
+C:\Users\ihoph\RiderProjects\KaydenWCompSci\zClasswork\FileIOLab\bin\Debug\net9.0\FileIOLab.pdb
+C:\Users\ihoph\RiderProjects\KaydenWCompSci\zClasswork\FileIOLab\obj\Debug\net9.0\FileIOLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ihoph\RiderProjects\KaydenWCompSci\zClasswork\FileIOLab\obj\Debug\net9.0\FileIOLab.AssemblyInfoInputs.cache
+C:\Users\ihoph\RiderProjects\KaydenWCompSci\zClasswork\FileIOLab\obj\Debug\net9.0\FileIOLab.AssemblyInfo.cs
+C:\Users\ihoph\RiderProjects\KaydenWCompSci\zClasswork\FileIOLab\obj\Debug\net9.0\FileIOLab.csproj.CoreCompileInputs.cache
+C:\Users\ihoph\RiderProjects\KaydenWCompSci\zClasswork\FileIOLab\obj\Debug\net9.0\FileIOLab.sourcelink.json
+C:\Users\ihoph\RiderProjects\KaydenWCompSci\zClasswork\FileIOLab\obj\Debug\net9.0\FileIOLab.dll
+C:\Users\ihoph\RiderProjects\KaydenWCompSci\zClasswork\FileIOLab\obj\Debug\net9.0\refint\FileIOLab.dll
+C:\Users\ihoph\RiderProjects\KaydenWCompSci\zClasswork\FileIOLab\obj\Debug\net9.0\FileIOLab.pdb
+C:\Users\ihoph\RiderProjects\KaydenWCompSci\zClasswork\FileIOLab\obj\Debug\net9.0\FileIOLab.genruntimeconfig.cache
+C:\Users\ihoph\RiderProjects\KaydenWCompSci\zClasswork\FileIOLab\obj\Debug\net9.0\ref\FileIOLab.dll

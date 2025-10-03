@@ -1,0 +1,15 @@
+C:\Users\ihoph\RiderProjects\KaydenWCompSci\xLangDocTests\prog52a\bin\Debug\net9.0\prog52a.exe
+C:\Users\ihoph\RiderProjects\KaydenWCompSci\xLangDocTests\prog52a\bin\Debug\net9.0\prog52a.deps.json
+C:\Users\ihoph\RiderProjects\KaydenWCompSci\xLangDocTests\prog52a\bin\Debug\net9.0\prog52a.runtimeconfig.json
+C:\Users\ihoph\RiderProjects\KaydenWCompSci\xLangDocTests\prog52a\bin\Debug\net9.0\prog52a.dll
+C:\Users\ihoph\RiderProjects\KaydenWCompSci\xLangDocTests\prog52a\bin\Debug\net9.0\prog52a.pdb
+C:\Users\ihoph\RiderProjects\KaydenWCompSci\xLangDocTests\prog52a\obj\Debug\net9.0\prog52a.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ihoph\RiderProjects\KaydenWCompSci\xLangDocTests\prog52a\obj\Debug\net9.0\prog52a.AssemblyInfoInputs.cache
+C:\Users\ihoph\RiderProjects\KaydenWCompSci\xLangDocTests\prog52a\obj\Debug\net9.0\prog52a.AssemblyInfo.cs
+C:\Users\ihoph\RiderProjects\KaydenWCompSci\xLangDocTests\prog52a\obj\Debug\net9.0\prog52a.csproj.CoreCompileInputs.cache
+C:\Users\ihoph\RiderProjects\KaydenWCompSci\xLangDocTests\prog52a\obj\Debug\net9.0\prog52a.sourcelink.json
+C:\Users\ihoph\RiderProjects\KaydenWCompSci\xLangDocTests\prog52a\obj\Debug\net9.0\prog52a.dll
+C:\Users\ihoph\RiderProjects\KaydenWCompSci\xLangDocTests\prog52a\obj\Debug\net9.0\refint\prog52a.dll
+C:\Users\ihoph\RiderProjects\KaydenWCompSci\xLangDocTests\prog52a\obj\Debug\net9.0\prog52a.pdb
+C:\Users\ihoph\RiderProjects\KaydenWCompSci\xLangDocTests\prog52a\obj\Debug\net9.0\prog52a.genruntimeconfig.cache
+C:\Users\ihoph\RiderProjects\KaydenWCompSci\xLangDocTests\prog52a\obj\Debug\net9.0\ref\prog52a.dll

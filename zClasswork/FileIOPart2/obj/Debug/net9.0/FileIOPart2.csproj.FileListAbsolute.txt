@@ -1,0 +1,15 @@
+C:\Users\ihoph\RiderProjects\KaydenWCompSci\zClasswork\FileIOPart2\bin\Debug\net9.0\FileIOPart2.exe
+C:\Users\ihoph\RiderProjects\KaydenWCompSci\zClasswork\FileIOPart2\bin\Debug\net9.0\FileIOPart2.deps.json
+C:\Users\ihoph\RiderProjects\KaydenWCompSci\zClasswork\FileIOPart2\bin\Debug\net9.0\FileIOPart2.runtimeconfig.json
+C:\Users\ihoph\RiderProjects\KaydenWCompSci\zClasswork\FileIOPart2\bin\Debug\net9.0\FileIOPart2.dll
+C:\Users\ihoph\RiderProjects\KaydenWCompSci\zClasswork\FileIOPart2\bin\Debug\net9.0\FileIOPart2.pdb
+C:\Users\ihoph\RiderProjects\KaydenWCompSci\zClasswork\FileIOPart2\obj\Debug\net9.0\FileIOPart2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ihoph\RiderProjects\KaydenWCompSci\zClasswork\FileIOPart2\obj\Debug\net9.0\FileIOPart2.AssemblyInfoInputs.cache
+C:\Users\ihoph\RiderProjects\KaydenWCompSci\zClasswork\FileIOPart2\obj\Debug\net9.0\FileIOPart2.AssemblyInfo.cs
+C:\Users\ihoph\RiderProjects\KaydenWCompSci\zClasswork\FileIOPart2\obj\Debug\net9.0\FileIOPart2.csproj.CoreCompileInputs.cache
+C:\Users\ihoph\RiderProjects\KaydenWCompSci\zClasswork\FileIOPart2\obj\Debug\net9.0\FileIOPart2.sourcelink.json
+C:\Users\ihoph\RiderProjects\KaydenWCompSci\zClasswork\FileIOPart2\obj\Debug\net9.0\FileIOPart2.dll
+C:\Users\ihoph\RiderProjects\KaydenWCompSci\zClasswork\FileIOPart2\obj\Debug\net9.0\refint\FileIOPart2.dll
+C:\Users\ihoph\RiderProjects\KaydenWCompSci\zClasswork\FileIOPart2\obj\Debug\net9.0\FileIOPart2.pdb
+C:\Users\ihoph\RiderProjects\KaydenWCompSci\zClasswork\FileIOPart2\obj\Debug\net9.0\FileIOPart2.genruntimeconfig.cache
+C:\Users\ihoph\RiderProjects\KaydenWCompSci\zClasswork\FileIOPart2\obj\Debug\net9.0\ref\FileIOPart2.dll

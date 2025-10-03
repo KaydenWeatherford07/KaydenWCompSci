@@ -1,0 +1,15 @@
+C:\Users\ihoph\RiderProjects\KaydenWCompSci\zClasswork\Lecture 2\bin\Debug\net9.0\Lecture 2.exe
+C:\Users\ihoph\RiderProjects\KaydenWCompSci\zClasswork\Lecture 2\bin\Debug\net9.0\Lecture 2.deps.json
+C:\Users\ihoph\RiderProjects\KaydenWCompSci\zClasswork\Lecture 2\bin\Debug\net9.0\Lecture 2.runtimeconfig.json
+C:\Users\ihoph\RiderProjects\KaydenWCompSci\zClasswork\Lecture 2\bin\Debug\net9.0\Lecture 2.dll
+C:\Users\ihoph\RiderProjects\KaydenWCompSci\zClasswork\Lecture 2\bin\Debug\net9.0\Lecture 2.pdb
+C:\Users\ihoph\RiderProjects\KaydenWCompSci\zClasswork\Lecture 2\obj\Debug\net9.0\Lecture 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ihoph\RiderProjects\KaydenWCompSci\zClasswork\Lecture 2\obj\Debug\net9.0\Lecture 2.AssemblyInfoInputs.cache
+C:\Users\ihoph\RiderProjects\KaydenWCompSci\zClasswork\Lecture 2\obj\Debug\net9.0\Lecture 2.AssemblyInfo.cs
+C:\Users\ihoph\RiderProjects\KaydenWCompSci\zClasswork\Lecture 2\obj\Debug\net9.0\Lecture 2.csproj.CoreCompileInputs.cache
+C:\Users\ihoph\RiderProjects\KaydenWCompSci\zClasswork\Lecture 2\obj\Debug\net9.0\Lecture 2.sourcelink.json
+C:\Users\ihoph\RiderProjects\KaydenWCompSci\zClasswork\Lecture 2\obj\Debug\net9.0\Lecture 2.dll
+C:\Users\ihoph\RiderProjects\KaydenWCompSci\zClasswork\Lecture 2\obj\Debug\net9.0\refint\Lecture 2.dll
+C:\Users\ihoph\RiderProjects\KaydenWCompSci\zClasswork\Lecture 2\obj\Debug\net9.0\Lecture 2.pdb
+C:\Users\ihoph\RiderProjects\KaydenWCompSci\zClasswork\Lecture 2\obj\Debug\net9.0\Lecture 2.genruntimeconfig.cache
+C:\Users\ihoph\RiderProjects\KaydenWCompSci\zClasswork\Lecture 2\obj\Debug\net9.0\ref\Lecture 2.dll
