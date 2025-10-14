@@ -11,11 +11,11 @@ public abstract class Animal
         Age = age;
     }
 
-    public override string ToString()
+    public sealed override string ToString()
     {
         return $"{Name} is {Age} years old";
     }
-
+    
     public String Name
     {
         get => name; 
@@ -43,5 +43,10 @@ public abstract class Animal
     }
 
     public abstract void Speak();
+
+    public virtual void Bathtime()
+    {
+        Console.WriteLine($"{name} took a bath,");
+    }
 
 }

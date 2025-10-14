@@ -2,7 +2,7 @@
 
 public static class Inheritence
 {
-    public static void Main()
+    /*public static void Main()
     {
         Dog koro = new Dog("Koro", 5);
         Cat mona = new Cat("Mona", 7);
@@ -14,4 +14,5 @@ public static class Inheritence
     {
         Console.WriteLine($"Played with {animal}");
     }
+    */
 }

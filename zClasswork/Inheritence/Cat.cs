@@ -1,6 +1,6 @@
 namespace Inheritence;
 
-public class Cat : Animal
+public sealed class Cat : Animal
 {
     public Cat(string name, int age) : base(name, age)
     {
@@ -10,5 +10,10 @@ public class Cat : Animal
     public override void Speak()
     {
         Console.WriteLine($"{name} Meowed!");
+    }
+
+    public override void Bathtime()
+    {
+        Console.WriteLine($"{name} refused to take a bath. It doesnt like water.");
     }
 }
