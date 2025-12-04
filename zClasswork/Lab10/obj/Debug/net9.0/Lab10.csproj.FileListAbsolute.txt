@@ -1,0 +1,15 @@
+C:\Users\ihoph\RiderProjects\CompSci\zClasswork\Lab10\bin\Debug\net9.0\Lab10.exe
+C:\Users\ihoph\RiderProjects\CompSci\zClasswork\Lab10\bin\Debug\net9.0\Lab10.deps.json
+C:\Users\ihoph\RiderProjects\CompSci\zClasswork\Lab10\bin\Debug\net9.0\Lab10.runtimeconfig.json
+C:\Users\ihoph\RiderProjects\CompSci\zClasswork\Lab10\bin\Debug\net9.0\Lab10.dll
+C:\Users\ihoph\RiderProjects\CompSci\zClasswork\Lab10\bin\Debug\net9.0\Lab10.pdb
+C:\Users\ihoph\RiderProjects\CompSci\zClasswork\Lab10\obj\Debug\net9.0\Lab10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ihoph\RiderProjects\CompSci\zClasswork\Lab10\obj\Debug\net9.0\Lab10.AssemblyInfoInputs.cache
+C:\Users\ihoph\RiderProjects\CompSci\zClasswork\Lab10\obj\Debug\net9.0\Lab10.AssemblyInfo.cs
+C:\Users\ihoph\RiderProjects\CompSci\zClasswork\Lab10\obj\Debug\net9.0\Lab10.csproj.CoreCompileInputs.cache
+C:\Users\ihoph\RiderProjects\CompSci\zClasswork\Lab10\obj\Debug\net9.0\Lab10.sourcelink.json
+C:\Users\ihoph\RiderProjects\CompSci\zClasswork\Lab10\obj\Debug\net9.0\Lab10.dll
+C:\Users\ihoph\RiderProjects\CompSci\zClasswork\Lab10\obj\Debug\net9.0\refint\Lab10.dll
+C:\Users\ihoph\RiderProjects\CompSci\zClasswork\Lab10\obj\Debug\net9.0\Lab10.pdb
+C:\Users\ihoph\RiderProjects\CompSci\zClasswork\Lab10\obj\Debug\net9.0\Lab10.genruntimeconfig.cache
+C:\Users\ihoph\RiderProjects\CompSci\zClasswork\Lab10\obj\Debug\net9.0\ref\Lab10.dll

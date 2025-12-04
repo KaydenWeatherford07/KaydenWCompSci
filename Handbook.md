@@ -160,12 +160,50 @@ ___
 
 
 
-
 # 6. Comments
 
-???
+Comments in C# are used to leave notes, explanations, or temporarily disable code.  
+They are ignored by the compiler and do not affect the program’s execution.
 
+There are **three main types of comments** in C#:
 
+### 1. **Single-Line Comments**
+Use `//` to write a comment on a single line.  
+Everything after `//` on that line is ignored.
+
+```csharp
+// This is a single-line comment
+int x = 10; // You can also place it after a statement
+```
+
+### 2. Multi-Line Comments
+
+Use /* ... */ to comment across multiple lines.
+This is useful for longer notes or disabling sections of code.
+```csharp
+/*
+This is a multi-line comment.
+It can span multiple lines.
+*/
+int y = 20;
+```
+### 3. XML Documentation Comments
+
+Use /// to create XML-style comments above classes, methods, or properties.
+These can be processed by documentation tools like Visual Studio’s IntelliSense.
+
+```csharp
+/// <summary>
+/// Adds two numbers together.
+/// </summary>
+/// <param name="a">The first number.</param>
+/// <param name="b">The second number.</param>
+/// <returns>The sum of a and b.</returns>
+int Add(int a, int b)
+{
+    return a + b;
+}
+```
 
 
 
@@ -177,26 +215,121 @@ ___
 
 # 7. Decision Structures
 
-???
+Decision structures in C# allow your program to make choices and execute certain code blocks based on conditions.  
+They are essential for controlling the flow of execution.
 
+There are **four main types of decision structures**:
 
+### 1. **`if` Statement**
+Executes a block of code **only if** a specified condition is true.
 
+```csharp
+int score = 90;
 
+if (score >= 70)
+{
+    Console.WriteLine("You passed!");
+}
+```
+
+### 2. **`if...else` Statement**
+
+Executes one block of code if the condition is true,
+and another block if it’s false.
+```csharp
+int score = 65;
+
+if (score >= 70)
+{
+    Console.WriteLine("You passed!");
+}
+else
+{
+    Console.WriteLine("You failed!");
+}
+
+```
+
+### 3. **`if...else` `if...else` Ladder**
+Used to check multiple conditions in sequence.
+```csharp
+int score = 85;
+
+if (score >= 90)
+{
+    Console.WriteLine("Grade: A");
+}
+else if (score >= 80)
+{
+    Console.WriteLine("Grade: B");
+}
+else if (score >= 70)
+{
+    Console.WriteLine("Grade: C");
+}
+else
+{
+    Console.WriteLine("Grade: F");
+}
+```
+
+### 4. **`switch` Statement**
+
+Simplifies checking a variable against multiple possible values.
+Each case must end with a break, unless using return or other control statements.
+```csharp
+char grade = 'B';
+
+switch (grade)
+{
+    case 'A':
+        Console.WriteLine("Excellent!");
+        break;
+    case 'B':
+        Console.WriteLine("Good job!");
+        break;
+    case 'C':
+        Console.WriteLine("You passed.");
+        break;
+    default:
+        Console.WriteLine("Invalid grade.");
+        break;
+}
+```
 
 ___
 
 
-
-
-
 # 8. Conditional Operators
 
-???
+Conditional operators in C# are **used to make decisions within expressions**, providing a more concise alternative to traditional `if` statements.
 
+---
 
+### 1. **The Ternary Operator (`?:`)**
 
+The **ternary conditional operator** evaluates a condition and returns one of two values depending on whether the condition is `true` or `false`.
 
+**Syntax:**
+```csharp
+condition ? value_if_true : value_if_false;
+```
 
+**Example:**
+```csharp
+int score = 85;
+string result = (score >= 70) ? "Passed" : "Failed";
+Console.WriteLine(result); 
+
+// Output: Passed
+```
+### **2. The Null-Coalescing Operator (`??`)**
+The null-coalescing operator returns the left-hand operand if it is not null; otherwise, it returns the right-hand operand.
+
+**Syntax:**
+```csharp
+variable ?? defaultValue;
+```
 ___
 
 

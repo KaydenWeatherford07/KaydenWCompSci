@@ -1,0 +1,15 @@
+C:\Users\ihoph\RiderProjects\CompSci\zClasswork\Encapsulation\bin\Debug\net9.0\Encapsulation.exe
+C:\Users\ihoph\RiderProjects\CompSci\zClasswork\Encapsulation\bin\Debug\net9.0\Encapsulation.deps.json
+C:\Users\ihoph\RiderProjects\CompSci\zClasswork\Encapsulation\bin\Debug\net9.0\Encapsulation.runtimeconfig.json
+C:\Users\ihoph\RiderProjects\CompSci\zClasswork\Encapsulation\bin\Debug\net9.0\Encapsulation.dll
+C:\Users\ihoph\RiderProjects\CompSci\zClasswork\Encapsulation\bin\Debug\net9.0\Encapsulation.pdb
+C:\Users\ihoph\RiderProjects\CompSci\zClasswork\Encapsulation\obj\Debug\net9.0\Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ihoph\RiderProjects\CompSci\zClasswork\Encapsulation\obj\Debug\net9.0\Encapsulation.AssemblyInfoInputs.cache
+C:\Users\ihoph\RiderProjects\CompSci\zClasswork\Encapsulation\obj\Debug\net9.0\Encapsulation.AssemblyInfo.cs
+C:\Users\ihoph\RiderProjects\CompSci\zClasswork\Encapsulation\obj\Debug\net9.0\Encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\ihoph\RiderProjects\CompSci\zClasswork\Encapsulation\obj\Debug\net9.0\Encapsulation.sourcelink.json
+C:\Users\ihoph\RiderProjects\CompSci\zClasswork\Encapsulation\obj\Debug\net9.0\Encapsulation.dll
+C:\Users\ihoph\RiderProjects\CompSci\zClasswork\Encapsulation\obj\Debug\net9.0\refint\Encapsulation.dll
+C:\Users\ihoph\RiderProjects\CompSci\zClasswork\Encapsulation\obj\Debug\net9.0\Encapsulation.pdb
+C:\Users\ihoph\RiderProjects\CompSci\zClasswork\Encapsulation\obj\Debug\net9.0\Encapsulation.genruntimeconfig.cache
+C:\Users\ihoph\RiderProjects\CompSci\zClasswork\Encapsulation\obj\Debug\net9.0\ref\Encapsulation.dll

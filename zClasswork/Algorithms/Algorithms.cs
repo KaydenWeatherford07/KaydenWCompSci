@@ -1,4 +1,4 @@
-﻿namespace CompSci221 {
+﻿namespace CompSci.zClasswork.Algorithms {
 	public static class Algorithms {
 		// There are many common operations we perform on arrays
 		// Typically, these can be reduced to simple, reusable functions

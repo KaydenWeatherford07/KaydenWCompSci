@@ -1,4 +1,4 @@
-﻿namespace FileIOPart2 {
+﻿namespace CompSci.zClasswork.FileIOPart2 {
 	public class Album {
 		private string title;
 		private string artist;

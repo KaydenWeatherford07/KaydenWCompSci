@@ -1,4 +1,4 @@
-namespace Assignment2;
+namespace CompSci.zClasswork.Assignment2;
 
 public class VideoGameLeaderboard
 {

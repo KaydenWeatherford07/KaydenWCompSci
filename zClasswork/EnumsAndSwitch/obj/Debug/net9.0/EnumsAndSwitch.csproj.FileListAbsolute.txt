@@ -1,0 +1,15 @@
+C:\Users\ihoph\RiderProjects\CompSci\zClasswork\EnumsAndSwitch\bin\Debug\net9.0\EnumsAndSwitch.exe
+C:\Users\ihoph\RiderProjects\CompSci\zClasswork\EnumsAndSwitch\bin\Debug\net9.0\EnumsAndSwitch.deps.json
+C:\Users\ihoph\RiderProjects\CompSci\zClasswork\EnumsAndSwitch\bin\Debug\net9.0\EnumsAndSwitch.runtimeconfig.json
+C:\Users\ihoph\RiderProjects\CompSci\zClasswork\EnumsAndSwitch\bin\Debug\net9.0\EnumsAndSwitch.dll
+C:\Users\ihoph\RiderProjects\CompSci\zClasswork\EnumsAndSwitch\bin\Debug\net9.0\EnumsAndSwitch.pdb
+C:\Users\ihoph\RiderProjects\CompSci\zClasswork\EnumsAndSwitch\obj\Debug\net9.0\EnumsAndSwitch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ihoph\RiderProjects\CompSci\zClasswork\EnumsAndSwitch\obj\Debug\net9.0\EnumsAndSwitch.AssemblyInfoInputs.cache
+C:\Users\ihoph\RiderProjects\CompSci\zClasswork\EnumsAndSwitch\obj\Debug\net9.0\EnumsAndSwitch.AssemblyInfo.cs
+C:\Users\ihoph\RiderProjects\CompSci\zClasswork\EnumsAndSwitch\obj\Debug\net9.0\EnumsAndSwitch.csproj.CoreCompileInputs.cache
+C:\Users\ihoph\RiderProjects\CompSci\zClasswork\EnumsAndSwitch\obj\Debug\net9.0\EnumsAndSwitch.sourcelink.json
+C:\Users\ihoph\RiderProjects\CompSci\zClasswork\EnumsAndSwitch\obj\Debug\net9.0\EnumsAndSwitch.dll
+C:\Users\ihoph\RiderProjects\CompSci\zClasswork\EnumsAndSwitch\obj\Debug\net9.0\refint\EnumsAndSwitch.dll
+C:\Users\ihoph\RiderProjects\CompSci\zClasswork\EnumsAndSwitch\obj\Debug\net9.0\EnumsAndSwitch.pdb
+C:\Users\ihoph\RiderProjects\CompSci\zClasswork\EnumsAndSwitch\obj\Debug\net9.0\EnumsAndSwitch.genruntimeconfig.cache
+C:\Users\ihoph\RiderProjects\CompSci\zClasswork\EnumsAndSwitch\obj\Debug\net9.0\ref\EnumsAndSwitch.dll

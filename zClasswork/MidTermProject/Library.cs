@@ -1,4 +1,4 @@
-﻿namespace Library;
+﻿namespace CompSci.zClasswork.MidTermProject;
 
 public class Library
 {
@@ -78,8 +78,9 @@ public class Library
          */
         if (output == null)
             output = "";
-        Console.WriteLine("\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n");
-        Console.WriteLine("||----------Library Manager 5000!----------||");
+        Console.Clear();
+        
+        Console.WriteLine("\n||----------Library Manager 5000!----------||");
         Console.WriteLine(">>");
         if (optional != null)
         {
@@ -174,7 +175,7 @@ public class Library
                     "Checkout - Check out a book (only if it is available to check out)\n" +
                     "Return - Return a book (only if it is currently checked out)\n" +
                     "Donate - Adds a new book to the library (Thank you for your donation!)\n" +
-                    "Quit");
+                    "Quit - Exit's the program");
             }
             
             else if (input == "QUIT")
@@ -199,7 +200,8 @@ public class Library
                 input = Console.ReadLine()?.ToUpper() ?? "";
                 
                 if (input.Length < 3)
-                    PrintMenu("The name of the Author must be at least 3 characters long.");
+                    PrintMenu("The name of the Author must be at least 3 characters long...\n" +
+                              "Please retry the command.");
                 else
                 {
                     ListBooks(books, false, input);
@@ -394,6 +396,7 @@ public class Library
                     PrintMenu("Input not recognized.");
                 }
             }
+            
             else if (input == "DONATEBOOK" || input == "DONATE" || input == "ADDBOOK")
             {
                 string? title = null;
@@ -576,12 +579,22 @@ public class Library
                 }
                 else
                 {
-                    PrintMenu("Book Donation Canceled.");
+                    PrintMenu("Book Donation Canceled. :(");
                 }
             }
+            
+            else if (input == ":3") 
+            {
+                // Secret code lol. I got to have at least some fun after making this headache.
+                PrintMenu("You found a secret!\n" +
+                          "This silly thing was made by:\n" +
+                          "Kayden Weatherford\n\n" +
+                          "Library Manger 5000, Version 1.03");
+            }
+            
             else
             {
-                PrintMenu("Input Command Not Recognized. Please try again.");
+                PrintMenu("Input Command Not Recognized.\nPlease try again.\nType \"help\" for a list of available commands.");
             }
         }
         

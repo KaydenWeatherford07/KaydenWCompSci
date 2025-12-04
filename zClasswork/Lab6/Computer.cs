@@ -1,4 +1,4 @@
-namespace Lab6;
+namespace CompSci.zClasswork.Lab6;
 
 public abstract class Computer : item
 {

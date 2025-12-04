@@ -1,18 +1,21 @@
-namespace Inheritence;
+namespace CompSci.zClasswork.Inheritence;
 
 public class Polymorphism
 {
     private static void Main()
     {
         Animal[] animals = [
-            new Cat("Michael", 4),
-            new Dog("Abbey", 4),
-            new Cat("Salt", 6),
-            new Dog("Cerberus", 3),
-            new Dog("Peter", 4),
-            new Dog("Brian", 4),
-            new Cat("Dave The Magical Cheese Wizard", 9),
-            new Cat("Uni", 7)
+            new Cat("Michael", 4, "Brown"),
+            new Dog("Abbey", 4, "Black"),
+            new Cat("Salt", 6, "White"),
+            new Dog("Cerberus", 3, "Gray"),
+            new Dog("Peter", 4, "Yellow"),
+            new Dog("Brian", 4, "White"),
+            new Cat("Dave The Magical Cheese Wizard", 9, "Gray"),
+            new Cat("Uni", 7, "Black"),
+            new Platypus("Bill", 4),
+            new Platypus("Parry", 5),
+            new Bird("Polly", 2)
         ];
 
 

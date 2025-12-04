@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FileIOLab")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c74f555283a6ff2e5a4ca375af59ccd2230249c7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b52a9c475fe3e35a7166944682cad27594e0d399")]
 [assembly: System.Reflection.AssemblyProductAttribute("FileIOLab")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FileIOLab")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

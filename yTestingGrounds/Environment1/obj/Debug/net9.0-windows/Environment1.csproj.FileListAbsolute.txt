@@ -1,0 +1,17 @@
+C:\Users\ihoph\RiderProjects\CompSci\yTestingGrounds\Environment1\obj\Debug\net9.0-windows\Enviroment1.Form1.resources
+C:\Users\ihoph\RiderProjects\CompSci\yTestingGrounds\Environment1\obj\Debug\net9.0-windows\Environment1.csproj.GenerateResource.cache
+C:\Users\ihoph\RiderProjects\CompSci\yTestingGrounds\Environment1\obj\Debug\net9.0-windows\Environment1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ihoph\RiderProjects\CompSci\yTestingGrounds\Environment1\obj\Debug\net9.0-windows\Environment1.AssemblyInfoInputs.cache
+C:\Users\ihoph\RiderProjects\CompSci\yTestingGrounds\Environment1\obj\Debug\net9.0-windows\Environment1.AssemblyInfo.cs
+C:\Users\ihoph\RiderProjects\CompSci\yTestingGrounds\Environment1\obj\Debug\net9.0-windows\Environment1.csproj.CoreCompileInputs.cache
+C:\Users\ihoph\RiderProjects\CompSci\yTestingGrounds\Environment1\obj\Debug\net9.0-windows\Environment1.sourcelink.json
+C:\Users\ihoph\RiderProjects\CompSci\yTestingGrounds\Environment1\bin\Debug\net9.0-windows\Environment1.exe
+C:\Users\ihoph\RiderProjects\CompSci\yTestingGrounds\Environment1\bin\Debug\net9.0-windows\Environment1.deps.json
+C:\Users\ihoph\RiderProjects\CompSci\yTestingGrounds\Environment1\bin\Debug\net9.0-windows\Environment1.runtimeconfig.json
+C:\Users\ihoph\RiderProjects\CompSci\yTestingGrounds\Environment1\bin\Debug\net9.0-windows\Environment1.dll
+C:\Users\ihoph\RiderProjects\CompSci\yTestingGrounds\Environment1\bin\Debug\net9.0-windows\Environment1.pdb
+C:\Users\ihoph\RiderProjects\CompSci\yTestingGrounds\Environment1\obj\Debug\net9.0-windows\Environment1.dll
+C:\Users\ihoph\RiderProjects\CompSci\yTestingGrounds\Environment1\obj\Debug\net9.0-windows\refint\Environment1.dll
+C:\Users\ihoph\RiderProjects\CompSci\yTestingGrounds\Environment1\obj\Debug\net9.0-windows\Environment1.pdb
+C:\Users\ihoph\RiderProjects\CompSci\yTestingGrounds\Environment1\obj\Debug\net9.0-windows\Environment1.genruntimeconfig.cache
+C:\Users\ihoph\RiderProjects\CompSci\yTestingGrounds\Environment1\obj\Debug\net9.0-windows\ref\Environment1.dll

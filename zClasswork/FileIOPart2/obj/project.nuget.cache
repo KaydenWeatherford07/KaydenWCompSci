@@ -1,8 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "5Db95DFdaeE=",
+  "dgSpecHash": "GPJqWg4bch0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ihoph\\RiderProjects\\KaydenWCompSci\\zClasswork\\FileIOPart2\\FileIOPart2.csproj",
+  "projectFilePath": "C:\\Users\\ihoph\\RiderProjects\\CompSci\\zClasswork\\FileIOPart2\\FileIOPart2.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Problem reading the cache file C:\\Users\\ihoph\\RiderProjects\\CompSci\\zClasswork\\FileIOPart2\\obj\\project.nuget.cache : The input does not contain any JSON tokens. Expected the input to start with a valid JSON token, when isFinalBlock is true. Path: $ | LineNumber: 0 | BytePositionInLine: 0.",
+      "projectPath": "C:\\Users\\ihoph\\RiderProjects\\CompSci\\zClasswork\\FileIOPart2\\FileIOPart2.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\ihoph\\RiderProjects\\CompSci\\zClasswork\\FileIOPart2\\FileIOPart2.csproj",
+      "targetGraphs": []
+    }
+  ]
 }

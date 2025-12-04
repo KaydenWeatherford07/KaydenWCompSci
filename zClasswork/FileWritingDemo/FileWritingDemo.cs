@@ -1,4 +1,4 @@
-﻿namespace KaydenWCompSci
+﻿namespace CompSci.zClasswork.FileWritingDemo
 {
     public static class IO
     {

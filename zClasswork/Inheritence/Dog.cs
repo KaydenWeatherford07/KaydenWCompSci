@@ -1,9 +1,12 @@
-namespace Inheritence;
+namespace CompSci.zClasswork.Inheritence;
 
 
-public class Dog : Animal
+public class Dog : Mammal
 {
-    public Dog(string name, int age) : base(name, age) {}
+    public Dog(string name, int age, string furColor) : base(name, age, furColor)
+    {
+        
+    }
 
     public void PlayFetch()
     {

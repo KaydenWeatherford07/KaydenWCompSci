@@ -1,7 +1,4 @@
-using System;
-using System.Windows.Forms;
-
-namespace Tests
+namespace CompSci.zClasswork.Tests
 {
     internal static class Program
     {

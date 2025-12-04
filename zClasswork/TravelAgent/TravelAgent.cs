@@ -1,4 +1,4 @@
-namespace TravelAgent;
+namespace CompSci.zClasswork.TravelAgent;
 
 public class TravelAgent
 {

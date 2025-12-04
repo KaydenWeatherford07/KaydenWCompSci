@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ihoph\\RiderProjects\\KaydenWCompSci\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D50543C-2A34-479A-9E4D-13AC2EEB4997}|KaydenWCompSci.csproj|c:\\users\\ihoph\\riderprojects\\kaydenwcompsci\\zclasswork\\travelagent\\travelagent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D50543C-2A34-479A-9E4D-13AC2EEB4997}|KaydenWCompSci.csproj|solutionrelative:zclasswork\\travelagent\\travelagent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D50543C-2A34-479A-9E4D-13AC2EEB4997}|KaydenWCompSci.csproj|c:\\users\\ihoph\\riderprojects\\kaydenwcompsci\\zclasswork\\travelagent\\flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D50543C-2A34-479A-9E4D-13AC2EEB4997}|KaydenWCompSci.csproj|solutionrelative:zclasswork\\travelagent\\flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TravelAgent.cs",
+              "DocumentMoniker": "C:\\Users\\ihoph\\RiderProjects\\KaydenWCompSci\\zClasswork\\TravelAgent\\TravelAgent.cs",
+              "RelativeDocumentMoniker": "zClasswork\\TravelAgent\\TravelAgent.cs",
+              "ToolTip": "C:\\Users\\ihoph\\RiderProjects\\KaydenWCompSci\\zClasswork\\TravelAgent\\TravelAgent.cs",
+              "RelativeToolTip": "zClasswork\\TravelAgent\\TravelAgent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T02:24:11.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Flight.cs",
+              "DocumentMoniker": "C:\\Users\\ihoph\\RiderProjects\\KaydenWCompSci\\zClasswork\\TravelAgent\\Flight.cs",
+              "RelativeDocumentMoniker": "zClasswork\\TravelAgent\\Flight.cs",
+              "ToolTip": "C:\\Users\\ihoph\\RiderProjects\\KaydenWCompSci\\zClasswork\\TravelAgent\\Flight.cs",
+              "RelativeToolTip": "zClasswork\\TravelAgent\\Flight.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T02:24:07.073Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

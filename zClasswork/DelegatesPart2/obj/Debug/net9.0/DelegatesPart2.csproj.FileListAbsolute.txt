@@ -1,0 +1,15 @@
+C:\Users\ihoph\RiderProjects\CompSci\zClasswork\DelegatesPart2\bin\Debug\net9.0\DelegatesPart2.exe
+C:\Users\ihoph\RiderProjects\CompSci\zClasswork\DelegatesPart2\bin\Debug\net9.0\DelegatesPart2.deps.json
+C:\Users\ihoph\RiderProjects\CompSci\zClasswork\DelegatesPart2\bin\Debug\net9.0\DelegatesPart2.runtimeconfig.json
+C:\Users\ihoph\RiderProjects\CompSci\zClasswork\DelegatesPart2\bin\Debug\net9.0\DelegatesPart2.dll
+C:\Users\ihoph\RiderProjects\CompSci\zClasswork\DelegatesPart2\bin\Debug\net9.0\DelegatesPart2.pdb
+C:\Users\ihoph\RiderProjects\CompSci\zClasswork\DelegatesPart2\obj\Debug\net9.0\DelegatesPart2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ihoph\RiderProjects\CompSci\zClasswork\DelegatesPart2\obj\Debug\net9.0\DelegatesPart2.AssemblyInfoInputs.cache
+C:\Users\ihoph\RiderProjects\CompSci\zClasswork\DelegatesPart2\obj\Debug\net9.0\DelegatesPart2.AssemblyInfo.cs
+C:\Users\ihoph\RiderProjects\CompSci\zClasswork\DelegatesPart2\obj\Debug\net9.0\DelegatesPart2.csproj.CoreCompileInputs.cache
+C:\Users\ihoph\RiderProjects\CompSci\zClasswork\DelegatesPart2\obj\Debug\net9.0\DelegatesPart2.sourcelink.json
+C:\Users\ihoph\RiderProjects\CompSci\zClasswork\DelegatesPart2\obj\Debug\net9.0\DelegatesPart2.dll
+C:\Users\ihoph\RiderProjects\CompSci\zClasswork\DelegatesPart2\obj\Debug\net9.0\refint\DelegatesPart2.dll
+C:\Users\ihoph\RiderProjects\CompSci\zClasswork\DelegatesPart2\obj\Debug\net9.0\DelegatesPart2.pdb
+C:\Users\ihoph\RiderProjects\CompSci\zClasswork\DelegatesPart2\obj\Debug\net9.0\DelegatesPart2.genruntimeconfig.cache
+C:\Users\ihoph\RiderProjects\CompSci\zClasswork\DelegatesPart2\obj\Debug\net9.0\ref\DelegatesPart2.dll

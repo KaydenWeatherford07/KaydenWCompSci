@@ -1,4 +1,4 @@
-﻿namespace CompSci221
+﻿namespace CompSci.zClasswork.Arrays
 {
     public static class Arrays
     {

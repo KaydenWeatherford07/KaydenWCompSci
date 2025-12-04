@@ -1,4 +1,4 @@
-namespace KaydenWCompSci
+namespace CompSci.zClasswork.MovieThingIG
 {
     public class Movie
     {

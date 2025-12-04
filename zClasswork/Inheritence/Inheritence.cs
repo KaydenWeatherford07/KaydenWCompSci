@@ -1,4 +1,4 @@
-﻿namespace Inheritence;
+﻿namespace CompSci.zClasswork.Inheritence;
 
 public static class Inheritence
 {

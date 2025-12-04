@@ -1,4 +1,4 @@
-namespace Library;
+namespace CompSci.zClasswork.MidTermProject;
 
 public class Book
 {

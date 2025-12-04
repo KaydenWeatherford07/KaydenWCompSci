@@ -1,5 +1,4 @@
-using System;
-using System.Windows.Forms;
+namespace CompSci.zClasswork.Tests;
 
 public class Form1 : Form
 {

@@ -1,0 +1,15 @@
+C:\Users\ihoph\RiderProjects\CompSci\zClasswork\GenericCollections\bin\Debug\net9.0\GenericCollections.exe
+C:\Users\ihoph\RiderProjects\CompSci\zClasswork\GenericCollections\bin\Debug\net9.0\GenericCollections.deps.json
+C:\Users\ihoph\RiderProjects\CompSci\zClasswork\GenericCollections\bin\Debug\net9.0\GenericCollections.runtimeconfig.json
+C:\Users\ihoph\RiderProjects\CompSci\zClasswork\GenericCollections\bin\Debug\net9.0\GenericCollections.dll
+C:\Users\ihoph\RiderProjects\CompSci\zClasswork\GenericCollections\bin\Debug\net9.0\GenericCollections.pdb
+C:\Users\ihoph\RiderProjects\CompSci\zClasswork\GenericCollections\obj\Debug\net9.0\GenericCollections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ihoph\RiderProjects\CompSci\zClasswork\GenericCollections\obj\Debug\net9.0\GenericCollections.AssemblyInfoInputs.cache
+C:\Users\ihoph\RiderProjects\CompSci\zClasswork\GenericCollections\obj\Debug\net9.0\GenericCollections.AssemblyInfo.cs
+C:\Users\ihoph\RiderProjects\CompSci\zClasswork\GenericCollections\obj\Debug\net9.0\GenericCollections.csproj.CoreCompileInputs.cache
+C:\Users\ihoph\RiderProjects\CompSci\zClasswork\GenericCollections\obj\Debug\net9.0\GenericCollections.sourcelink.json
+C:\Users\ihoph\RiderProjects\CompSci\zClasswork\GenericCollections\obj\Debug\net9.0\GenericCollections.dll
+C:\Users\ihoph\RiderProjects\CompSci\zClasswork\GenericCollections\obj\Debug\net9.0\refint\GenericCollections.dll
+C:\Users\ihoph\RiderProjects\CompSci\zClasswork\GenericCollections\obj\Debug\net9.0\GenericCollections.pdb
+C:\Users\ihoph\RiderProjects\CompSci\zClasswork\GenericCollections\obj\Debug\net9.0\GenericCollections.genruntimeconfig.cache
+C:\Users\ihoph\RiderProjects\CompSci\zClasswork\GenericCollections\obj\Debug\net9.0\ref\GenericCollections.dll

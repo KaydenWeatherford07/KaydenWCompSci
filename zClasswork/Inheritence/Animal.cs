@@ -1,4 +1,4 @@
-namespace Inheritence;
+namespace CompSci.zClasswork.Inheritence;
 
 public abstract class Animal
 {

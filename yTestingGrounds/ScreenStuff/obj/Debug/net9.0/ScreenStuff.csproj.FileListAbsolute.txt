@@ -1,0 +1,15 @@
+C:\Users\ihoph\RiderProjects\CompSci\yTestingGrounds\ScreenStuff\obj\Debug\net9.0\ScreenStuff.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ihoph\RiderProjects\CompSci\yTestingGrounds\ScreenStuff\obj\Debug\net9.0\ScreenStuff.AssemblyInfoInputs.cache
+C:\Users\ihoph\RiderProjects\CompSci\yTestingGrounds\ScreenStuff\obj\Debug\net9.0\ScreenStuff.AssemblyInfo.cs
+C:\Users\ihoph\RiderProjects\CompSci\yTestingGrounds\ScreenStuff\obj\Debug\net9.0\ScreenStuff.csproj.CoreCompileInputs.cache
+C:\Users\ihoph\RiderProjects\CompSci\yTestingGrounds\ScreenStuff\obj\Debug\net9.0\ScreenStuff.sourcelink.json
+C:\Users\ihoph\RiderProjects\CompSci\yTestingGrounds\ScreenStuff\bin\Debug\net9.0\ScreenStuff.exe
+C:\Users\ihoph\RiderProjects\CompSci\yTestingGrounds\ScreenStuff\bin\Debug\net9.0\ScreenStuff.deps.json
+C:\Users\ihoph\RiderProjects\CompSci\yTestingGrounds\ScreenStuff\bin\Debug\net9.0\ScreenStuff.runtimeconfig.json
+C:\Users\ihoph\RiderProjects\CompSci\yTestingGrounds\ScreenStuff\bin\Debug\net9.0\ScreenStuff.dll
+C:\Users\ihoph\RiderProjects\CompSci\yTestingGrounds\ScreenStuff\bin\Debug\net9.0\ScreenStuff.pdb
+C:\Users\ihoph\RiderProjects\CompSci\yTestingGrounds\ScreenStuff\obj\Debug\net9.0\ScreenStuff.dll
+C:\Users\ihoph\RiderProjects\CompSci\yTestingGrounds\ScreenStuff\obj\Debug\net9.0\refint\ScreenStuff.dll
+C:\Users\ihoph\RiderProjects\CompSci\yTestingGrounds\ScreenStuff\obj\Debug\net9.0\ScreenStuff.pdb
+C:\Users\ihoph\RiderProjects\CompSci\yTestingGrounds\ScreenStuff\obj\Debug\net9.0\ScreenStuff.genruntimeconfig.cache
+C:\Users\ihoph\RiderProjects\CompSci\yTestingGrounds\ScreenStuff\obj\Debug\net9.0\ref\ScreenStuff.dll

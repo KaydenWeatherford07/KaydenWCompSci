@@ -1,0 +1,15 @@
+C:\Users\ihoph\RiderProjects\CompSci\zClasswork\Generics\bin\Debug\net9.0\Generics.exe
+C:\Users\ihoph\RiderProjects\CompSci\zClasswork\Generics\bin\Debug\net9.0\Generics.deps.json
+C:\Users\ihoph\RiderProjects\CompSci\zClasswork\Generics\bin\Debug\net9.0\Generics.runtimeconfig.json
+C:\Users\ihoph\RiderProjects\CompSci\zClasswork\Generics\bin\Debug\net9.0\Generics.dll
+C:\Users\ihoph\RiderProjects\CompSci\zClasswork\Generics\bin\Debug\net9.0\Generics.pdb
+C:\Users\ihoph\RiderProjects\CompSci\zClasswork\Generics\obj\Debug\net9.0\Generics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ihoph\RiderProjects\CompSci\zClasswork\Generics\obj\Debug\net9.0\Generics.AssemblyInfoInputs.cache
+C:\Users\ihoph\RiderProjects\CompSci\zClasswork\Generics\obj\Debug\net9.0\Generics.AssemblyInfo.cs
+C:\Users\ihoph\RiderProjects\CompSci\zClasswork\Generics\obj\Debug\net9.0\Generics.csproj.CoreCompileInputs.cache
+C:\Users\ihoph\RiderProjects\CompSci\zClasswork\Generics\obj\Debug\net9.0\Generics.sourcelink.json
+C:\Users\ihoph\RiderProjects\CompSci\zClasswork\Generics\obj\Debug\net9.0\Generics.dll
+C:\Users\ihoph\RiderProjects\CompSci\zClasswork\Generics\obj\Debug\net9.0\refint\Generics.dll
+C:\Users\ihoph\RiderProjects\CompSci\zClasswork\Generics\obj\Debug\net9.0\Generics.pdb
+C:\Users\ihoph\RiderProjects\CompSci\zClasswork\Generics\obj\Debug\net9.0\Generics.genruntimeconfig.cache
+C:\Users\ihoph\RiderProjects\CompSci\zClasswork\Generics\obj\Debug\net9.0\ref\Generics.dll

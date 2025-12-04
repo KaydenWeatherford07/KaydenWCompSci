@@ -1,8 +1,8 @@
-namespace Inheritence;
+namespace CompSci.zClasswork.Inheritence;
 
-public sealed class Cat : Animal
+public sealed class Cat : Mammal
 {
-    public Cat(string name, int age) : base(name, age)
+    public Cat(string name, int age, string furColor) : base(name, age, furColor)
     {
         
     }

@@ -1,0 +1,8 @@
+C:\Users\ihoph\RiderProjects\CompSci\obj\Debug\net9.0\CompSci.csproj.AssemblyReference.cache
+C:\Users\ihoph\RiderProjects\CompSci\obj\Debug\net9.0\Enviroment1.Form1.resources
+C:\Users\ihoph\RiderProjects\CompSci\obj\Debug\net9.0\CompSci.csproj.GenerateResource.cache
+C:\Users\ihoph\RiderProjects\CompSci\obj\Debug\net9.0\CompSci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ihoph\RiderProjects\CompSci\obj\Debug\net9.0\CompSci.AssemblyInfoInputs.cache
+C:\Users\ihoph\RiderProjects\CompSci\obj\Debug\net9.0\CompSci.AssemblyInfo.cs
+C:\Users\ihoph\RiderProjects\CompSci\obj\Debug\net9.0\CompSci.csproj.CoreCompileInputs.cache
+C:\Users\ihoph\RiderProjects\CompSci\obj\Debug\net9.0\CompSci.sourcelink.json
