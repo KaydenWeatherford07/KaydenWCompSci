@@ -1,0 +1,1001 @@
+employee_id,date_of_birth,hire_date,employment_status,department,role,city,state,region,base_salary_usd,product_line,quota_usd,sales_ytd_usd
+1005169,7/2/1998,12/14/2023,Active,Sales,Operations Coordinator,Denver,CO,Midwest,64672,Professional Services,661765,426216
+1011618,7/11/1997,4/18/2020,Active,Customer Success,Marketing Specialist,Seattle,WA,South,59991,Hardware,242828,132235
+1017833,2/8/1995,1/29/2026,Terminated,Marketing,Marketing Specialist,Boston,MA,South,81314,SaaS,764911,747630
+1023731,9/2/2001,2/16/2018,Active,Finance,Sales Representative,Seattle,WA,Midwest,88066,Hardware,504400,516042
+1036509,1/13/2000,7/16/2020,Active,Finance,Sales Representative,Miami,FL,West,80268,Support Plans,775298,1102099
+1037860,9/7/1974,4/13/2022,Terminated,Operations,Account Executive,Houston,TX,Midwest,85343,Hardware,514620,570186
+1050001,11/25/1996,4/9/2024,Active,Customer Success,Sales Representative,Los Angeles,CA,Northeast,64411,Subscriptions,218463,215388
+1051085,6/16/1974,1/18/2025,Active,Marketing,Operations Coordinator,Phoenix,AZ,West,83471,SaaS,905360,942454
+1068714,1/25/1964,5/15/2017,OnLeave,Sales Ops,Financial Analyst,Dallas,TX,West,58908,Subscriptions,720329,687637
+1078664,11/13/1997,2/3/2016,OnLeave,Operations,Operations Coordinator,Seattle,WA,South,52079,Subscriptions,1182998,469812
+1089569,7/23/1992,7/5/2025,Active,Marketing,Sales Operations Analyst,Philadelphia,PA,South,68866,SaaS,1062751,1467059
+1105120,12/25/1996,1/20/2018,Active,IT,Operations Coordinator,Philadelphia,PA,Northeast,51702,Subscriptions,528544,620556
+1110135,6/4/1972,7/27/2025,Active,Sales,Marketing Specialist,New York,NY,Northeast,76262,Subscriptions,244632,91360
+1110379,8/23/1996,8/11/2019,Active,Sales,HR Generalist,Phoenix,AZ,West,70959,Hardware,917195,1329944
+1127248,3/26/1977,4/21/2016,Active,Customer Success,Sales Operations Analyst,Boston,MA,Midwest,82539,Professional Services,1042359,680409
+1143248,4/28/1989,6/15/2020,Terminated,Operations,Account Executive,Seattle,WA,Midwest,88403,SaaS,533286,464682
+1146845,6/15/1995,9/8/2021,Active,Finance,Sales Manager,Los Angeles,CA,Midwest,140475,SaaS,376152,145896
+1172718,9/20/2002,7/10/2021,Terminated,Sales Ops,Customer Success Manager,Seattle,WA,Northeast,135331,Subscriptions,359864,288866
+1197626,3/13/1967,10/15/2024,Active,Finance,Sales Manager,New York,NY,West,150526,Hardware,600526,128010
+1197952,6/10/1999,7/20/2025,OnLeave,Sales,Customer Success Manager,Atlanta,GA,South,135529,Professional Services,1038079,1439457
+1209089,2/26/1986,5/25/2020,OnLeave,Sales,Account Executive,Chicago,IL,Northeast,77960,Professional Services,1082945,1391101
+1220897,12/15/1975,12/20/2022,Active,Sales,Financial Analyst,San Jose,CA,Northeast,48537,Subscriptions,920164,1026431
+1241236,8/14/2008,5/19/2023,Active,Sales Ops,IT Support Specialist,Miami,FL,West,55449,Professional Services,490605,609755
+1243512,6/5/1994,11/25/2016,Active,Finance,Marketing Specialist,Philadelphia,PA,West,92479,Hardware,1141322,1609358
+1246505,11/5/1996,8/17/2022,Active,HR,Sales Manager,Miami,FL,West,149875,Professional Services,347772,539911
+1267695,4/24/1990,7/24/2020,Active,Operations,Sales Operations Analyst,Atlanta,GA,South,92145,Subscriptions,276804,398331
+1272746,11/8/1975,4/25/2017,Active,Sales,Account Executive,San Jose,CA,Midwest,85067,Support Plans,1031746,1435382
+1278745,11/11/1990,2/28/2023,Active,HR,IT Support Specialist,Denver,CO,South,89277,Professional Services,1022262,291031
+1282711,9/21/2000,9/14/2023,OnLeave,Sales,Sales Representative,New York,NY,West,88857,Professional Services,1144823,1523120
+1298317,7/10/1991,5/24/2018,Active,Sales,Financial Analyst,Dallas,TX,Northeast,51431,Hardware,942202,1132121
+1299968,4/18/2005,2/3/2023,Active,Finance,Account Executive,Dallas,TX,Northeast,55006,Hardware,1117947,432038
+1317100,7/14/1994,11/13/2024,OnLeave,IT,Marketing Specialist,Denver,CO,Midwest,86712,Professional Services,778577,581793
+1340644,4/3/1978,7/17/2024,Active,Operations,IT Support Specialist,Philadelphia,PA,South,87123,Support Plans,629048,555079
+1346932,1/13/2007,4/23/2022,Active,HR,Sales Operations Analyst,San Jose,CA,Northeast,96803,Professional Services,241218,347744
+1352813,3/15/1998,2/7/2016,Active,IT,Operations Coordinator,New York,NY,Midwest,55712,Support Plans,416026,609823
+1353673,7/11/1969,1/31/2025,OnLeave,Customer Success,Customer Success Manager,Los Angeles,CA,West,115578,SaaS,410177,597949
+1356081,3/18/1983,6/9/2016,Active,HR,Customer Success Manager,San Diego,CA,Northeast,94714,Support Plans,1035523,1020909
+1356090,6/28/1984,4/10/2016,Active,Operations,Customer Success Manager,New York,NY,Northeast,137376,Professional Services,1047383,706781
+1369667,1/15/1987,3/28/2017,Active,Sales Ops,Account Executive,Philadelphia,PA,Midwest,78771,SaaS,802230,665457
+1370713,11/2/1969,10/3/2018,Active,IT,Senior Account Executive,San Antonio,TX,Northeast,116270,Subscriptions,188830,152024
+1372866,1/28/1991,8/8/2016,Active,Customer Success,HR Generalist,Seattle,WA,Midwest,63862,Hardware,944874,480959
+1373457,11/15/1978,7/25/2025,Active,Sales,Financial Analyst,Atlanta,GA,South,83144,Support Plans,1123412,286959
+1376988,10/8/1982,8/20/2017,Active,IT,Account Executive,Miami,FL,Midwest,77202,Subscriptions,182513,283337
+1387622,1/23/1961,7/26/2018,Active,Sales Ops,Account Executive,Boston,MA,Northeast,86542,Professional Services,851761,1293260
+1396593,12/26/1990,2/1/2020,Active,IT,Sales Representative,Miami,FL,Northeast,112479,Subscriptions,454356,262848
+1400187,10/6/1967,3/27/2023,OnLeave,IT,Account Executive,Boston,MA,South,61468,Subscriptions,1144885,1318214
+1417581,9/14/2004,7/24/2017,Active,Finance,Financial Analyst,San Jose,CA,South,68653,Hardware,1161194,370069
+1419267,1/13/1984,11/10/2018,Active,Sales,IT Support Specialist,Chicago,IL,Northeast,60227,Subscriptions,231680,139345
+1442997,9/28/2007,8/25/2017,Active,Customer Success,Financial Analyst,Los Angeles,CA,Midwest,62634,Professional Services,513998,332427
+1447175,9/6/1967,9/2/2023,Active,Operations,Sales Representative,San Diego,CA,Midwest,91895,Professional Services,846650,1111709
+1453298,5/7/1991,4/21/2021,Terminated,Sales Ops,Sales Operations Analyst,Los Angeles,CA,Northeast,58765,Professional Services,832728,392562
+1454017,5/18/2005,2/17/2023,OnLeave,Finance,Operations Coordinator,Chicago,IL,South,50801,Professional Services,963946,1255908
+1455114,10/14/1983,11/10/2022,Active,HR,Customer Success Manager,Dallas,TX,Northeast,92725,Hardware,857480,1058656
+1459128,3/3/1988,9/30/2018,Active,Operations,Marketing Specialist,Denver,CO,Northeast,86654,Professional Services,575231,856342
+1464482,11/30/1972,1/2/2023,OnLeave,IT,HR Generalist,Houston,TX,West,46904,Professional Services,1031393,295224
+1474804,9/17/1987,5/21/2019,Active,Finance,Sales Manager,Phoenix,AZ,South,118552,Support Plans,909076,656693
+1487563,1/25/1999,12/2/2025,Active,HR,Sales Operations Analyst,San Antonio,TX,West,79400,Support Plans,182376,39487
+1508667,6/14/1973,8/10/2017,Active,Sales,IT Support Specialist,Los Angeles,CA,West,64534,Hardware,571036,706961
+1534467,4/6/1978,9/25/2024,Active,Operations,Financial Analyst,Dallas,TX,West,46358,Hardware,1121553,1364145
+1541221,7/26/1988,3/28/2019,Active,Operations,Marketing Specialist,Philadelphia,PA,South,60727,SaaS,968987,270640
+1544166,9/13/1965,3/2/2016,OnLeave,Marketing,Sales Manager,Seattle,WA,South,104439,Professional Services,544109,629414
+1545084,10/13/1975,10/8/2023,Active,HR,Customer Success Manager,New York,NY,Midwest,129020,Professional Services,360160,222804
+1551449,11/25/1991,1/17/2026,Active,Operations,Senior Account Executive,Boston,MA,South,156099,Support Plans,544724,309526
+1559227,3/2/1975,9/20/2016,Terminated,Marketing,Financial Analyst,Denver,CO,South,90191,Hardware,1180468,792447
+1561403,3/10/2002,11/25/2019,Active,Customer Success,Sales Operations Analyst,Miami,FL,West,97934,Subscriptions,671489,653945
+1584994,2/5/1969,8/26/2017,Active,HR,Sales Manager,San Diego,CA,South,149774,Professional Services,1106020,1246445
+1590503,11/11/1964,6/4/2020,Terminated,Sales Ops,Sales Operations Analyst,San Jose,CA,Midwest,106411,Subscriptions,766721,253537
+1596886,9/4/1978,1/20/2024,OnLeave,Marketing,Sales Operations Analyst,Dallas,TX,Northeast,121509,Subscriptions,631675,341057
+1600289,4/22/1985,2/28/2016,Terminated,Sales,Account Executive,Atlanta,GA,Midwest,104195,SaaS,1106281,1050872
+1600701,5/12/2003,12/29/2021,Active,HR,Sales Representative,San Antonio,TX,West,123268,Professional Services,998772,1212240
+1611845,4/14/1973,9/20/2016,OnLeave,Customer Success,Marketing Specialist,Atlanta,GA,South,46434,Hardware,916045,184353
+1613413,1/6/1994,1/2/2022,Active,Marketing,Sales Operations Analyst,Philadelphia,PA,West,75754,SaaS,492785,372954
+1625115,10/20/1970,5/22/2024,OnLeave,Customer Success,Sales Manager,Denver,CO,Northeast,147411,Subscriptions,516492,111728
+1628477,2/14/1972,4/8/2024,OnLeave,Finance,IT Support Specialist,Houston,TX,South,67298,Professional Services,1151486,777724
+1628960,3/27/1997,9/27/2023,Active,Sales Ops,Sales Representative,Seattle,WA,Northeast,78099,SaaS,713536,853744
+1640915,5/27/1967,4/12/2025,Active,Operations,Marketing Specialist,Los Angeles,CA,Midwest,84600,Support Plans,829709,476289
+1643675,5/29/2008,10/16/2021,Active,Sales,Operations Coordinator,Los Angeles,CA,South,48198,Professional Services,585890,155384
+1654203,3/16/1974,10/4/2024,Active,Sales,Sales Operations Analyst,Houston,TX,Northeast,67259,Subscriptions,730001,961833
+1697010,4/2/1968,11/17/2017,Active,IT,Sales Manager,Denver,CO,West,118595,SaaS,370599,563383
+1702866,9/26/1967,9/15/2019,Active,Customer Success,Account Executive,Houston,TX,Northeast,80956,SaaS,228609,79991
+1721413,8/3/2004,4/12/2021,OnLeave,Customer Success,Account Executive,San Jose,CA,Northeast,116040,Support Plans,403315,234814
+1724491,1/11/1963,1/27/2025,Active,HR,Operations Coordinator,San Jose,CA,South,82208,Hardware,1048479,738758
+1743852,7/21/1979,1/27/2024,Active,Customer Success,Sales Representative,Los Angeles,CA,Midwest,76512,Hardware,808992,491340
+1752597,2/10/1964,7/4/2023,OnLeave,Sales,Operations Coordinator,Atlanta,GA,West,82378,Subscriptions,722246,351728
+1764434,12/1/1996,12/31/2025,OnLeave,Sales,Sales Manager,Chicago,IL,West,120150,Subscriptions,498097,151221
+1775211,10/27/1994,6/12/2019,Active,Finance,Marketing Specialist,San Jose,CA,Midwest,66996,Subscriptions,1184950,589397
+1798483,6/6/2001,3/6/2023,Active,HR,Sales Manager,Philadelphia,PA,Northeast,190673,Subscriptions,795587,560666
+1806578,9/9/1993,5/31/2019,Active,HR,Operations Coordinator,Los Angeles,CA,Midwest,65971,Hardware,472129,692197
+1809503,1/25/1975,6/17/2021,Active,Sales,Sales Manager,New York,NY,Midwest,167391,Professional Services,1013716,1251204
+1829112,6/20/1967,1/17/2019,Active,Marketing,HR Generalist,Boston,MA,South,65258,Professional Services,749119,1036234
+1854139,4/29/2003,2/16/2020,Active,Marketing,Sales Operations Analyst,Los Angeles,CA,South,81382,Support Plans,175205,204037
+1875569,1/30/1973,7/1/2023,Active,Operations,Financial Analyst,San Antonio,TX,Midwest,45069,Subscriptions,706651,1098299
+1876050,1/19/1978,4/1/2024,Active,HR,Sales Manager,Seattle,WA,South,171613,SaaS,595272,881911
+1890989,5/22/1986,4/27/2017,Active,Operations,Financial Analyst,Boston,MA,Northeast,50096,Hardware,1196977,977360
+1893002,12/9/1998,7/29/2016,Active,Sales Ops,IT Support Specialist,Philadelphia,PA,Northeast,78522,SaaS,1084352,585908
+1898103,10/2/1991,7/30/2025,Active,Sales Ops,Customer Success Manager,Boston,MA,South,91933,Subscriptions,429191,605401
+1907137,8/24/1987,8/25/2020,OnLeave,Customer Success,Financial Analyst,Boston,MA,West,72143,Professional Services,218553,321254
+1907149,2/6/1994,4/10/2021,Active,Customer Success,Financial Analyst,San Jose,CA,Northeast,61787,Support Plans,1076618,221761
+1917862,12/31/1997,12/9/2024,Active,Customer Success,Sales Manager,Phoenix,AZ,Midwest,156445,Hardware,1110892,248914
+1917956,10/23/1967,4/21/2025,Terminated,Sales Ops,Sales Representative,San Antonio,TX,South,83040,SaaS,150623,85435
+1918224,4/3/2005,6/5/2023,Active,Customer Success,Sales Operations Analyst,Philadelphia,PA,South,98815,Support Plans,347381,373564
+1926251,5/19/1987,10/14/2022,Active,Finance,Sales Operations Analyst,Houston,TX,South,69235,Professional Services,161694,76544
+1932166,1/13/1980,3/24/2016,Terminated,Sales Ops,Customer Success Manager,Seattle,WA,Northeast,117613,Subscriptions,888380,955134
+1935189,10/23/2002,6/2/2024,Active,Operations,Marketing Specialist,Dallas,TX,South,48441,Professional Services,1134935,352259
+1947674,3/4/1972,2/19/2024,Terminated,HR,Sales Manager,Phoenix,AZ,Northeast,120900,Subscriptions,260496,405854
+1960878,9/28/1974,7/24/2016,OnLeave,Finance,Sales Manager,Miami,FL,Northeast,126650,SaaS,1090222,1249046
+1960911,12/2/1962,9/2/2016,Active,Finance,Senior Account Executive,Philadelphia,PA,Midwest,92909,Support Plans,252064,334028
+1962003,2/24/1978,9/24/2023,Terminated,Sales,Senior Account Executive,San Diego,CA,Midwest,117778,SaaS,669566,970353
+1971335,11/5/1984,8/5/2021,Active,Operations,Sales Representative,Chicago,IL,Midwest,78653,Support Plans,847590,1037100
+1972797,12/17/1974,8/8/2020,Terminated,Sales,Financial Analyst,Houston,TX,West,86031,Hardware,781397,681648
+1973289,12/18/1961,4/29/2017,Active,Marketing,Senior Account Executive,New York,NY,Midwest,122341,Professional Services,1063949,594196
+1973629,2/20/2008,2/24/2021,Terminated,Customer Success,Sales Manager,Dallas,TX,Midwest,132689,Subscriptions,489095,465961
+2053932,10/29/2008,6/18/2025,Active,Operations,Sales Manager,Chicago,IL,Midwest,105901,Professional Services,759478,943835
+2064032,7/3/1995,9/11/2021,Terminated,IT,Customer Success Manager,New York,NY,West,98568,Professional Services,817282,1055017
+2065464,3/26/2003,4/2/2017,Active,IT,HR Generalist,Los Angeles,CA,Northeast,50494,Professional Services,522897,686644
+2078500,8/24/1979,1/24/2018,Active,Finance,Customer Success Manager,Denver,CO,South,122807,Hardware,1142776,1517586
+2082074,1/4/1993,2/28/2017,OnLeave,Operations,HR Generalist,Dallas,TX,Northeast,59259,SaaS,842502,1303785
+2083040,7/6/1976,4/17/2020,OnLeave,IT,Customer Success Manager,Chicago,IL,Midwest,139227,SaaS,1009872,1051768
+2090251,1/29/1973,7/11/2016,OnLeave,Sales,Sales Representative,Los Angeles,CA,Northeast,88043,Subscriptions,375993,425654
+2099120,8/28/1994,9/13/2021,Active,HR,Sales Representative,Boston,MA,Midwest,63720,Support Plans,403347,230455
+2109628,9/19/1968,10/5/2019,Active,IT,Customer Success Manager,New York,NY,South,121190,SaaS,1113206,1218800
+2113809,11/12/1991,12/22/2023,OnLeave,IT,Account Executive,San Antonio,TX,South,110934,Professional Services,835276,876498
+2136252,11/30/2001,10/23/2016,OnLeave,Marketing,Sales Manager,Dallas,TX,Northeast,138339,Professional Services,150630,171172
+2143944,6/13/1991,5/19/2016,Active,Operations,Account Executive,Chicago,IL,Northeast,89638,Subscriptions,762894,752590
+2168013,11/22/1963,11/26/2016,Active,IT,Sales Representative,Phoenix,AZ,West,108985,Professional Services,518939,752180
+2184552,3/25/1976,4/17/2017,Active,Finance,IT Support Specialist,Atlanta,GA,Midwest,71663,Support Plans,876954,748156
+2206542,9/26/1988,10/9/2022,Active,Customer Success,Customer Success Manager,Los Angeles,CA,Midwest,115505,Support Plans,1152649,668467
+2216977,11/8/1979,2/16/2020,Active,Sales,Financial Analyst,Los Angeles,CA,West,54404,SaaS,1050830,259154
+2221043,3/9/1993,8/12/2017,Active,IT,Customer Success Manager,Phoenix,AZ,Northeast,124222,Hardware,372323,456189
+2222863,11/4/1994,3/27/2019,Active,Sales Ops,IT Support Specialist,Houston,TX,Northeast,78956,Subscriptions,474856,616056
+2225733,5/27/2006,12/18/2023,OnLeave,Sales,Sales Representative,Boston,MA,Northeast,125871,SaaS,940130,1034583
+2232549,9/13/1996,2/8/2025,Active,Marketing,Customer Success Manager,Los Angeles,CA,Northeast,146209,Subscriptions,1001474,575817
+2237152,5/30/2007,3/28/2020,Terminated,Sales Ops,IT Support Specialist,Dallas,TX,West,46613,Professional Services,874891,588609
+2253393,1/20/1988,10/17/2016,Active,Operations,Marketing Specialist,Houston,TX,Northeast,89981,SaaS,599390,578155
+2264667,3/17/1989,6/27/2022,Active,Finance,Financial Analyst,New York,NY,South,51267,Support Plans,1198223,659118
+2282710,9/11/1981,8/6/2019,Active,Sales,HR Generalist,Denver,CO,West,83497,Professional Services,771079,915483
+2286542,10/12/1977,6/21/2023,Active,Operations,IT Support Specialist,Chicago,IL,South,74669,Support Plans,1015285,936933
+2308739,8/9/1968,4/25/2024,Terminated,Sales,Senior Account Executive,Los Angeles,CA,Northeast,121513,Professional Services,992793,746691
+2309939,6/5/2003,1/18/2017,Active,Sales Ops,Sales Manager,New York,NY,Midwest,105721,SaaS,539756,314818
+2317105,1/29/1965,1/8/2020,Active,Operations,IT Support Specialist,Philadelphia,PA,Northeast,51788,SaaS,488446,620124
+2319790,12/1/1999,8/2/2021,Active,Operations,Sales Operations Analyst,Los Angeles,CA,Northeast,62526,Hardware,340840,541319
+2341052,5/5/1981,4/24/2017,OnLeave,IT,Operations Coordinator,Philadelphia,PA,West,74746,SaaS,1000638,1085708
+2347440,2/11/2003,8/10/2023,Active,Customer Success,Financial Analyst,Atlanta,GA,West,85671,Subscriptions,1086907,226314
+2348125,6/23/1963,12/18/2021,Active,Finance,Marketing Specialist,Dallas,TX,Midwest,71970,Subscriptions,688002,1002553
+2353223,4/18/2001,3/3/2017,Active,Marketing,Account Executive,Houston,TX,South,70366,Hardware,907561,799023
+2384285,6/8/1994,11/9/2019,Active,IT,Sales Manager,San Antonio,TX,Northeast,110316,Subscriptions,206779,249237
+2385367,9/28/1988,11/7/2021,Active,IT,Customer Success Manager,Chicago,IL,Midwest,96364,Professional Services,466801,179397
+2418885,3/18/1980,11/30/2021,Active,Operations,IT Support Specialist,Miami,FL,West,63255,Hardware,363027,80178
+2424906,5/25/1964,11/28/2017,Active,Finance,IT Support Specialist,Los Angeles,CA,Northeast,67163,Support Plans,797760,331482
+2464434,6/1/1965,5/23/2025,Terminated,Marketing,IT Support Specialist,San Antonio,TX,South,55333,SaaS,1143595,1178756
+2479667,4/16/1976,12/25/2025,Active,Customer Success,IT Support Specialist,San Jose,CA,West,85537,SaaS,665595,755462
+2482124,4/9/1997,10/12/2023,Terminated,Customer Success,Customer Success Manager,Los Angeles,CA,Northeast,132451,SaaS,430336,606689
+2491252,12/4/1993,8/4/2025,Active,Customer Success,Sales Representative,Phoenix,AZ,Northeast,123645,Subscriptions,911193,1269540
+2494440,12/1/1984,3/21/2020,Active,Finance,Customer Success Manager,San Jose,CA,South,121109,Hardware,1058411,340283
+2494565,5/18/1962,9/29/2016,Terminated,Sales,IT Support Specialist,Denver,CO,West,78901,SaaS,1075550,1595555
+2496244,5/7/2002,12/30/2017,Active,Marketing,IT Support Specialist,Philadelphia,PA,West,67111,Support Plans,988503,1355600
+2497805,9/3/1989,11/20/2017,Terminated,Operations,Marketing Specialist,Seattle,WA,Midwest,60617,Professional Services,240357,239057
+2522999,8/20/1997,1/31/2021,Active,Sales Ops,Marketing Specialist,Chicago,IL,West,48888,SaaS,1016302,681593
+2525042,7/24/1982,5/3/2017,Active,Marketing,Account Executive,San Diego,CA,South,115025,Professional Services,293139,400909
+2529198,8/20/1968,1/21/2022,Active,Finance,Account Executive,San Antonio,TX,Northeast,84165,SaaS,976496,688180
+2531078,4/12/2000,2/25/2025,Active,Sales Ops,Sales Manager,San Diego,CA,Northeast,112393,Professional Services,156381,96015
+2532619,10/15/1985,4/22/2020,Active,IT,Operations Coordinator,Houston,TX,South,75996,Professional Services,249663,102125
+2545534,12/9/1995,9/20/2017,OnLeave,IT,Sales Operations Analyst,San Jose,CA,Northeast,83364,Hardware,218973,349241
+2596296,9/9/1993,2/5/2024,Active,IT,Customer Success Manager,Los Angeles,CA,Midwest,129832,Support Plans,289287,168648
+2605911,2/17/1985,9/19/2022,Active,HR,Account Executive,Phoenix,AZ,Midwest,53151,Hardware,570459,833230
+2608297,2/6/2004,10/4/2018,Active,IT,Senior Account Executive,Boston,MA,Midwest,141904,Subscriptions,220347,113228
+2608947,9/2/1989,12/26/2021,Active,Sales Ops,Customer Success Manager,Philadelphia,PA,Northeast,106985,Professional Services,376227,484898
+2613433,3/18/1963,5/5/2023,Active,Sales,Marketing Specialist,Los Angeles,CA,South,79504,Subscriptions,1058671,619630
+2613968,7/2/2002,6/16/2021,Active,Marketing,Sales Operations Analyst,San Diego,CA,Midwest,113680,Subscriptions,1141470,1105492
+2635895,5/1/1996,12/20/2017,Active,Operations,Marketing Specialist,San Antonio,TX,Midwest,65693,SaaS,470558,362423
+2639373,6/17/1972,11/27/2019,Active,Finance,Account Executive,Phoenix,AZ,Midwest,73950,Support Plans,753365,480514
+2642658,12/31/1963,6/7/2024,Active,Operations,Operations Coordinator,Los Angeles,CA,South,72611,Subscriptions,1027770,601487
+2656828,10/11/1975,2/19/2020,Active,Sales Ops,Customer Success Manager,Seattle,WA,Midwest,104805,SaaS,899179,196166
+2659492,12/24/1961,2/25/2019,Terminated,HR,Account Executive,Chicago,IL,West,73601,SaaS,1094531,984441
+2659937,4/19/1971,6/23/2018,Active,IT,Marketing Specialist,Denver,CO,Midwest,57981,Subscriptions,836013,1169852
+2664418,3/26/1985,8/18/2023,Active,Finance,Sales Operations Analyst,Seattle,WA,South,83487,Hardware,357035,144800
+2669743,10/2/1981,3/14/2017,Terminated,Operations,Operations Coordinator,Houston,TX,Northeast,71066,Hardware,565645,143164
+2692883,2/19/2001,9/10/2020,Terminated,Finance,Sales Operations Analyst,Seattle,WA,Midwest,103320,SaaS,1140600,753988
+2698068,5/30/2002,5/30/2024,Active,Sales Ops,Customer Success Manager,Seattle,WA,Northeast,86422,Support Plans,933792,1136159
+2701576,7/17/1966,3/4/2024,Active,Customer Success,Financial Analyst,Phoenix,AZ,Midwest,45420,Professional Services,918210,577573
+2712100,3/22/1987,1/21/2022,Terminated,IT,HR Generalist,Philadelphia,PA,Northeast,72520,Subscriptions,166594,203981
+2712670,8/18/1973,4/21/2018,Active,Sales Ops,Account Executive,San Antonio,TX,Midwest,82521,Support Plans,709784,650783
+2715711,2/5/1970,10/1/2023,Active,IT,IT Support Specialist,Denver,CO,Midwest,94301,Support Plans,982954,689061
+2730171,1/4/1963,12/1/2022,Active,Operations,IT Support Specialist,Phoenix,AZ,South,93436,SaaS,569821,744030
+2730592,8/23/2003,7/19/2024,Active,Finance,Senior Account Executive,Phoenix,AZ,South,131077,Support Plans,903943,1054429
+2732397,10/21/2008,12/16/2021,Active,Operations,HR Generalist,San Diego,CA,Midwest,50666,Support Plans,188739,76232
+2740789,11/12/1964,2/7/2023,Active,Operations,Customer Success Manager,San Antonio,TX,South,76267,SaaS,998390,1335454
+2756003,7/20/1977,9/8/2022,Active,Operations,HR Generalist,Atlanta,GA,South,68630,SaaS,765056,935293
+2765423,3/9/1977,9/26/2023,Active,Customer Success,Senior Account Executive,San Jose,CA,West,102380,SaaS,656609,166915
+2771594,9/24/2002,11/9/2023,Active,Customer Success,Sales Manager,Seattle,WA,West,148277,SaaS,584043,673233
+2782832,6/1/2006,11/24/2025,OnLeave,IT,Sales Operations Analyst,San Antonio,TX,South,73157,SaaS,955185,1371158
+2784229,3/14/1973,6/14/2023,Terminated,HR,Operations Coordinator,Atlanta,GA,Northeast,88680,Support Plans,328352,144247
+2801041,12/26/1981,10/8/2016,OnLeave,IT,Senior Account Executive,Miami,FL,Northeast,130239,Support Plans,628993,229531
+2808835,5/27/2000,11/21/2024,OnLeave,Marketing,Customer Success Manager,Dallas,TX,West,130423,Professional Services,336092,454859
+2820700,9/2/1987,1/27/2022,Active,Sales,Marketing Specialist,Houston,TX,West,68936,SaaS,392943,503847
+2823138,1/11/1975,8/24/2024,Active,Operations,Senior Account Executive,Houston,TX,South,126821,SaaS,526774,211282
+2830422,7/21/2007,1/14/2019,Active,Marketing,Senior Account Executive,Chicago,IL,West,102870,Professional Services,1101049,1588054
+2839488,2/3/2002,3/6/2019,Active,Sales Ops,Sales Representative,Chicago,IL,South,58166,SaaS,469743,285414
+2841055,1/30/1979,3/1/2016,Active,Finance,Operations Coordinator,Denver,CO,Midwest,88893,Hardware,548576,209290
+2844768,5/14/1994,1/14/2023,Active,Marketing,HR Generalist,Philadelphia,PA,Northeast,73177,Professional Services,1137502,1712894
+2859255,10/18/1967,2/25/2020,Active,Sales Ops,Sales Manager,Miami,FL,Midwest,161559,Professional Services,849713,416618
+2873853,2/19/1978,1/29/2021,Active,IT,Financial Analyst,Phoenix,AZ,Midwest,46152,Subscriptions,991000,594091
+2877351,12/8/1981,11/13/2024,Active,Operations,HR Generalist,Phoenix,AZ,South,53450,Professional Services,598510,316713
+2883041,8/28/2007,12/20/2017,Active,Customer Success,Senior Account Executive,San Antonio,TX,Midwest,106114,Hardware,185652,122744
+2886550,11/8/1980,7/23/2018,Active,IT,Marketing Specialist,Seattle,WA,South,69102,Professional Services,974543,695971
+2889514,3/31/1992,1/14/2024,Active,Operations,Sales Manager,Miami,FL,Northeast,157181,Support Plans,1137416,894260
+2894045,7/28/1992,3/16/2023,Active,IT,Sales Operations Analyst,Denver,CO,Midwest,63432,SaaS,1005236,1509024
+2896670,12/11/1983,4/5/2022,Terminated,HR,Customer Success Manager,Philadelphia,PA,Midwest,107553,Professional Services,1013391,927815
+2902474,11/13/1999,2/4/2017,Active,Finance,Sales Operations Analyst,Denver,CO,West,110163,Support Plans,821457,1266931
+2907241,11/24/1974,5/24/2022,Active,Operations,Customer Success Manager,New York,NY,Midwest,101303,SaaS,792028,504116
+2909818,3/30/1985,4/14/2016,Terminated,HR,Senior Account Executive,Philadelphia,PA,West,131377,SaaS,464273,358720
+2913678,8/6/1998,8/9/2023,Active,Marketing,HR Generalist,New York,NY,West,46978,Hardware,837044,726492
+2917686,11/4/1998,6/23/2025,OnLeave,Operations,IT Support Specialist,Philadelphia,PA,West,69680,Support Plans,699436,172424
+2917934,4/22/1981,4/5/2021,Active,HR,Sales Operations Analyst,San Jose,CA,West,70950,Support Plans,238529,59296
+2942949,5/29/1991,3/25/2025,Active,Marketing,Sales Representative,Chicago,IL,West,114369,Support Plans,339816,159192
+2946753,12/31/1970,6/4/2020,Active,HR,Marketing Specialist,Atlanta,GA,Northeast,84967,SaaS,805581,347899
+2960670,9/5/1991,5/27/2017,Active,Sales,Sales Manager,Boston,MA,Northeast,169220,Professional Services,872599,1085231
+2969225,7/9/1993,5/6/2019,OnLeave,Sales,Customer Success Manager,San Antonio,TX,South,107974,Professional Services,1125269,781606
+2988962,5/22/1974,12/6/2022,Terminated,IT,Marketing Specialist,Dallas,TX,West,57286,Subscriptions,769744,813920
+2990383,8/7/1973,10/29/2021,Terminated,Sales Ops,Account Executive,San Jose,CA,West,63194,Subscriptions,275643,95507
+3005474,2/21/1972,7/16/2019,Active,Marketing,Sales Operations Analyst,Denver,CO,West,78410,Professional Services,889014,567877
+3022170,9/15/1964,4/24/2025,Active,Finance,Account Executive,Dallas,TX,South,118259,SaaS,947420,253293
+3024728,1/5/1976,8/4/2023,Active,Customer Success,HR Generalist,Phoenix,AZ,Northeast,59282,Support Plans,861676,235361
+3026710,7/5/2008,10/7/2017,Terminated,Finance,Financial Analyst,San Jose,CA,West,54906,Subscriptions,346281,313869
+3032327,8/14/1995,2/17/2023,Terminated,HR,Marketing Specialist,Philadelphia,PA,West,51099,SaaS,276644,226966
+3040465,7/30/2005,3/6/2019,Active,Customer Success,Financial Analyst,Miami,FL,Northeast,81211,Subscriptions,789761,604629
+3042791,5/10/1982,11/21/2025,OnLeave,Operations,Account Executive,New York,NY,South,109934,Professional Services,577325,301136
+3059572,7/7/2002,6/12/2020,Active,Marketing,Customer Success Manager,New York,NY,West,113919,Hardware,257641,94821
+3061357,2/6/1993,1/24/2025,Active,Sales Ops,IT Support Specialist,Atlanta,GA,West,89688,SaaS,463205,148028
+3062185,4/21/2001,7/16/2020,Active,Operations,Sales Operations Analyst,Atlanta,GA,West,84193,Support Plans,1083333,1627765
+3062428,3/30/1973,3/14/2017,Active,Marketing,Financial Analyst,San Jose,CA,Midwest,79226,Hardware,755139,668526
+3077913,10/6/2007,10/22/2025,Terminated,IT,Marketing Specialist,Phoenix,AZ,Northeast,49051,Professional Services,723362,1114677
+3095715,12/8/1978,11/2/2019,Terminated,Sales,Financial Analyst,Boston,MA,Northeast,51795,Support Plans,298786,301431
+3106156,8/16/2002,8/16/2017,Active,Operations,HR Generalist,San Jose,CA,South,90746,Hardware,1184285,1061441
+3121788,12/7/2007,7/11/2018,Terminated,IT,IT Support Specialist,New York,NY,South,77441,SaaS,365206,226500
+3131407,5/3/1998,1/1/2017,Terminated,Finance,Senior Account Executive,Denver,CO,Northeast,151624,Hardware,254983,234083
+3151648,9/6/1998,4/12/2025,OnLeave,Customer Success,Account Executive,San Jose,CA,Northeast,71184,Hardware,345581,343840
+3189436,3/16/2005,11/12/2020,Active,Operations,IT Support Specialist,Seattle,WA,West,60167,Hardware,662848,388271
+3191444,1/12/2007,12/17/2025,Active,Operations,Sales Manager,Boston,MA,South,154160,Support Plans,282670,395389
+3203544,2/15/1963,7/7/2020,Active,Finance,Sales Manager,Atlanta,GA,Northeast,120371,Subscriptions,481584,164209
+3207978,7/10/1964,9/8/2018,Terminated,IT,Sales Manager,Phoenix,AZ,West,159153,Subscriptions,830934,938186
+3220639,10/8/1983,12/6/2022,OnLeave,Marketing,Account Executive,New York,NY,Midwest,89046,Subscriptions,665988,187240
+3222241,9/24/1980,6/6/2024,Terminated,Finance,HR Generalist,Philadelphia,PA,Midwest,73462,Support Plans,1180597,1663200
+3239866,1/14/2002,11/20/2023,Active,Customer Success,Sales Operations Analyst,Atlanta,GA,West,98517,Professional Services,1126420,1124097
+3247235,4/10/2007,11/23/2021,Active,IT,Senior Account Executive,Phoenix,AZ,Midwest,122722,Support Plans,432031,614713
+3249867,8/25/1978,9/26/2021,Active,Sales,Account Executive,Atlanta,GA,Northeast,91501,Subscriptions,1088425,1385694
+3261184,1/21/1981,11/30/2019,OnLeave,Marketing,HR Generalist,Seattle,WA,West,51073,Support Plans,636890,927631
+3281145,3/12/1975,10/28/2016,Terminated,Customer Success,HR Generalist,Dallas,TX,West,68923,Professional Services,825822,711456
+3283075,9/1/1998,6/24/2018,Active,Customer Success,Operations Coordinator,Miami,FL,Midwest,88000,Professional Services,689171,279716
+3287449,2/14/1992,1/27/2024,OnLeave,Customer Success,Sales Operations Analyst,Boston,MA,Midwest,70111,Subscriptions,168180,95098
+3290774,7/8/1992,1/9/2023,Active,Customer Success,Customer Success Manager,New York,NY,South,103300,Hardware,603577,198897
+3302270,7/24/1974,4/16/2023,Active,Operations,Marketing Specialist,San Jose,CA,West,83255,Subscriptions,411858,237041
+3311407,2/1/1968,5/6/2017,Active,Sales,Sales Representative,New York,NY,Northeast,89199,Subscriptions,378934,187484
+3312246,8/10/1998,8/20/2020,Active,Operations,Sales Manager,Atlanta,GA,Northeast,148352,SaaS,870776,988728
+3320510,7/14/1963,12/4/2023,OnLeave,Marketing,IT Support Specialist,Atlanta,GA,West,60980,Support Plans,1118050,1094442
+3321308,9/7/1973,1/9/2021,Active,Customer Success,Sales Manager,Los Angeles,CA,Midwest,151434,Hardware,549239,588398
+3332059,7/12/1997,3/7/2020,Active,IT,HR Generalist,Atlanta,GA,South,88617,Support Plans,1086948,1438034
+3342355,5/29/1983,4/11/2018,Active,HR,HR Generalist,Philadelphia,PA,West,48401,Professional Services,164905,223096
+3349812,6/4/1983,6/6/2018,Active,HR,Account Executive,San Antonio,TX,South,99671,Subscriptions,482628,329400
+3356922,7/2/1988,12/15/2023,Active,HR,Senior Account Executive,Los Angeles,CA,South,131381,Hardware,478107,231111
+3361153,2/11/1977,2/1/2023,OnLeave,Marketing,IT Support Specialist,Dallas,TX,Northeast,61131,SaaS,538987,783505
+3361605,8/6/1989,6/21/2023,Active,Finance,Customer Success Manager,Los Angeles,CA,Midwest,84699,Subscriptions,579428,241005
+3367397,12/30/1970,8/5/2022,Active,IT,Sales Representative,Miami,FL,West,77020,Hardware,573172,446145
+3379626,5/15/1990,5/10/2020,Active,Operations,Sales Operations Analyst,Los Angeles,CA,South,73686,Support Plans,1198514,1616323
+3399317,7/24/1984,10/26/2024,Active,Operations,Account Executive,Philadelphia,PA,South,73163,Professional Services,314227,165214
+3407456,3/27/2001,10/10/2025,Active,Sales,Senior Account Executive,Seattle,WA,South,120823,Subscriptions,796199,524968
+3441970,1/5/1984,4/10/2018,Terminated,Finance,Senior Account Executive,Phoenix,AZ,Midwest,131251,Subscriptions,532622,650854
+3455793,7/3/1985,5/31/2016,Active,Sales,Senior Account Executive,San Jose,CA,West,142788,Hardware,509350,322595
+3485000,2/10/1962,9/2/2023,Active,IT,Operations Coordinator,Miami,FL,South,46402,SaaS,235647,73150
+3499604,11/8/1983,12/24/2016,Active,IT,Senior Account Executive,San Diego,CA,South,138950,Subscriptions,264309,214273
+3501231,9/17/2005,11/10/2016,Active,HR,Senior Account Executive,Atlanta,GA,Midwest,126678,Subscriptions,1197638,846312
+3529754,9/1/2001,5/1/2024,Active,Finance,HR Generalist,Chicago,IL,Midwest,86918,SaaS,986489,718689
+3558633,3/2/1964,7/6/2022,Active,HR,Financial Analyst,Los Angeles,CA,Northeast,87570,SaaS,748150,499786
+3559997,3/2/1967,12/13/2020,Active,HR,IT Support Specialist,Dallas,TX,South,86050,Subscriptions,319605,296105
+3565772,9/26/1969,7/27/2021,Active,Marketing,Sales Operations Analyst,New York,NY,Northeast,88981,Hardware,689631,1056057
+3599963,10/11/1984,11/16/2021,Active,Finance,Senior Account Executive,Los Angeles,CA,South,146525,Hardware,258498,309472
+3602822,5/10/1989,11/26/2021,OnLeave,HR,Operations Coordinator,Phoenix,AZ,Midwest,74111,Professional Services,199724,144180
+3608365,12/8/1982,3/30/2020,Active,Customer Success,Sales Manager,Boston,MA,Midwest,132757,Subscriptions,289746,172412
+3611696,2/16/2007,10/11/2019,Active,Operations,Sales Representative,Houston,TX,West,68793,Professional Services,986438,358860
+3612405,10/1/1999,5/21/2025,Active,Marketing,HR Generalist,San Jose,CA,Northeast,83302,Subscriptions,946327,468305
+3615076,5/17/1976,2/20/2025,Active,Operations,Customer Success Manager,Miami,FL,South,133958,SaaS,167114,130731
+3618578,9/27/2008,10/4/2025,Active,Sales,Financial Analyst,Phoenix,AZ,Midwest,83419,Professional Services,1172327,455489
+3629529,12/12/1975,8/7/2017,OnLeave,IT,Sales Operations Analyst,Denver,CO,Northeast,94237,Support Plans,230201,261218
+3631166,6/29/1980,9/22/2020,Active,Sales Ops,Marketing Specialist,Chicago,IL,South,49392,Subscriptions,294984,72851
+3633370,2/23/1991,6/26/2021,Active,Sales Ops,Financial Analyst,San Diego,CA,Northeast,49572,Support Plans,702132,850720
+3652371,2/23/1979,1/10/2016,Active,Marketing,Operations Coordinator,New York,NY,Midwest,48871,SaaS,747985,461071
+3670271,7/25/1975,11/21/2017,OnLeave,Sales,Marketing Specialist,Dallas,TX,Northeast,84499,Hardware,274377,427124
+3684817,1/25/1990,2/23/2016,Active,Operations,Operations Coordinator,Philadelphia,PA,South,50640,SaaS,696066,602264
+3688459,11/14/1980,9/26/2025,OnLeave,Sales,Account Executive,Philadelphia,PA,South,105661,Support Plans,417828,235899
+3693548,8/2/1978,9/24/2022,Active,Sales,Sales Representative,Los Angeles,CA,West,78215,SaaS,870030,1248703
+3699149,7/30/1972,10/1/2016,OnLeave,Sales,Customer Success Manager,San Jose,CA,West,152069,Subscriptions,900198,619985
+3705392,8/2/1975,9/28/2018,Terminated,Operations,Senior Account Executive,Seattle,WA,Northeast,106643,Professional Services,587359,604783
+3713191,8/21/1995,3/7/2016,Active,Sales,Senior Account Executive,Atlanta,GA,Midwest,122722,Subscriptions,1148733,523609
+3714204,11/5/1996,3/26/2025,Terminated,Marketing,Senior Account Executive,Chicago,IL,West,148638,Hardware,892688,204817
+3714955,12/18/1996,8/23/2018,Active,Sales,Sales Representative,San Diego,CA,Midwest,92459,Support Plans,964000,314843
+3721233,10/6/1996,12/31/2019,Terminated,Marketing,Sales Operations Analyst,Phoenix,AZ,Midwest,88032,Support Plans,294124,367571
+3727909,6/28/1970,8/23/2022,Active,HR,IT Support Specialist,Houston,TX,South,53556,Subscriptions,432916,505624
+3729402,1/3/2001,12/6/2025,OnLeave,IT,Marketing Specialist,New York,NY,Northeast,86053,Professional Services,805149,959789
+3751490,6/30/2001,5/10/2017,Active,Finance,IT Support Specialist,Phoenix,AZ,West,49776,Support Plans,440081,120997
+3757189,11/12/1970,5/29/2025,Active,Customer Success,IT Support Specialist,Houston,TX,Northeast,47333,SaaS,1018608,607515
+3766079,3/26/2005,9/24/2018,Active,Customer Success,HR Generalist,Boston,MA,South,58859,Professional Services,647565,259697
+3771112,3/17/2002,8/17/2024,OnLeave,Marketing,HR Generalist,Philadelphia,PA,West,68009,Hardware,817882,888467
+3773863,8/21/1974,2/4/2017,Active,HR,HR Generalist,Philadelphia,PA,Northeast,78462,SaaS,938899,837831
+3782791,1/26/2006,9/21/2016,Active,Marketing,Marketing Specialist,New York,NY,West,78149,Hardware,224651,166019
+3792420,12/31/2008,10/13/2025,Active,Sales,IT Support Specialist,New York,NY,West,87453,SaaS,966584,886886
+3799609,9/10/1973,12/20/2022,Active,Operations,Marketing Specialist,Phoenix,AZ,South,53693,SaaS,1154661,618765
+3801640,8/30/1990,5/20/2022,Active,Operations,Account Executive,Miami,FL,South,94274,Professional Services,477293,451140
+3810951,1/24/1961,2/28/2017,Active,Finance,IT Support Specialist,Miami,FL,Midwest,86773,Subscriptions,561270,450067
+3813051,7/27/2006,5/22/2017,Active,Finance,HR Generalist,Denver,CO,South,59011,Support Plans,170295,116747
+3821228,2/21/1983,3/9/2021,Active,Customer Success,IT Support Specialist,Houston,TX,Northeast,47179,Hardware,634603,237546
+3822928,4/22/1975,4/24/2016,Terminated,Operations,Marketing Specialist,Miami,FL,South,76670,Hardware,355488,248153
+3829496,12/6/1978,3/11/2021,OnLeave,Marketing,HR Generalist,Los Angeles,CA,Midwest,88388,Professional Services,179655,271107
+3853522,10/31/1975,6/3/2018,Active,Marketing,Marketing Specialist,Atlanta,GA,South,75149,Hardware,843806,1028825
+3855718,8/1/1991,10/27/2018,Active,Sales,Customer Success Manager,New York,NY,South,120918,Professional Services,355401,125778
+3876661,9/2/1962,10/9/2022,OnLeave,Sales Ops,Sales Operations Analyst,Boston,MA,Northeast,79492,Support Plans,228531,212965
+3881348,4/4/1985,8/2/2018,Active,Customer Success,Sales Operations Analyst,Atlanta,GA,South,79534,Support Plans,1114086,1776986
+3892867,11/12/1969,10/30/2021,Active,Finance,HR Generalist,San Diego,CA,West,87760,Subscriptions,1066795,1125743
+3902185,4/2/2008,8/23/2022,Active,IT,Sales Operations Analyst,Atlanta,GA,West,92021,SaaS,699085,269515
+3932578,2/5/1995,3/30/2016,Active,Operations,Sales Representative,San Antonio,TX,Midwest,103600,Support Plans,531913,108201
+3945412,2/3/2002,11/25/2017,Terminated,Customer Success,Sales Manager,San Diego,CA,South,144694,Support Plans,896078,893996
+3948818,11/26/2003,7/25/2018,Active,Sales,Operations Coordinator,Boston,MA,Northeast,69799,SaaS,703581,541975
+3953204,4/8/1992,1/21/2024,Active,Sales,Senior Account Executive,Miami,FL,Midwest,116928,Support Plans,366798,86340
+3957442,10/27/1963,2/14/2018,Active,Sales Ops,Operations Coordinator,Seattle,WA,West,92033,Professional Services,796793,553984
+3966556,11/6/2006,9/11/2023,Terminated,Customer Success,Marketing Specialist,Atlanta,GA,Northeast,49680,Subscriptions,188415,138769
+3992047,4/23/2004,8/1/2022,Active,Finance,Sales Representative,Atlanta,GA,Northeast,100028,Hardware,312605,238270
+4028312,3/13/2008,4/25/2024,Active,Marketing,Account Executive,Boston,MA,South,101134,Support Plans,224510,234259
+4029073,1/9/2000,8/16/2021,OnLeave,Sales,Operations Coordinator,Dallas,TX,West,46945,Subscriptions,336514,206758
+4049176,10/14/1985,5/10/2017,Active,Finance,Marketing Specialist,Seattle,WA,West,59368,SaaS,1071747,611588
+4061317,11/9/2000,6/2/2025,Terminated,Operations,Sales Operations Analyst,Denver,CO,Midwest,96193,SaaS,633196,838240
+4085129,6/5/1969,11/6/2017,Active,Sales Ops,Sales Manager,Houston,TX,Northeast,136619,Subscriptions,1064322,862167
+4096633,8/17/2008,2/24/2022,Terminated,Finance,Account Executive,Los Angeles,CA,West,113723,Hardware,195879,254946
+4097927,6/26/1970,11/3/2016,Active,Sales Ops,Marketing Specialist,Los Angeles,CA,Midwest,90957,Professional Services,680973,341090
+4099445,4/13/1974,10/1/2020,Terminated,HR,Customer Success Manager,Los Angeles,CA,South,140090,Professional Services,1171427,1850222
+4110941,12/13/1984,7/11/2020,Active,IT,Account Executive,Atlanta,GA,Midwest,73399,SaaS,932823,876810
+4122302,10/8/1987,9/11/2016,Terminated,Sales Ops,IT Support Specialist,Miami,FL,South,51728,Subscriptions,1095175,1734488
+4126377,6/25/1987,6/5/2019,Active,HR,HR Generalist,Houston,TX,Midwest,70136,Subscriptions,368544,462732
+4129528,12/5/1961,5/8/2016,Terminated,IT,Senior Account Executive,Chicago,IL,Northeast,150688,Subscriptions,503889,443361
+4130204,2/19/2006,11/27/2021,Active,Sales,Account Executive,San Diego,CA,Northeast,117809,Support Plans,306819,77084
+4134223,9/15/1991,10/3/2016,Terminated,Sales Ops,Account Executive,Philadelphia,PA,West,75262,Support Plans,709168,590873
+4134618,5/23/1982,11/23/2018,Terminated,Customer Success,IT Support Specialist,Atlanta,GA,Midwest,79210,Professional Services,1002122,1416957
+4140089,7/15/1986,1/5/2023,Active,Customer Success,Financial Analyst,Chicago,IL,Northeast,86508,Professional Services,166225,83840
+4143610,3/12/1996,11/1/2017,OnLeave,Finance,Customer Success Manager,Boston,MA,Northeast,76038,Hardware,245293,111547
+4147757,3/28/1988,8/31/2025,Active,HR,Account Executive,San Antonio,TX,South,82649,Hardware,297320,439218
+4150130,6/25/1968,1/17/2019,Active,Sales,Sales Representative,San Antonio,TX,Northeast,89786,Subscriptions,316829,63755
+4150497,1/2/1996,7/8/2020,OnLeave,Operations,Operations Coordinator,Seattle,WA,South,51872,Hardware,714467,1045861
+4151989,5/16/1972,7/18/2018,Active,Operations,Account Executive,Miami,FL,Midwest,77150,Subscriptions,801244,184444
+4155906,12/25/1988,10/9/2017,Active,Marketing,Marketing Specialist,Atlanta,GA,Midwest,75802,Professional Services,171509,234722
+4159783,2/2/2002,1/29/2021,Active,IT,IT Support Specialist,Philadelphia,PA,Midwest,90982,Subscriptions,391519,136411
+4162382,11/10/1972,3/28/2019,OnLeave,HR,Sales Representative,Houston,TX,Midwest,94623,Hardware,351521,493678
+4172576,6/22/1976,7/5/2020,Active,HR,Operations Coordinator,San Jose,CA,South,67037,Support Plans,240247,310367
+4177724,7/30/1979,8/11/2018,OnLeave,Customer Success,IT Support Specialist,San Jose,CA,South,57853,Hardware,1050156,1325599
+4177889,3/4/1973,12/8/2017,Active,IT,IT Support Specialist,San Diego,CA,South,47461,SaaS,208135,161066
+4178044,3/6/1970,3/14/2019,Active,Finance,Senior Account Executive,New York,NY,West,147511,Support Plans,834812,816785
+4191881,1/5/2008,4/21/2019,Active,Sales,Sales Representative,Seattle,WA,Northeast,87391,Hardware,877615,690870
+4209943,11/26/1988,5/15/2024,Terminated,Marketing,IT Support Specialist,Seattle,WA,South,86429,Hardware,389597,544411
+4221761,1/9/1992,1/30/2016,OnLeave,Sales Ops,IT Support Specialist,Boston,MA,South,84841,Hardware,1113764,1640134
+4222415,3/18/2001,8/26/2024,Active,Marketing,Sales Manager,Boston,MA,Northeast,146818,Support Plans,882524,612987
+4226213,10/8/1974,11/11/2021,Active,Sales Ops,Operations Coordinator,Denver,CO,Northeast,64837,Support Plans,357336,82523
+4238394,1/29/1967,6/8/2019,OnLeave,Customer Success,HR Generalist,San Diego,CA,South,70754,Hardware,296021,105786
+4240817,2/19/1981,1/31/2025,Active,HR,Sales Operations Analyst,Phoenix,AZ,Midwest,118415,Professional Services,994336,1165062
+4263717,8/8/1964,2/23/2019,Terminated,Sales Ops,Account Executive,Boston,MA,West,84813,Hardware,180503,141955
+4265261,3/31/1977,11/3/2025,Active,Finance,Sales Representative,Phoenix,AZ,Midwest,99809,Support Plans,541250,668843
+4270598,9/3/1978,9/22/2016,Active,Operations,Operations Coordinator,New York,NY,South,59228,Professional Services,720873,917432
+4277340,10/22/1996,3/6/2025,Terminated,Sales,Account Executive,Philadelphia,PA,South,53693,SaaS,272959,399781
+4278453,4/29/1996,4/19/2023,Terminated,Marketing,Financial Analyst,Denver,CO,South,56613,Support Plans,300229,108817
+4299262,4/18/1994,4/7/2020,Terminated,Finance,Operations Coordinator,Miami,FL,South,79167,SaaS,712166,880732
+4300491,5/14/1982,8/25/2017,Active,Finance,Marketing Specialist,Boston,MA,Midwest,64841,Hardware,253160,100799
+4308704,9/20/1992,7/6/2025,Active,Operations,HR Generalist,Dallas,TX,South,87162,Hardware,795767,220702
+4339202,12/6/1989,5/10/2020,Active,Sales,Operations Coordinator,Seattle,WA,West,87186,Professional Services,454015,323632
+4339296,3/1/2001,10/18/2016,Active,Marketing,Sales Representative,Dallas,TX,West,111706,Hardware,182290,50587
+4341789,10/3/1978,10/21/2019,Terminated,Operations,Operations Coordinator,San Antonio,TX,West,92594,Professional Services,918998,688522
+4343807,10/10/2006,2/26/2020,Terminated,Sales,Financial Analyst,Houston,TX,Northeast,54096,Hardware,796224,1189418
+4345699,12/25/1979,4/17/2016,Active,Marketing,Operations Coordinator,Philadelphia,PA,South,60926,Subscriptions,296464,318606
+4349649,4/26/1987,7/13/2016,Active,Finance,Account Executive,Atlanta,GA,Midwest,110487,Professional Services,715028,879981
+4351451,9/17/1963,11/27/2017,Active,Operations,Account Executive,San Diego,CA,Northeast,79793,Hardware,1037141,978435
+4353524,3/28/1988,4/12/2016,Active,IT,Financial Analyst,Houston,TX,South,73167,Subscriptions,1024115,1098473
+4354062,10/20/1965,8/27/2016,Terminated,Marketing,Senior Account Executive,Philadelphia,PA,South,141603,Professional Services,893089,1383733
+4366468,4/13/1962,9/29/2016,OnLeave,Operations,IT Support Specialist,Chicago,IL,West,46571,Professional Services,550645,254826
+4369739,4/30/1981,7/20/2020,Active,Sales,Sales Representative,Atlanta,GA,West,76703,Professional Services,343121,435047
+4383638,7/13/1971,1/4/2025,Active,Finance,Senior Account Executive,Miami,FL,West,145334,Support Plans,1052550,1128910
+4387587,9/21/2001,10/17/2025,OnLeave,Sales Ops,Sales Manager,Dallas,TX,Northeast,138996,Professional Services,744964,914885
+4404797,5/28/1983,11/12/2024,OnLeave,Marketing,HR Generalist,Houston,TX,Northeast,63336,Hardware,1088427,1056330
+4427299,8/15/1972,9/16/2020,Active,HR,Account Executive,Denver,CO,Northeast,85611,Subscriptions,168759,78614
+4439516,12/22/2005,11/30/2018,Active,IT,Financial Analyst,San Antonio,TX,South,94748,SaaS,621565,296444
+4444773,12/10/1965,2/20/2021,Active,Customer Success,Sales Representative,Houston,TX,Midwest,77540,Professional Services,255821,110490
+4458034,5/28/1998,2/25/2019,Active,Operations,Sales Representative,Houston,TX,Midwest,111492,SaaS,845205,804663
+4459208,12/31/2000,10/3/2020,Terminated,Operations,Senior Account Executive,Phoenix,AZ,South,113045,Hardware,332765,331219
+4475074,10/1/1964,1/16/2025,OnLeave,Finance,Financial Analyst,Boston,MA,Midwest,63054,SaaS,787676,424078
+4479606,9/11/1985,4/26/2023,Active,HR,Marketing Specialist,San Jose,CA,South,71330,Hardware,991950,912426
+4482470,9/14/1966,2/13/2017,OnLeave,Sales Ops,IT Support Specialist,Phoenix,AZ,West,87116,Subscriptions,361647,221663
+4486557,12/19/1989,7/8/2023,Active,Sales,HR Generalist,San Antonio,TX,Midwest,86676,Professional Services,1054891,250871
+4501549,3/1/1974,2/10/2023,Active,Marketing,Senior Account Executive,Miami,FL,Midwest,101463,Hardware,499871,411144
+4510919,4/24/1995,12/18/2023,OnLeave,Sales Ops,Sales Manager,Dallas,TX,Northeast,87278,Subscriptions,536062,183345
+4511090,12/13/1977,6/22/2016,Active,Marketing,Financial Analyst,Miami,FL,Northeast,83266,Professional Services,1138378,444718
+4527104,2/20/1982,10/9/2020,Active,Finance,IT Support Specialist,Philadelphia,PA,South,90697,SaaS,211448,293819
+4528574,1/10/1997,1/10/2026,Active,Sales Ops,Operations Coordinator,Phoenix,AZ,Northeast,61175,Support Plans,395521,376216
+4537250,4/7/1964,1/9/2020,Active,Finance,IT Support Specialist,Houston,TX,West,53893,Hardware,720826,408395
+4541821,1/18/1965,1/6/2017,Active,Finance,Sales Representative,Los Angeles,CA,South,114841,Hardware,617341,948583
+4545346,9/3/1975,1/25/2018,Terminated,Sales Ops,Operations Coordinator,Philadelphia,PA,West,81344,Support Plans,356289,230931
+4550884,1/9/1997,10/9/2018,Active,Sales Ops,Sales Representative,Miami,FL,Midwest,111010,Subscriptions,586592,293642
+4590540,10/27/1961,4/21/2022,Terminated,Marketing,Financial Analyst,San Jose,CA,Northeast,77925,Hardware,359889,187017
+4616510,10/18/1990,7/27/2022,OnLeave,Operations,IT Support Specialist,Philadelphia,PA,Northeast,64803,Hardware,775142,779239
+4633301,11/2/1973,3/4/2016,Terminated,Sales Ops,Marketing Specialist,San Antonio,TX,Northeast,63927,Professional Services,768691,284799
+4693193,10/27/1986,4/22/2021,Active,HR,Sales Representative,Houston,TX,West,57139,Subscriptions,187460,105612
+4702452,10/2/1991,1/9/2016,OnLeave,Customer Success,Sales Operations Analyst,Philadelphia,PA,West,94394,Hardware,1085787,1708330
+4717077,12/8/1989,11/13/2022,Terminated,Sales,Marketing Specialist,San Antonio,TX,West,78669,Subscriptions,848618,909803
+4717989,4/11/2005,1/4/2018,Terminated,Customer Success,Sales Operations Analyst,Denver,CO,Midwest,96751,Professional Services,761450,671949
+4729450,9/13/1994,2/12/2017,Active,Sales Ops,Sales Operations Analyst,Los Angeles,CA,Midwest,91030,Subscriptions,473651,326782
+4730814,7/15/1972,9/14/2016,Active,HR,HR Generalist,Philadelphia,PA,South,94699,Professional Services,1166197,1542934
+4764157,12/24/1964,2/10/2023,Active,Marketing,IT Support Specialist,Houston,TX,South,57490,Hardware,205669,306189
+4773143,5/5/1963,10/18/2020,Terminated,Operations,Customer Success Manager,San Antonio,TX,South,139541,SaaS,410073,623603
+4797903,2/28/1961,8/22/2022,Active,IT,Financial Analyst,San Jose,CA,Northeast,53816,SaaS,849468,424727
+4816258,6/9/1980,9/19/2022,OnLeave,Customer Success,Sales Representative,New York,NY,West,84558,Hardware,870872,810137
+4830918,11/8/1996,5/5/2016,Active,Sales,HR Generalist,Chicago,IL,South,76486,Support Plans,778918,219355
+4842604,7/19/1988,7/5/2021,Active,HR,IT Support Specialist,Los Angeles,CA,Northeast,60512,Support Plans,604084,223227
+4853417,8/25/1996,3/24/2022,Active,Operations,HR Generalist,Los Angeles,CA,Northeast,87911,Hardware,491603,645562
+4871193,12/14/1971,10/18/2021,OnLeave,Customer Success,Senior Account Executive,San Diego,CA,West,117622,Hardware,883257,605029
+4871521,1/13/1995,12/29/2021,Terminated,Operations,Sales Operations Analyst,San Jose,CA,West,100585,Support Plans,358108,300554
+4880947,8/27/1973,7/13/2019,Active,Sales,Account Executive,Seattle,WA,South,122239,Support Plans,995106,629291
+4899127,3/2/2001,10/8/2017,Active,Sales Ops,Marketing Specialist,Atlanta,GA,West,47133,Subscriptions,157684,47434
+4944581,5/2/1977,6/7/2016,Active,Customer Success,Sales Manager,Los Angeles,CA,West,139476,Hardware,380349,462587
+4950435,12/12/1978,4/23/2019,Terminated,Operations,Account Executive,Atlanta,GA,West,83650,Support Plans,260293,284079
+4958004,2/20/1970,4/21/2024,Active,Customer Success,Marketing Specialist,Houston,TX,South,87000,Subscriptions,668558,658069
+4973426,6/21/1999,9/13/2021,Active,Sales,Sales Representative,Dallas,TX,Midwest,92164,Subscriptions,516037,356592
+4991559,1/10/1966,9/12/2022,Active,IT,Account Executive,Philadelphia,PA,Midwest,61118,Professional Services,1008326,209487
+5017625,1/23/1986,9/11/2016,Active,HR,HR Generalist,Phoenix,AZ,Midwest,82615,SaaS,231727,94422
+5017751,9/14/2002,11/20/2016,Active,HR,Sales Operations Analyst,Chicago,IL,South,122359,Professional Services,996035,1223773
+5030574,2/7/1986,10/18/2019,Active,Customer Success,Operations Coordinator,Dallas,TX,South,93711,Professional Services,1115321,1781177
+5030994,6/5/2002,4/27/2016,Active,Operations,Account Executive,Denver,CO,South,67899,Professional Services,320202,80330
+5037884,7/20/1968,1/18/2025,Active,Sales Ops,Sales Representative,Miami,FL,West,84214,Hardware,199250,55847
+5054495,3/5/1961,5/9/2025,Active,Customer Success,Sales Operations Analyst,Los Angeles,CA,Northeast,79996,Professional Services,286951,236354
+5056232,5/19/1975,4/17/2025,Active,Sales Ops,Sales Representative,New York,NY,Midwest,102148,Support Plans,976811,1323384
+5063818,4/3/2001,6/3/2024,OnLeave,HR,Financial Analyst,Denver,CO,Midwest,87890,SaaS,769322,1110245
+5068350,11/29/1997,6/23/2017,Active,HR,Operations Coordinator,Atlanta,GA,Northeast,58684,SaaS,627351,575228
+5078952,8/4/1981,11/11/2016,Terminated,Sales Ops,Financial Analyst,Houston,TX,West,51424,Subscriptions,580757,527307
+5107691,10/22/1974,5/7/2021,Active,Sales Ops,IT Support Specialist,San Antonio,TX,Northeast,87444,Hardware,228202,162849
+5111826,11/16/1965,7/10/2021,Active,IT,Customer Success Manager,San Jose,CA,South,106946,SaaS,570270,215360
+5112178,1/11/1994,5/8/2025,Active,HR,Account Executive,Chicago,IL,West,110552,Support Plans,236297,153802
+5116051,12/27/2006,9/6/2025,Active,HR,IT Support Specialist,Atlanta,GA,West,90270,Subscriptions,773632,936738
+5121822,8/23/1985,12/22/2016,Terminated,Finance,Operations Coordinator,San Jose,CA,West,55509,Subscriptions,864742,785468
+5137216,11/29/1994,7/28/2017,Active,Sales Ops,Sales Manager,Houston,TX,West,153194,SaaS,190803,279135
+5137754,12/15/1991,2/19/2023,Active,HR,Sales Operations Analyst,Los Angeles,CA,Midwest,69115,Support Plans,177789,210799
+5139650,3/27/1979,5/19/2018,Active,IT,IT Support Specialist,Los Angeles,CA,Northeast,60378,Subscriptions,594269,240890
+5150079,2/17/1974,11/17/2020,OnLeave,HR,Marketing Specialist,Atlanta,GA,Northeast,46208,Professional Services,829246,1204970
+5157692,4/22/1983,1/6/2020,Active,Sales Ops,Operations Coordinator,San Jose,CA,South,49966,Professional Services,260376,181440
+5182993,2/17/1986,10/3/2023,Active,Finance,Marketing Specialist,Seattle,WA,West,92396,SaaS,288916,93090
+5195916,7/31/1981,1/26/2026,OnLeave,Operations,IT Support Specialist,Phoenix,AZ,Northeast,52034,Professional Services,577333,806003
+5199631,2/20/1999,12/19/2020,Active,Operations,HR Generalist,San Antonio,TX,South,48476,Hardware,732033,1130158
+5199729,4/4/2006,1/4/2020,OnLeave,Marketing,Operations Coordinator,Philadelphia,PA,Northeast,84290,Professional Services,371387,540039
+5199879,4/8/1996,1/23/2017,Active,Marketing,Customer Success Manager,Los Angeles,CA,Midwest,94138,SaaS,174524,124367
+5212227,1/7/2007,3/11/2019,Terminated,Finance,IT Support Specialist,Houston,TX,Northeast,70151,Subscriptions,1156644,674642
+5221143,12/14/2005,12/26/2020,Active,Sales,Financial Analyst,Philadelphia,PA,Midwest,47429,Support Plans,1162178,1250260
+5222639,4/4/1987,10/25/2019,Active,HR,Sales Operations Analyst,Seattle,WA,West,109020,Support Plans,544263,723304
+5222652,1/19/1996,7/24/2023,Active,HR,Sales Operations Analyst,Seattle,WA,South,69855,Professional Services,513639,817710
+5224324,3/5/1976,12/7/2025,Active,Sales,Senior Account Executive,Seattle,WA,Northeast,157243,Subscriptions,1035232,1107081
+5226323,7/13/1990,11/11/2016,Active,Sales,Financial Analyst,Dallas,TX,Northeast,94012,SaaS,1107631,635196
+5234859,2/21/1985,10/12/2024,Terminated,Sales,HR Generalist,Houston,TX,South,92416,Professional Services,684417,152992
+5237372,11/25/1974,4/9/2024,OnLeave,Sales Ops,Operations Coordinator,San Diego,CA,Midwest,70440,Support Plans,970945,1299058
+5237742,5/13/1988,11/19/2021,Active,Finance,Financial Analyst,Dallas,TX,Midwest,49660,Professional Services,650550,829998
+5254339,12/30/1995,6/6/2018,Active,Operations,Marketing Specialist,New York,NY,Midwest,47101,Support Plans,683664,859431
+5263179,7/30/1997,10/29/2023,Active,HR,IT Support Specialist,Miami,FL,South,89227,Subscriptions,203324,159903
+5263739,11/10/1986,3/18/2020,Active,Operations,Operations Coordinator,Houston,TX,West,68814,Support Plans,1031606,341818
+5271089,2/6/2006,12/17/2023,Active,Finance,Senior Account Executive,Boston,MA,South,142347,SaaS,1167274,1074189
+5286057,1/26/1980,11/5/2018,Active,Customer Success,Customer Success Manager,Houston,TX,West,95586,Subscriptions,634954,834343
+5293606,11/8/1998,11/30/2023,Terminated,HR,Senior Account Executive,Houston,TX,Northeast,152560,Hardware,795556,435568
+5300545,2/25/1973,9/11/2021,Active,Marketing,HR Generalist,San Antonio,TX,Northeast,78499,Professional Services,614841,732750
+5305801,3/1/1988,2/13/2021,Active,Marketing,IT Support Specialist,Philadelphia,PA,South,85605,Subscriptions,1112076,510490
+5313455,4/19/1967,6/25/2024,Terminated,Operations,IT Support Specialist,Philadelphia,PA,West,69679,SaaS,1020058,1602502
+5325363,8/2/1983,7/9/2025,Active,HR,Customer Success Manager,Miami,FL,Northeast,85984,SaaS,441160,393316
+5327672,5/11/1989,8/1/2018,Active,Sales,Sales Manager,Chicago,IL,South,136661,Subscriptions,237937,293174
+5351548,10/12/1986,5/30/2020,Active,Customer Success,Senior Account Executive,Chicago,IL,West,160276,Hardware,287146,354901
+5360802,11/24/1995,6/28/2024,Active,IT,Financial Analyst,San Antonio,TX,Northeast,49379,Hardware,1044047,1594883
+5360986,11/29/1994,6/7/2024,Active,Finance,Sales Representative,Philadelphia,PA,Midwest,118516,Support Plans,920176,202378
+5361168,3/29/1977,3/24/2018,Active,Marketing,IT Support Specialist,San Diego,CA,Midwest,47979,SaaS,497178,328677
+5371988,1/24/1988,6/12/2020,Active,Customer Success,Operations Coordinator,Los Angeles,CA,Northeast,79147,Support Plans,850518,245681
+5377956,3/15/1966,10/8/2017,Active,Operations,Sales Manager,Houston,TX,South,164547,Professional Services,201202,133059
+5378141,6/11/1997,6/29/2021,Terminated,Finance,Senior Account Executive,Denver,CO,West,130197,Subscriptions,470141,641880
+5407933,2/27/1993,11/1/2020,Terminated,IT,Marketing Specialist,New York,NY,South,73927,Subscriptions,769802,679775
+5421039,12/31/1975,4/25/2017,Active,Customer Success,Senior Account Executive,San Jose,CA,Midwest,159116,Support Plans,630736,612290
+5441387,2/3/1969,10/5/2020,Active,Operations,Operations Coordinator,New York,NY,South,88762,Professional Services,342927,227316
+5445835,8/14/1990,7/22/2023,Active,Customer Success,Marketing Specialist,New York,NY,Northeast,62499,SaaS,230917,206384
+5464669,1/23/1997,4/11/2021,Active,HR,Senior Account Executive,Los Angeles,CA,South,139577,Subscriptions,441198,545824
+5464755,5/7/1976,4/20/2025,Active,Operations,IT Support Specialist,Atlanta,GA,Northeast,57609,Hardware,469182,325622
+5474006,1/26/1993,1/14/2022,OnLeave,Finance,Financial Analyst,Atlanta,GA,West,69520,Hardware,1112204,720035
+5480263,5/1/1978,9/28/2021,Terminated,Sales,Marketing Specialist,San Antonio,TX,West,64077,Professional Services,547475,632599
+5499481,3/26/1984,4/19/2024,OnLeave,HR,Sales Manager,Boston,MA,West,86693,Professional Services,1160569,1332680
+5499488,11/8/1963,7/15/2020,Active,HR,HR Generalist,Boston,MA,Midwest,54961,Support Plans,1136328,243035
+5503333,6/5/1997,11/22/2018,Active,Marketing,Sales Operations Analyst,Phoenix,AZ,West,76144,SaaS,876430,793042
+5503824,2/21/2000,2/14/2018,Active,IT,Sales Manager,San Diego,CA,Northeast,135988,Professional Services,866435,1047981
+5510029,6/22/1988,1/27/2019,OnLeave,Operations,Operations Coordinator,Dallas,TX,Midwest,72192,Support Plans,404257,497676
+5513420,8/15/1971,7/18/2019,Active,Sales Ops,Account Executive,Chicago,IL,South,71154,Professional Services,937965,1148005
+5519273,7/23/1980,11/23/2023,Active,HR,Financial Analyst,Philadelphia,PA,South,70850,Subscriptions,457097,512415
+5540006,9/6/2007,2/10/2025,Active,Marketing,Marketing Specialist,San Diego,CA,Midwest,77881,SaaS,471673,270267
+5576795,8/24/1996,2/19/2017,Active,Sales Ops,Operations Coordinator,San Jose,CA,Midwest,57623,SaaS,305305,196912
+5585911,5/30/2001,5/2/2018,Active,HR,Financial Analyst,Boston,MA,Northeast,91302,Professional Services,356139,432383
+5589647,9/16/1962,11/19/2024,Active,IT,Account Executive,Denver,CO,Northeast,69272,Professional Services,166744,192696
+5594430,6/20/1994,11/28/2025,Active,Sales Ops,IT Support Specialist,Chicago,IL,West,45759,Hardware,1180364,1622264
+5637435,9/4/2002,12/28/2018,Active,Customer Success,IT Support Specialist,Miami,FL,West,68224,Support Plans,1112626,1281321
+5639285,6/18/1987,3/18/2025,Terminated,Operations,Customer Success Manager,San Diego,CA,West,111558,Hardware,941762,523132
+5644439,9/7/1992,7/26/2020,Active,Finance,Sales Manager,Atlanta,GA,Northeast,131402,Hardware,532064,569768
+5644584,8/25/1991,10/8/2016,Active,Sales,IT Support Specialist,New York,NY,Midwest,62438,Subscriptions,386608,206090
+5674437,5/22/1989,5/18/2024,Active,IT,Financial Analyst,Atlanta,GA,Northeast,87954,Hardware,807969,1100492
+5682311,6/16/2000,12/18/2016,OnLeave,Sales,Sales Representative,San Diego,CA,Northeast,114788,Professional Services,869501,1205066
+5689836,5/20/1968,6/18/2017,Active,Sales,IT Support Specialist,Miami,FL,Northeast,47868,Support Plans,963971,563287
+5699987,11/21/1993,4/9/2020,Active,HR,Sales Operations Analyst,Chicago,IL,South,101260,Support Plans,876889,536586
+5703793,4/16/1986,3/14/2016,Active,Sales,Account Executive,Houston,TX,South,123463,SaaS,619778,643865
+5714644,9/14/2000,5/2/2023,Active,Operations,Customer Success Manager,Atlanta,GA,Northeast,115647,Professional Services,219007,162949
+5722280,10/29/1975,12/27/2018,Active,IT,Sales Representative,Dallas,TX,Midwest,90908,Hardware,921290,1053885
+5753345,6/30/1992,11/8/2023,OnLeave,Operations,Account Executive,Boston,MA,Northeast,91353,Hardware,971160,195108
+5755383,11/10/2003,4/24/2022,Active,Sales Ops,Account Executive,Houston,TX,Northeast,95562,Support Plans,852192,668194
+5767189,2/20/1984,2/22/2022,Active,Finance,IT Support Specialist,Los Angeles,CA,Midwest,82123,SaaS,869329,456268
+5771400,5/26/2005,3/27/2016,Terminated,Customer Success,HR Generalist,Philadelphia,PA,Northeast,87183,Support Plans,1083967,312409
+5773663,8/26/1974,9/11/2021,OnLeave,HR,Sales Manager,Phoenix,AZ,Midwest,137219,SaaS,1116745,607773
+5797351,3/28/1986,6/28/2020,Active,Sales,Sales Representative,Philadelphia,PA,Midwest,65453,Professional Services,1142874,577386
+5812927,11/28/2004,1/16/2018,Active,Customer Success,Financial Analyst,San Jose,CA,West,58155,Subscriptions,322209,190551
+5831162,1/12/1977,9/14/2019,Active,Sales,Sales Manager,San Diego,CA,South,136303,Professional Services,988454,357085
+5847271,9/4/1971,9/12/2021,Active,Sales Ops,Account Executive,Phoenix,AZ,West,71679,Support Plans,684458,514979
+5855855,4/7/1967,11/6/2020,Active,Sales,Senior Account Executive,Denver,CO,South,98905,Hardware,1046224,971818
+5865151,4/20/1963,4/20/2023,Active,HR,Sales Manager,Phoenix,AZ,West,151457,SaaS,1033043,997576
+5894318,7/25/1961,10/29/2023,Active,HR,Financial Analyst,San Diego,CA,West,67434,SaaS,1020897,1210105
+5904158,6/12/2001,3/1/2019,Active,IT,Marketing Specialist,Atlanta,GA,South,54529,Support Plans,443489,431348
+5905902,9/12/1981,1/17/2016,Terminated,Sales,Sales Representative,Philadelphia,PA,Northeast,92760,Professional Services,907745,1061000
+5907308,11/19/1970,4/24/2021,Active,Marketing,Operations Coordinator,Chicago,IL,West,87007,Hardware,257201,69737
+5911013,6/2/2003,3/30/2018,Active,IT,HR Generalist,San Antonio,TX,Northeast,87201,Subscriptions,715100,213725
+5912124,8/30/1985,3/16/2016,Terminated,Sales,Marketing Specialist,San Antonio,TX,Midwest,94761,Professional Services,280558,144806
+5925817,2/2/1998,7/21/2023,Terminated,Marketing,HR Generalist,Philadelphia,PA,Midwest,89972,Hardware,264038,111169
+5928444,12/30/1996,12/1/2022,Active,Operations,Customer Success Manager,Philadelphia,PA,South,158924,SaaS,737269,1064630
+5934646,2/14/1985,2/9/2016,Active,Sales,Financial Analyst,San Antonio,TX,West,87507,Professional Services,163326,41910
+5935680,2/5/1983,9/27/2024,Active,Sales,Senior Account Executive,Los Angeles,CA,South,112738,Support Plans,756398,763987
+5964028,11/1/1991,8/28/2021,Active,Customer Success,Marketing Specialist,San Diego,CA,Northeast,50093,Hardware,158660,212714
+5966937,2/14/1969,1/22/2022,OnLeave,IT,Sales Representative,Phoenix,AZ,West,88213,Hardware,884377,1089024
+5968550,9/1/1965,8/21/2021,Active,Finance,Operations Coordinator,Chicago,IL,South,70178,Professional Services,279131,205159
+5969883,1/18/1981,5/6/2022,Active,Customer Success,Account Executive,Boston,MA,Northeast,114747,Support Plans,170060,198555
+5987969,2/29/1992,8/18/2022,Terminated,Sales Ops,Operations Coordinator,Atlanta,GA,West,49733,SaaS,708821,241759
+5995078,7/31/1973,7/7/2019,Active,Sales Ops,Sales Manager,Boston,MA,Northeast,140025,Subscriptions,458507,355503
+5995767,1/19/1992,5/20/2018,OnLeave,Customer Success,Operations Coordinator,Los Angeles,CA,Northeast,48455,Subscriptions,730113,811123
+6008539,6/1/1970,2/10/2016,Active,Sales Ops,Senior Account Executive,Dallas,TX,West,141048,Subscriptions,590114,850331
+6018776,3/31/1990,6/28/2018,OnLeave,Marketing,IT Support Specialist,Seattle,WA,Midwest,83087,SaaS,372650,372707
+6025223,6/26/1977,9/25/2018,Active,Sales,Senior Account Executive,New York,NY,Midwest,99069,Professional Services,337262,289217
+6026554,1/6/1998,4/26/2018,Active,IT,HR Generalist,San Antonio,TX,Midwest,50036,Support Plans,176786,276211
+6031547,7/24/1981,6/22/2016,Terminated,Marketing,Account Executive,Los Angeles,CA,West,112338,Professional Services,158272,183213
+6035296,5/22/2004,5/17/2023,OnLeave,Sales,Senior Account Executive,Houston,TX,South,89696,Subscriptions,367049,387231
+6035666,10/4/1988,1/23/2022,Terminated,Sales,Account Executive,Philadelphia,PA,South,80869,Subscriptions,777034,534834
+6039446,4/23/1961,9/22/2025,Terminated,HR,Senior Account Executive,Houston,TX,South,149725,SaaS,412523,653510
+6049264,6/29/2003,2/25/2016,Active,Sales,Sales Manager,San Diego,CA,West,126291,SaaS,173128,55989
+6051150,3/23/1984,5/27/2025,Active,Customer Success,Operations Coordinator,San Antonio,TX,Midwest,79612,SaaS,1064078,1384996
+6057265,2/5/1991,1/18/2021,Terminated,Operations,Sales Operations Analyst,Phoenix,AZ,Midwest,101056,Hardware,676732,808116
+6066640,1/3/1981,11/3/2017,Active,HR,Marketing Specialist,New York,NY,Midwest,63673,Hardware,284991,270847
+6077360,1/29/1995,12/23/2019,Active,Customer Success,Account Executive,Atlanta,GA,South,97783,Support Plans,1177729,1291372
+6086583,2/5/1982,4/27/2021,Active,Sales Ops,Customer Success Manager,Philadelphia,PA,Midwest,118000,Hardware,565126,451263
+6104365,10/28/1988,10/7/2022,Terminated,Sales,Account Executive,Atlanta,GA,South,117856,SaaS,633482,544626
+6106937,12/1/1978,8/7/2024,Terminated,Marketing,Account Executive,Miami,FL,West,80299,SaaS,206287,138645
+6111837,4/19/1987,11/14/2022,OnLeave,Marketing,Sales Manager,San Diego,CA,Midwest,92128,SaaS,1192676,582441
+6116727,7/12/1963,11/23/2018,Terminated,Sales,Sales Operations Analyst,Dallas,TX,West,70944,Professional Services,571203,205158
+6121222,7/31/1961,10/25/2020,Active,IT,Senior Account Executive,Los Angeles,CA,West,104432,SaaS,816212,220253
+6126345,12/5/1999,8/26/2025,OnLeave,Sales Ops,Sales Representative,San Diego,CA,Midwest,77907,SaaS,539362,421821
+6147440,6/9/1974,10/30/2016,Active,Customer Success,Sales Operations Analyst,Denver,CO,South,99540,Subscriptions,1154107,255120
+6150285,5/14/1977,2/6/2021,Active,HR,Marketing Specialist,Boston,MA,Northeast,76420,Subscriptions,704213,1046259
+6150940,9/5/2006,1/12/2023,OnLeave,HR,HR Generalist,San Antonio,TX,South,58430,Hardware,985176,552581
+6160033,9/2/1983,4/30/2022,Active,Sales Ops,Account Executive,San Antonio,TX,West,88138,Subscriptions,515257,571258
+6160173,5/18/1995,4/5/2024,Active,Sales,IT Support Specialist,Seattle,WA,Northeast,89650,Professional Services,1177609,985767
+6163660,2/18/1992,1/18/2016,Active,IT,HR Generalist,Phoenix,AZ,Northeast,68374,Professional Services,1113591,1584533
+6172954,1/15/1968,2/22/2024,Active,Sales Ops,Financial Analyst,Boston,MA,West,55854,Hardware,631710,488885
+6184882,11/12/1967,1/18/2024,Active,Sales Ops,Operations Coordinator,Los Angeles,CA,Northeast,62411,SaaS,1002138,1305273
+6198766,5/17/1999,7/3/2020,Active,Customer Success,Sales Operations Analyst,Chicago,IL,Midwest,85328,Support Plans,934067,1379924
+6211212,3/7/1989,9/26/2024,Active,IT,Senior Account Executive,New York,NY,South,136484,Subscriptions,869584,1240422
+6215636,10/8/1991,5/30/2019,OnLeave,Finance,Marketing Specialist,San Antonio,TX,West,50608,Professional Services,1188205,1844361
+6223096,10/14/1984,10/11/2024,Terminated,Operations,Sales Manager,Dallas,TX,West,150109,Professional Services,182895,110190
+6223251,12/9/1994,7/5/2025,Active,Operations,Account Executive,Philadelphia,PA,West,94110,SaaS,456675,566477
+6226471,10/14/2000,3/9/2025,Active,Sales Ops,Senior Account Executive,Phoenix,AZ,Northeast,128660,SaaS,535317,432467
+6247998,5/24/1988,8/24/2021,Active,Marketing,Sales Representative,Seattle,WA,Midwest,113569,SaaS,578236,576430
+6257985,8/31/1997,6/9/2021,OnLeave,Finance,Senior Account Executive,Philadelphia,PA,Northeast,121676,Professional Services,627212,526930
+6258300,12/19/1972,3/10/2025,Terminated,Sales Ops,Financial Analyst,Miami,FL,Northeast,94504,Support Plans,1007294,1011908
+6264129,10/3/1995,10/22/2020,OnLeave,Marketing,Marketing Specialist,Phoenix,AZ,West,80062,Support Plans,630360,613337
+6271574,9/5/1971,7/13/2018,Active,Marketing,Customer Success Manager,Atlanta,GA,Midwest,158069,Subscriptions,545901,497308
+6272376,8/22/1992,7/28/2017,OnLeave,Finance,Operations Coordinator,Dallas,TX,West,48909,Hardware,1024745,1144615
+6285483,4/12/2004,9/30/2024,Active,Customer Success,Financial Analyst,Dallas,TX,South,58629,Hardware,1068679,1274721
+6286020,5/9/2008,4/15/2020,Active,Finance,IT Support Specialist,Denver,CO,Northeast,85179,Support Plans,1058605,1392925
+6290634,10/6/1986,4/27/2017,Active,IT,Operations Coordinator,Phoenix,AZ,Midwest,54483,Support Plans,258841,67346
+6294756,11/20/2006,1/23/2021,Active,Finance,Senior Account Executive,Boston,MA,West,165726,SaaS,1181528,1504474
+6299594,9/30/1981,3/14/2020,Active,HR,Sales Representative,Los Angeles,CA,Midwest,72240,Subscriptions,175494,116716
+6306724,1/15/1989,9/2/2023,Active,Operations,Senior Account Executive,Philadelphia,PA,West,133134,SaaS,294939,252100
+6309084,7/5/1966,1/24/2022,Active,Sales,IT Support Specialist,Houston,TX,West,66451,SaaS,825111,1010573
+6316336,2/3/1985,7/6/2017,Active,Customer Success,HR Generalist,Phoenix,AZ,Northeast,58769,Subscriptions,1134523,1549054
+6316955,2/23/1988,6/14/2018,Active,HR,Account Executive,Miami,FL,Northeast,68293,Subscriptions,220038,196257
+6323869,5/9/1970,3/17/2018,Active,Operations,Sales Representative,Philadelphia,PA,South,101812,Subscriptions,838542,198770
+6334051,9/8/1962,10/30/2019,Active,HR,Senior Account Executive,Boston,MA,Midwest,140392,SaaS,652655,682270
+6337835,6/27/1986,3/30/2023,Active,Customer Success,Account Executive,Atlanta,GA,Midwest,80250,Support Plans,676428,246203
+6339072,8/24/1965,5/26/2025,Active,Operations,Marketing Specialist,Houston,TX,West,62513,Subscriptions,704225,893928
+6396211,9/10/1999,8/1/2022,Terminated,Operations,Operations Coordinator,New York,NY,Midwest,83432,SaaS,1164345,575735
+6410971,12/13/1986,11/29/2016,OnLeave,Finance,HR Generalist,Denver,CO,Midwest,70939,Hardware,383439,366704
+6417990,5/10/1967,4/23/2024,Active,Customer Success,Financial Analyst,San Antonio,TX,Midwest,76204,Support Plans,999811,519944
+6418712,9/12/1990,11/25/2016,Active,Sales,HR Generalist,Chicago,IL,West,68433,Subscriptions,1199736,1839236
+6424536,2/15/1986,12/13/2018,Active,IT,Financial Analyst,Denver,CO,South,72194,Subscriptions,474529,152457
+6428613,10/4/1966,12/7/2016,Active,Operations,Sales Representative,Atlanta,GA,South,98295,SaaS,1032449,1379985
+6437800,3/9/1971,1/21/2025,Terminated,Marketing,HR Generalist,Boston,MA,Northeast,55929,Subscriptions,663948,527171
+6443552,2/28/1995,4/17/2019,Active,Finance,Customer Success Manager,Seattle,WA,Midwest,117617,SaaS,1079351,1391495
+6445512,8/2/2004,7/17/2021,Active,HR,Sales Representative,Miami,FL,West,101611,Hardware,238767,88246
+6460693,1/12/1994,6/21/2020,Active,Customer Success,HR Generalist,Phoenix,AZ,Midwest,80298,Hardware,498106,689973
+6479288,1/16/1978,3/21/2024,OnLeave,Marketing,Senior Account Executive,San Diego,CA,West,115951,Professional Services,594073,631432
+6483300,8/15/1974,1/2/2023,Active,HR,Sales Representative,Miami,FL,South,76217,Support Plans,349552,476576
+6500014,8/26/1973,12/20/2017,Terminated,HR,Financial Analyst,New York,NY,West,49461,Hardware,517017,734337
+6525626,7/10/1973,10/31/2018,Active,IT,Account Executive,Dallas,TX,West,102326,Support Plans,1133179,614117
+6534839,9/18/1987,4/6/2022,OnLeave,Finance,Customer Success Manager,Philadelphia,PA,West,133058,Support Plans,165510,245437
+6537294,7/6/1966,1/27/2017,OnLeave,Sales Ops,Sales Manager,San Jose,CA,West,154866,Support Plans,1100015,926958
+6539007,1/30/1995,2/18/2025,OnLeave,IT,HR Generalist,Phoenix,AZ,Northeast,91824,Support Plans,990519,1529419
+6546847,4/25/2005,12/9/2023,Active,Customer Success,Sales Manager,Houston,TX,West,109782,SaaS,346884,72553
+6549934,10/25/1978,4/13/2024,OnLeave,HR,Operations Coordinator,San Diego,CA,Midwest,89503,Support Plans,227182,157313
+6550426,2/9/1980,1/4/2016,Active,Sales,Senior Account Executive,Atlanta,GA,West,161508,Subscriptions,844293,568687
+6577868,4/17/1970,11/20/2024,Active,Finance,Sales Operations Analyst,Dallas,TX,Northeast,101755,Subscriptions,439540,110604
+6584225,1/18/1979,1/17/2018,Active,Operations,Financial Analyst,Chicago,IL,Northeast,85357,SaaS,504343,495139
+6586067,1/26/1990,6/19/2021,Active,Finance,Marketing Specialist,San Jose,CA,Northeast,58695,Subscriptions,430368,670862
+6587449,7/25/1972,12/22/2017,Active,Sales Ops,Operations Coordinator,Boston,MA,Northeast,49542,Subscriptions,1101975,391118
+6602908,9/14/1977,4/19/2023,Active,Customer Success,Sales Operations Analyst,Los Angeles,CA,Midwest,91855,Hardware,837404,828848
+6604943,7/27/1965,10/21/2020,Active,Sales Ops,Financial Analyst,Los Angeles,CA,West,61337,Hardware,173783,68261
+6606435,5/22/1994,11/4/2025,Active,Marketing,Sales Representative,Denver,CO,Midwest,69010,Professional Services,899141,852459
+6610117,11/30/1980,6/16/2019,OnLeave,Sales Ops,Account Executive,Boston,MA,Northeast,101057,Support Plans,231639,210913
+6610709,7/9/1976,3/13/2019,Active,Sales Ops,Sales Manager,Seattle,WA,South,157569,SaaS,694764,845361
+6623132,4/25/1963,3/29/2025,Active,Customer Success,Senior Account Executive,New York,NY,West,130937,Hardware,250647,375147
+6634382,12/1/1963,7/25/2021,Terminated,Customer Success,Sales Representative,Phoenix,AZ,Midwest,99756,Hardware,936712,1006443
+6639463,10/18/1986,8/29/2023,Active,Operations,Marketing Specialist,Dallas,TX,Northeast,83103,Subscriptions,273643,307853
+6641942,7/8/1989,11/17/2017,OnLeave,HR,Financial Analyst,Philadelphia,PA,South,72631,Support Plans,567803,313559
+6645467,6/21/1991,7/22/2020,Active,Customer Success,IT Support Specialist,Atlanta,GA,South,72583,Hardware,1144659,1252618
+6646386,11/27/1977,3/23/2024,Active,Operations,Marketing Specialist,Philadelphia,PA,Midwest,76982,Support Plans,199117,96419
+6648027,2/4/2008,2/18/2019,Active,Finance,Account Executive,Phoenix,AZ,Northeast,103789,Support Plans,734931,800833
+6663226,5/14/1976,11/12/2023,Active,Marketing,Customer Success Manager,Miami,FL,South,145763,SaaS,863047,250261
+6667754,4/25/1992,2/21/2024,Active,Operations,Operations Coordinator,Miami,FL,West,94589,Hardware,911512,1056204
+6671701,2/10/1973,8/8/2023,Terminated,IT,HR Generalist,Chicago,IL,West,64104,Professional Services,1021861,897140
+6674313,2/19/1986,11/26/2016,Active,Sales,IT Support Specialist,Boston,MA,West,86924,Professional Services,854522,1045221
+6677785,1/8/1962,6/25/2024,OnLeave,HR,HR Generalist,Miami,FL,Northeast,57595,Professional Services,1152653,1731188
+6679230,7/14/1969,10/29/2019,Active,Marketing,Customer Success Manager,Seattle,WA,South,79081,Professional Services,250169,78424
+6680942,7/6/2005,3/18/2020,Active,Marketing,Marketing Specialist,Philadelphia,PA,Midwest,62743,Professional Services,636209,984083
+6721790,11/5/2003,3/29/2024,Active,Marketing,Sales Operations Analyst,Miami,FL,Midwest,126190,Support Plans,789534,979553
+6742024,3/14/1987,12/17/2024,Active,Customer Success,Financial Analyst,San Antonio,TX,South,56640,Subscriptions,1192027,298165
+6745824,10/2/1963,6/6/2019,Active,Customer Success,Sales Operations Analyst,Seattle,WA,Midwest,77307,Professional Services,848102,323266
+6773323,10/18/1993,1/20/2016,Active,Marketing,Sales Representative,Philadelphia,PA,Northeast,97830,Hardware,297690,358357
+6797008,7/4/1974,4/1/2023,Active,Finance,Account Executive,New York,NY,South,95502,Professional Services,885024,792160
+6810867,11/10/1988,12/21/2024,Terminated,Sales,Marketing Specialist,Atlanta,GA,Midwest,58841,Professional Services,622958,507678
+6815422,11/6/1976,11/18/2017,Active,Marketing,Sales Operations Analyst,Seattle,WA,West,108231,SaaS,842264,672341
+6818459,1/10/2008,1/9/2024,Active,HR,Financial Analyst,Dallas,TX,South,86208,Support Plans,1048673,940349
+6823442,11/2/2005,7/8/2023,Active,HR,HR Generalist,Houston,TX,West,87749,Professional Services,798876,173585
+6828282,5/5/1993,6/1/2022,Active,Marketing,Account Executive,San Antonio,TX,West,105892,SaaS,393190,396397
+6834512,1/28/1976,1/14/2026,Active,IT,Sales Representative,San Jose,CA,Northeast,61910,Hardware,448731,496621
+6835736,3/31/1976,5/30/2022,Active,Customer Success,HR Generalist,Chicago,IL,Northeast,66043,SaaS,502283,279809
+6869294,9/6/1962,2/12/2023,OnLeave,Sales Ops,Customer Success Manager,Chicago,IL,Northeast,120736,Hardware,1072599,252841
+6870211,4/27/1969,3/13/2021,Active,Sales Ops,Sales Manager,Denver,CO,Northeast,179807,Support Plans,434857,240110
+6874820,8/10/1984,3/12/2019,Active,Operations,Sales Representative,New York,NY,Midwest,105057,Subscriptions,1096562,1381055
+6876142,12/25/2001,7/15/2019,Active,Sales,Senior Account Executive,San Jose,CA,Midwest,141865,Hardware,945445,319255
+6892664,8/13/2006,3/22/2025,Active,Marketing,Account Executive,Miami,FL,Northeast,94956,Hardware,266542,145068
+6893353,3/23/1984,12/27/2020,Terminated,Sales Ops,Account Executive,Philadelphia,PA,West,55527,SaaS,575538,144800
+6896331,12/3/1995,4/21/2016,Active,Sales Ops,Marketing Specialist,Atlanta,GA,South,65415,Subscriptions,368167,523838
+6901010,12/31/1980,10/6/2019,Active,HR,Sales Manager,Philadelphia,PA,South,155572,Subscriptions,677570,268682
+6904624,5/23/1977,1/17/2019,Active,Sales,Marketing Specialist,Seattle,WA,South,47635,Professional Services,1046883,1174702
+6908752,9/19/1963,4/1/2024,Active,Finance,Account Executive,Los Angeles,CA,Midwest,86761,SaaS,590764,265035
+6912766,4/11/1975,3/1/2020,Active,Sales,Operations Coordinator,Philadelphia,PA,Northeast,83376,Professional Services,359924,365931
+6916470,6/7/1995,10/6/2017,Active,Sales,Sales Operations Analyst,New York,NY,Northeast,81097,Hardware,965552,1477477
+6927357,12/4/1968,12/18/2016,OnLeave,Customer Success,Senior Account Executive,Dallas,TX,Midwest,143904,Hardware,905740,1431709
+6931425,2/20/2000,6/22/2022,Active,IT,HR Generalist,Atlanta,GA,West,60532,Support Plans,753743,725114
+6932343,9/18/1980,4/25/2018,Active,Customer Success,Sales Manager,Miami,FL,South,148919,Subscriptions,771885,473767
+6944456,8/29/1999,11/10/2019,Active,Operations,Sales Operations Analyst,Chicago,IL,West,68659,SaaS,917312,804686
+6952372,4/14/1998,10/10/2023,Active,Marketing,Marketing Specialist,Boston,MA,Midwest,78497,Hardware,518409,746926
+6955905,9/18/1999,7/9/2016,Active,Finance,Operations Coordinator,Denver,CO,Midwest,67301,Professional Services,371561,176478
+6958799,12/7/1987,3/23/2020,Active,Sales,HR Generalist,Philadelphia,PA,Northeast,83314,Professional Services,753204,912724
+6976126,8/7/1992,1/28/2021,Active,Sales,Operations Coordinator,Denver,CO,West,60213,SaaS,792027,233562
+6986134,9/26/1998,11/25/2021,Terminated,IT,Operations Coordinator,New York,NY,Midwest,58044,Subscriptions,371534,428387
+6986219,9/24/2001,11/30/2024,Active,Marketing,Senior Account Executive,Chicago,IL,South,155528,Support Plans,578819,845925
+7010285,3/7/1973,9/4/2025,Active,Customer Success,Sales Operations Analyst,San Jose,CA,South,77660,Subscriptions,645438,202782
+7033114,2/11/2005,1/19/2017,OnLeave,Customer Success,Operations Coordinator,Seattle,WA,South,71271,Hardware,555840,641107
+7054982,5/23/2000,4/28/2019,Active,IT,Senior Account Executive,Boston,MA,Midwest,147826,Professional Services,284677,295077
+7070848,5/2/1994,4/9/2025,OnLeave,Sales,Sales Manager,Boston,MA,Northeast,120706,Support Plans,822031,641390
+7075959,10/3/1988,11/18/2024,Active,Marketing,Sales Representative,Denver,CO,South,85605,SaaS,986695,1127209
+7079121,4/4/1997,7/7/2020,OnLeave,Marketing,Account Executive,Boston,MA,South,97563,Hardware,856097,1274218
+7080115,7/14/2004,2/28/2024,Active,Operations,Customer Success Manager,Boston,MA,Northeast,105447,Hardware,320869,118803
+7096189,11/20/1973,1/3/2023,Terminated,HR,Customer Success Manager,Phoenix,AZ,West,90413,Support Plans,439798,157632
+7097938,8/6/2007,3/6/2024,Active,IT,Marketing Specialist,Dallas,TX,South,49629,SaaS,755665,271934
+7122407,2/4/1967,11/29/2020,Active,IT,HR Generalist,San Diego,CA,Midwest,50729,Professional Services,1001749,1526854
+7127465,11/7/1967,11/22/2017,Terminated,HR,Financial Analyst,San Jose,CA,Midwest,83800,Support Plans,225619,275161
+7141939,3/10/2000,3/3/2017,OnLeave,Finance,HR Generalist,Philadelphia,PA,West,78645,SaaS,384929,173932
+7142529,9/7/2000,11/12/2017,Active,Sales Ops,Account Executive,Phoenix,AZ,South,94420,Subscriptions,400166,267684
+7148117,12/23/1971,8/31/2025,Active,HR,Sales Representative,Miami,FL,Northeast,66126,SaaS,448452,156779
+7150676,3/21/2002,10/28/2024,Active,Marketing,Sales Manager,San Antonio,TX,South,139202,SaaS,906779,393256
+7157794,6/19/2003,1/23/2023,Active,Customer Success,IT Support Specialist,Philadelphia,PA,Midwest,77339,Professional Services,777076,556089
+7163296,7/31/1983,3/21/2018,Active,Customer Success,Senior Account Executive,Philadelphia,PA,Northeast,131606,Support Plans,706589,546610
+7179092,9/9/1996,4/15/2025,Terminated,Operations,Operations Coordinator,Miami,FL,South,75912,Professional Services,883976,1349151
+7189143,1/9/1997,3/31/2020,Active,Customer Success,Senior Account Executive,Atlanta,GA,Midwest,87840,Subscriptions,388645,142337
+7189288,5/15/1989,3/1/2017,Terminated,Sales Ops,Marketing Specialist,San Antonio,TX,Northeast,60438,Support Plans,372898,478856
+7194273,7/27/1970,1/1/2016,Active,Sales Ops,Marketing Specialist,San Antonio,TX,West,50571,Professional Services,876741,941597
+7196910,9/5/1995,9/1/2025,Active,Customer Success,Account Executive,Atlanta,GA,Midwest,63584,SaaS,561230,769048
+7197063,10/27/2006,8/30/2020,Active,Finance,Financial Analyst,San Antonio,TX,Northeast,84733,Hardware,729677,340409
+7207338,1/28/1989,7/27/2025,Terminated,Sales Ops,Account Executive,Atlanta,GA,West,94150,SaaS,703145,1049152
+7210171,10/24/1990,5/7/2021,Active,Sales Ops,Sales Manager,New York,NY,West,110164,SaaS,724599,982377
+7211065,7/17/1971,10/24/2023,OnLeave,Sales,Account Executive,Phoenix,AZ,Northeast,91406,SaaS,368437,429983
+7214659,12/23/2008,8/23/2024,OnLeave,Marketing,Marketing Specialist,Houston,TX,Midwest,92318,Professional Services,825096,500968
+7238798,11/24/2004,11/22/2017,Active,Customer Success,Sales Operations Analyst,San Diego,CA,South,94905,Professional Services,851026,378377
+7243154,9/26/1994,1/5/2019,Active,Marketing,Sales Representative,San Antonio,TX,Northeast,107336,Support Plans,351110,298953
+7249914,11/8/1963,6/12/2022,OnLeave,IT,Financial Analyst,Boston,MA,South,72869,Professional Services,502576,235622
+7278994,3/17/1963,8/1/2022,Active,Customer Success,Financial Analyst,Phoenix,AZ,Midwest,59604,SaaS,211454,132413
+7285502,12/13/2007,8/10/2021,Active,Sales,Sales Operations Analyst,Phoenix,AZ,West,81047,Professional Services,824285,865286
+7287181,9/22/1983,2/27/2016,Active,Operations,Sales Representative,Chicago,IL,South,95200,Hardware,525907,478238
+7310855,10/13/1961,9/11/2021,Active,Operations,IT Support Specialist,Chicago,IL,Midwest,61791,Hardware,602363,425210
+7319916,5/3/2004,2/18/2017,Terminated,IT,Customer Success Manager,New York,NY,Midwest,117717,Professional Services,647695,432856
+7323389,1/4/1998,3/30/2025,Active,HR,Senior Account Executive,San Antonio,TX,West,115987,SaaS,693499,981672
+7324591,3/23/2002,9/29/2021,OnLeave,Operations,Operations Coordinator,Seattle,WA,West,92385,Support Plans,150033,201986
+7335711,6/22/1992,3/31/2025,Terminated,Sales Ops,Sales Manager,Boston,MA,South,119619,Professional Services,197512,260007
+7355910,12/5/1964,4/3/2021,Active,Operations,Operations Coordinator,Chicago,IL,Midwest,80123,Hardware,217950,190905
+7370810,8/7/2008,11/6/2023,Active,HR,Sales Manager,Phoenix,AZ,West,146797,Professional Services,1188875,1670264
+7371292,1/27/1997,10/15/2016,Active,Customer Success,HR Generalist,Atlanta,GA,South,52585,Professional Services,588843,167291
+7373601,10/6/2008,11/22/2020,Active,Marketing,Financial Analyst,Los Angeles,CA,Northeast,74546,SaaS,718758,1092294
+7374519,12/29/2001,2/18/2021,Terminated,IT,Financial Analyst,Los Angeles,CA,South,73366,Hardware,567846,156338
+7381285,8/21/1993,11/21/2022,Active,IT,Sales Operations Analyst,Denver,CO,Midwest,93107,SaaS,1110914,1330055
+7385240,1/29/1967,3/30/2016,Terminated,Finance,Financial Analyst,Houston,TX,Midwest,84664,Subscriptions,1172480,1147063
+7402060,10/17/1985,9/24/2021,OnLeave,Customer Success,Marketing Specialist,Phoenix,AZ,West,79906,Hardware,735729,225832
+7404495,7/16/1992,5/13/2025,Active,Customer Success,IT Support Specialist,Atlanta,GA,Midwest,90666,Support Plans,704379,269135
+7410642,10/15/1996,11/25/2016,Active,Marketing,Senior Account Executive,Los Angeles,CA,West,107140,SaaS,207754,149083
+7411157,2/3/1998,8/18/2022,OnLeave,Operations,Financial Analyst,Denver,CO,South,51214,Support Plans,1044098,961881
+7420693,3/17/1987,7/19/2021,OnLeave,HR,Sales Manager,Philadelphia,PA,Midwest,152767,SaaS,916308,629500
+7421707,10/31/1971,6/6/2025,Active,Operations,IT Support Specialist,San Antonio,TX,South,65762,Professional Services,733128,855347
+7436756,8/17/1983,1/7/2025,OnLeave,Sales Ops,Sales Representative,San Antonio,TX,Midwest,105091,Support Plans,712685,327442
+7440176,10/31/1987,8/30/2021,Terminated,Marketing,Sales Operations Analyst,Boston,MA,Midwest,90273,SaaS,1024339,249596
+7443686,7/17/1980,6/13/2018,Terminated,Marketing,Customer Success Manager,Houston,TX,Midwest,89948,Hardware,151188,226590
+7459423,6/25/1965,8/23/2017,OnLeave,Customer Success,Sales Representative,Dallas,TX,Midwest,124247,SaaS,1104163,828595
+7461854,7/1/1977,1/21/2025,OnLeave,Marketing,Operations Coordinator,San Jose,CA,West,53211,Subscriptions,260555,80412
+7472460,2/13/1978,12/24/2017,Active,HR,HR Generalist,Boston,MA,West,60090,Support Plans,416741,248488
+7479476,8/21/1989,2/9/2025,OnLeave,HR,HR Generalist,San Antonio,TX,South,59370,Subscriptions,736352,1081130
+7484153,2/10/1979,10/8/2020,Active,HR,Sales Manager,Phoenix,AZ,Midwest,153957,Support Plans,496872,770121
+7489109,7/2/1963,8/7/2020,Active,Operations,Customer Success Manager,San Diego,CA,South,129496,Support Plans,397977,309484
+7491159,3/24/1962,5/20/2018,Terminated,Sales Ops,Operations Coordinator,Miami,FL,Northeast,93946,Professional Services,1015523,1174280
+7491478,3/16/1970,3/11/2022,OnLeave,Marketing,HR Generalist,San Antonio,TX,West,60762,Support Plans,873082,1308043
+7505050,6/21/2003,4/4/2024,Active,Finance,Senior Account Executive,Seattle,WA,Midwest,153659,Support Plans,1163123,1417056
+7512577,11/19/1990,7/30/2025,Active,Sales Ops,Operations Coordinator,Boston,MA,South,59157,Professional Services,702114,1026322
+7537326,4/1/1969,3/1/2020,Active,Sales Ops,Sales Operations Analyst,Boston,MA,Northeast,70212,Support Plans,410397,405789
+7540800,11/14/1979,11/7/2021,OnLeave,Sales,Sales Manager,Philadelphia,PA,West,183677,Hardware,1161667,1331198
+7563471,10/8/1980,2/2/2017,OnLeave,Finance,HR Generalist,New York,NY,Northeast,75599,Professional Services,599266,898655
+7568227,1/4/1980,4/20/2016,OnLeave,Operations,HR Generalist,Chicago,IL,Northeast,62989,Support Plans,454083,479079
+7568714,7/11/1986,8/10/2016,OnLeave,Sales Ops,Operations Coordinator,Atlanta,GA,Midwest,77297,Subscriptions,215275,271023
+7570297,10/15/1967,12/25/2017,Active,IT,Marketing Specialist,Atlanta,GA,South,53109,Subscriptions,963713,1111567
+7588871,5/7/2006,11/14/2019,OnLeave,IT,Senior Account Executive,Chicago,IL,Northeast,149643,Professional Services,746897,575153
+7605189,1/3/1996,12/8/2016,Active,HR,Sales Operations Analyst,Miami,FL,Midwest,83312,Support Plans,1145382,1569992
+7605920,1/1/1967,4/6/2025,Active,Finance,Financial Analyst,Phoenix,AZ,South,90927,Hardware,494519,593773
+7636016,1/19/2003,3/5/2018,OnLeave,Marketing,Financial Analyst,Los Angeles,CA,Midwest,82024,Subscriptions,931869,1292780
+7637363,3/21/1977,1/29/2022,Active,HR,Account Executive,Chicago,IL,Northeast,101425,Professional Services,348262,441209
+7646892,6/23/2006,12/5/2025,Active,Sales Ops,Account Executive,San Jose,CA,West,78146,Hardware,1160992,1025938
+7650186,3/8/1992,8/4/2020,OnLeave,HR,Operations Coordinator,San Antonio,TX,West,48311,SaaS,817178,783953
+7666101,4/26/1968,6/30/2016,Active,Marketing,IT Support Specialist,Boston,MA,Midwest,79877,Professional Services,734705,710056
+7669945,9/11/1989,9/1/2020,Active,HR,Sales Representative,Phoenix,AZ,Midwest,113541,SaaS,497592,343937
+7675195,4/27/1995,1/23/2016,OnLeave,Customer Success,Senior Account Executive,Boston,MA,Northeast,149211,Support Plans,821541,888387
+7678042,4/30/1986,4/8/2025,Active,Operations,Marketing Specialist,New York,NY,West,67966,Support Plans,561464,646005
+7717933,7/20/1998,6/21/2024,Active,Marketing,Financial Analyst,Phoenix,AZ,South,93143,Professional Services,1137400,1435720
+7720994,8/11/1962,4/21/2023,OnLeave,IT,Customer Success Manager,Phoenix,AZ,West,108789,Support Plans,693562,487685
+7725872,12/15/1983,8/9/2018,Active,Operations,Sales Manager,Chicago,IL,South,171744,Support Plans,1072483,1628012
+7730130,5/9/1978,1/1/2016,Active,Customer Success,Marketing Specialist,Phoenix,AZ,Northeast,64944,Support Plans,529268,513130
+7734267,6/11/1975,3/10/2020,Active,Sales Ops,Sales Operations Analyst,Houston,TX,South,119998,SaaS,1172770,844050
+7736593,9/11/1991,12/9/2021,Active,Customer Success,Operations Coordinator,Miami,FL,Northeast,71710,Subscriptions,245216,251787
+7741254,9/6/1978,5/27/2018,Active,HR,Sales Operations Analyst,Dallas,TX,South,85606,Professional Services,456001,316200
+7749876,5/24/1961,11/30/2021,Active,HR,HR Generalist,Denver,CO,Midwest,88074,Support Plans,945537,1263520
+7754803,7/3/1963,7/22/2020,Terminated,Operations,Senior Account Executive,Seattle,WA,South,118914,Support Plans,313591,86591
+7754808,7/23/1993,11/16/2017,Active,Marketing,Sales Representative,Los Angeles,CA,West,96364,Professional Services,348029,473096
+7759605,5/5/1980,4/29/2023,Active,Finance,Marketing Specialist,Philadelphia,PA,Northeast,90744,Professional Services,832380,273186
+7759653,11/8/2003,11/15/2016,Active,Sales,Sales Operations Analyst,Boston,MA,Midwest,109630,Hardware,349296,329557
+7771939,11/8/1968,12/28/2019,Active,HR,Sales Operations Analyst,Boston,MA,West,64873,Hardware,1094595,1555893
+7777897,5/23/1995,5/20/2024,OnLeave,HR,Customer Success Manager,Chicago,IL,West,136608,Support Plans,533163,207915
+7797904,12/8/2006,11/17/2023,Active,Sales Ops,Operations Coordinator,Seattle,WA,Northeast,63930,SaaS,610484,625866
+7801815,5/8/2002,7/12/2024,Active,Operations,Account Executive,Los Angeles,CA,South,93417,Subscriptions,781186,1078545
+7820024,12/4/1984,1/1/2016,Active,Customer Success,Financial Analyst,Los Angeles,CA,Midwest,62433,SaaS,562314,894872
+7825623,4/22/1994,12/24/2020,Terminated,Operations,Account Executive,Boston,MA,South,93493,Hardware,410137,126227
+7849216,6/18/1977,6/15/2018,Active,Marketing,HR Generalist,Houston,TX,Midwest,57211,Professional Services,985179,360809
+7849278,7/12/1980,1/7/2020,Active,Sales,Operations Coordinator,Atlanta,GA,Midwest,73444,Support Plans,303266,197563
+7861893,11/13/2002,7/4/2024,Active,Sales,Account Executive,Atlanta,GA,West,95297,Subscriptions,247935,242109
+7862725,11/15/1981,3/1/2019,Active,HR,Sales Operations Analyst,Seattle,WA,Midwest,92503,Subscriptions,505758,631841
+7866181,5/23/1978,12/4/2018,Active,Finance,Customer Success Manager,Boston,MA,West,111522,Subscriptions,534924,663439
+7880129,5/31/1965,3/4/2016,Terminated,Marketing,IT Support Specialist,Houston,TX,Midwest,62407,SaaS,261014,337933
+7884071,6/25/1992,8/15/2025,Active,Sales,Sales Operations Analyst,San Diego,CA,West,79406,Subscriptions,1195916,461041
+7891128,8/6/1969,2/17/2018,Active,Customer Success,Marketing Specialist,San Antonio,TX,West,63973,Hardware,889231,1076398
+7899554,4/12/1989,1/13/2017,OnLeave,Sales,Customer Success Manager,Chicago,IL,Northeast,126289,SaaS,150739,84855
+7899857,8/7/1996,4/15/2023,Active,Operations,Sales Representative,Dallas,TX,South,114290,Professional Services,280294,354161
+7902154,11/15/2004,3/6/2017,Active,HR,Customer Success Manager,San Diego,CA,Northeast,132362,Support Plans,792896,186564
+7906621,4/26/2008,4/26/2023,Terminated,HR,Customer Success Manager,San Jose,CA,Northeast,92940,Support Plans,918109,537209
+7921364,11/13/1981,10/20/2022,OnLeave,Sales,Sales Manager,Phoenix,AZ,Northeast,165882,Subscriptions,239981,74925
+7926094,2/16/2006,1/30/2021,OnLeave,HR,Financial Analyst,Seattle,WA,Midwest,84172,SaaS,176173,185448
+7937732,9/19/2004,4/15/2017,Active,Finance,Account Executive,Miami,FL,West,125669,Professional Services,924109,488695
+7942358,5/19/1985,7/12/2025,Active,Sales Ops,Senior Account Executive,Philadelphia,PA,Northeast,150362,Professional Services,175667,231255
+7945438,11/24/1979,10/23/2017,OnLeave,IT,Sales Manager,Houston,TX,West,108031,Professional Services,634213,869684
+7958661,8/11/1962,6/12/2025,Active,Sales Ops,Sales Manager,Chicago,IL,West,123062,Support Plans,1059886,857800
+7963748,9/27/2006,11/20/2021,Active,Customer Success,Marketing Specialist,Atlanta,GA,Northeast,75130,Subscriptions,761491,984557
+7982493,3/7/1962,9/13/2024,Active,Customer Success,Sales Manager,Houston,TX,West,114445,SaaS,1091674,483361
+7996654,3/7/1987,2/19/2025,OnLeave,Finance,Senior Account Executive,San Antonio,TX,South,153858,SaaS,391263,164681
+7996900,7/10/2001,4/27/2018,Active,Operations,HR Generalist,San Antonio,TX,Northeast,50534,Subscriptions,1087561,1725809
+7997426,7/31/1985,1/2/2022,OnLeave,Marketing,Senior Account Executive,Chicago,IL,South,133453,Subscriptions,903206,453275
+8007417,12/29/1970,4/12/2019,OnLeave,Sales Ops,Account Executive,Chicago,IL,West,58756,Professional Services,903556,546160
+8009062,2/18/1997,3/13/2020,Active,Operations,Senior Account Executive,Seattle,WA,Midwest,135579,Subscriptions,707932,730287
+8009396,8/18/1996,10/9/2018,Terminated,IT,Financial Analyst,Chicago,IL,Midwest,66859,Hardware,1052158,644628
+8011650,5/18/1989,12/1/2016,Active,Sales Ops,Senior Account Executive,San Antonio,TX,Northeast,117394,SaaS,945339,924536
+8018532,8/8/2003,9/4/2023,Active,Sales Ops,Sales Manager,Los Angeles,CA,Midwest,116683,Hardware,292405,440114
+8036959,12/5/1964,1/2/2019,Terminated,HR,Financial Analyst,New York,NY,Northeast,70653,Professional Services,621880,428816
+8037566,10/9/1993,9/17/2020,Terminated,Sales Ops,IT Support Specialist,Los Angeles,CA,South,94346,Professional Services,590743,887575
+8044091,4/21/2001,8/17/2021,Active,Sales Ops,HR Generalist,Atlanta,GA,Northeast,89230,Hardware,372804,147609
+8057531,4/4/2007,12/3/2022,Active,Customer Success,Sales Operations Analyst,Phoenix,AZ,West,65000,Hardware,568972,510358
+8066778,2/16/2008,10/11/2017,Active,HR,Customer Success Manager,San Diego,CA,West,152149,Support Plans,404199,177357
+8101307,11/29/1997,2/26/2019,Active,Sales,Sales Manager,Houston,TX,Northeast,137927,Subscriptions,538678,745232
+8111115,5/25/1974,12/5/2016,Active,Finance,IT Support Specialist,Atlanta,GA,West,71510,Support Plans,352351,363247
+8112742,10/8/1963,6/23/2016,Active,Sales,Customer Success Manager,Los Angeles,CA,South,128678,Professional Services,827001,905015
+8112920,5/26/1964,4/28/2019,Active,HR,Customer Success Manager,Chicago,IL,West,108131,Hardware,748203,1010790
+8128676,12/13/1982,10/30/2016,Active,Sales Ops,Sales Manager,Boston,MA,South,188586,Support Plans,1075254,852783
+8132637,9/6/1997,4/3/2023,OnLeave,Marketing,Marketing Specialist,Houston,TX,West,55775,Subscriptions,1011339,948272
+8138821,6/29/1985,12/7/2023,OnLeave,Finance,Operations Coordinator,Los Angeles,CA,South,88622,Support Plans,801233,754285
+8141505,11/23/1981,6/21/2022,Active,Sales Ops,Marketing Specialist,San Diego,CA,South,74144,Professional Services,288585,290636
+8154490,2/21/1991,7/2/2020,Active,Operations,HR Generalist,Miami,FL,West,81747,Professional Services,1113035,1668054
+8177956,3/9/1973,1/24/2022,OnLeave,HR,Sales Operations Analyst,San Antonio,TX,South,87295,Hardware,573607,772279
+8187337,2/20/1970,2/25/2024,Active,Finance,Marketing Specialist,Denver,CO,Midwest,69038,Support Plans,760781,403703
+8190861,6/11/1991,5/6/2020,Active,Sales Ops,Customer Success Manager,Dallas,TX,West,120263,Professional Services,1106256,438317
+8202421,3/13/1988,11/14/2016,Active,Finance,IT Support Specialist,Denver,CO,South,57647,SaaS,796025,1069272
+8213150,7/21/1995,3/14/2025,Active,Customer Success,Account Executive,New York,NY,Northeast,127437,Professional Services,395867,476325
+8213939,1/17/1979,1/27/2019,Active,Sales,HR Generalist,Phoenix,AZ,Midwest,69471,Subscriptions,944140,502693
+8215410,3/22/1994,9/28/2020,Active,Sales,IT Support Specialist,New York,NY,South,47978,Subscriptions,1001425,432553
+8220936,4/27/1967,10/11/2016,OnLeave,IT,Marketing Specialist,Los Angeles,CA,Northeast,85154,Professional Services,211247,54610
+8241217,3/25/1989,3/29/2024,Active,Sales,Sales Manager,Atlanta,GA,Northeast,143664,Professional Services,1121741,926895
+8246488,2/14/1988,2/28/2025,Active,IT,Sales Operations Analyst,San Antonio,TX,Midwest,71733,Subscriptions,931819,1123374
+8261528,4/18/1975,12/23/2021,Terminated,Marketing,Senior Account Executive,Los Angeles,CA,South,149223,Subscriptions,605541,842860
+8287112,5/1/2003,7/13/2019,Active,Sales,Senior Account Executive,Houston,TX,Midwest,137828,Subscriptions,1185007,826521
+8301619,10/2/1995,12/31/2025,Active,Customer Success,IT Support Specialist,Houston,TX,West,60699,Professional Services,1135887,1073090
+8317084,11/1/2006,4/19/2019,Active,Marketing,Account Executive,Los Angeles,CA,Midwest,93025,Professional Services,534932,469580
+8336561,11/12/1988,12/25/2024,Active,Sales,Sales Manager,New York,NY,South,138243,Support Plans,801574,899418
+8339614,8/23/1971,5/31/2019,Active,Operations,Customer Success Manager,Atlanta,GA,Northeast,106552,Professional Services,589019,728320
+8345069,7/14/1968,11/16/2022,OnLeave,Marketing,IT Support Specialist,Miami,FL,Northeast,45336,Professional Services,206816,190338
+8345613,5/27/1978,9/5/2021,Active,Finance,Customer Success Manager,Dallas,TX,Northeast,130539,Hardware,872549,996968
+8369845,10/9/2003,8/7/2025,Active,Customer Success,Customer Success Manager,Los Angeles,CA,Northeast,77536,Subscriptions,1124262,1645500
+8386792,8/9/1977,3/8/2018,Active,Finance,Sales Operations Analyst,New York,NY,South,111058,Support Plans,213547,116642
+8429908,7/6/1980,3/20/2024,Active,Sales,Marketing Specialist,Houston,TX,West,65288,Support Plans,552687,495890
+8443534,2/18/1974,1/28/2018,OnLeave,Sales Ops,HR Generalist,Boston,MA,Midwest,60778,Hardware,838830,647752
+8453470,6/26/2003,6/21/2025,OnLeave,Operations,Customer Success Manager,Denver,CO,South,109911,Professional Services,609476,670650
+8470112,3/14/1963,11/28/2019,OnLeave,HR,Marketing Specialist,Philadelphia,PA,West,47104,SaaS,846004,1020618
+8484219,4/20/1988,7/9/2019,Active,Sales,Sales Manager,Atlanta,GA,South,141743,Hardware,817524,599064
+8494344,10/2/1994,3/16/2025,Terminated,Sales,Customer Success Manager,San Diego,CA,Northeast,157984,Support Plans,367380,494947
+8500133,11/5/1962,1/19/2022,Terminated,Operations,Senior Account Executive,Houston,TX,West,125908,Hardware,929039,390475
+8500391,1/16/1979,6/18/2021,Active,Operations,IT Support Specialist,San Jose,CA,West,75459,Hardware,1092194,1384430
+8504183,7/18/1990,9/26/2021,Active,Sales Ops,HR Generalist,San Antonio,TX,Midwest,62988,Subscriptions,509671,353750
+8506714,11/14/1975,6/11/2016,Active,Customer Success,Sales Representative,San Jose,CA,Midwest,77845,Professional Services,716086,219241
+8518080,8/26/2001,8/29/2023,Terminated,Sales,Sales Representative,Chicago,IL,Northeast,76996,SaaS,366303,389976
+8531198,6/30/1995,10/25/2019,Active,Operations,Senior Account Executive,San Jose,CA,Midwest,132778,Professional Services,680504,404836
+8531561,10/3/2007,8/3/2023,Active,IT,Marketing Specialist,Boston,MA,Midwest,86954,SaaS,633618,405419
+8545163,6/20/1996,11/16/2019,Terminated,Marketing,Financial Analyst,Boston,MA,South,65164,Subscriptions,446480,182089
+8573474,1/19/2001,10/20/2021,Terminated,Customer Success,IT Support Specialist,Phoenix,AZ,Midwest,75668,Subscriptions,414115,632860
+8584793,6/11/1997,9/19/2019,Active,Customer Success,Account Executive,New York,NY,Midwest,87153,Support Plans,690874,1064103
+8594658,4/1/1970,10/13/2020,Terminated,Customer Success,Senior Account Executive,Phoenix,AZ,West,108944,Professional Services,1015795,1326808
+8616850,1/16/2005,4/28/2017,Active,Sales,Account Executive,Miami,FL,Northeast,117030,Support Plans,387000,316742
+8638236,11/25/1982,10/9/2020,OnLeave,Sales,IT Support Specialist,Miami,FL,South,54015,Subscriptions,1029860,805369
+8656906,1/5/1972,12/15/2017,Active,IT,Customer Success Manager,Phoenix,AZ,Northeast,123314,SaaS,1073087,714788
+8676768,7/23/1983,4/25/2022,OnLeave,Marketing,Sales Operations Analyst,Denver,CO,Midwest,79916,Hardware,401271,339417
+8688246,9/4/1993,10/7/2019,Terminated,Sales,Marketing Specialist,Dallas,TX,Midwest,54943,Professional Services,912830,1034699
+8716467,11/21/1962,11/15/2018,Terminated,Operations,Customer Success Manager,San Jose,CA,West,122592,SaaS,967668,1139014
+8722110,7/19/1978,1/12/2025,Active,Marketing,Sales Operations Analyst,New York,NY,Northeast,97092,Hardware,251753,181796
+8726367,5/28/1961,9/11/2020,Active,HR,Sales Manager,Phoenix,AZ,South,138006,Hardware,905951,1094892
+8735542,8/12/1961,2/25/2018,Active,Customer Success,Operations Coordinator,Atlanta,GA,South,66112,Professional Services,206426,296370
+8747712,9/7/1975,1/17/2016,Active,Operations,Sales Representative,Atlanta,GA,Midwest,55256,SaaS,738698,364325
+8770334,2/20/2006,2/24/2020,Active,IT,Marketing Specialist,Chicago,IL,South,73096,SaaS,464020,626424
+8791287,9/30/1966,6/15/2022,OnLeave,IT,HR Generalist,San Diego,CA,Midwest,85031,Subscriptions,549132,199198
+8812459,2/7/1987,4/26/2021,OnLeave,IT,HR Generalist,Miami,FL,West,88214,Professional Services,405048,361077
+8822104,9/25/1996,8/13/2017,Active,Sales Ops,IT Support Specialist,Seattle,WA,West,77002,Hardware,525307,326667
+8822136,3/7/1988,8/31/2023,OnLeave,Operations,Customer Success Manager,New York,NY,Midwest,113886,Support Plans,843263,991059
+8825905,4/25/1972,1/27/2016,Active,Sales Ops,Financial Analyst,Philadelphia,PA,Northeast,68832,Subscriptions,841361,548448
+8833611,5/24/1996,3/2/2021,Active,Customer Success,IT Support Specialist,Seattle,WA,South,78219,Professional Services,1198864,1827451
+8839218,11/16/2008,1/25/2025,Terminated,Sales,IT Support Specialist,Dallas,TX,West,88363,Support Plans,179854,200162
+8844473,6/18/1995,4/4/2022,Terminated,HR,Sales Manager,Boston,MA,Midwest,155939,SaaS,746973,400420
+8848430,4/20/1991,5/16/2024,Active,Operations,Sales Operations Analyst,Philadelphia,PA,Midwest,104293,Subscriptions,808630,914777
+8851664,10/9/1992,2/26/2025,Active,Operations,Account Executive,Denver,CO,West,91566,Subscriptions,542286,285912
+8865271,7/6/1964,4/19/2016,Active,HR,Sales Manager,Denver,CO,South,162054,SaaS,626826,493381
+8869532,8/20/1983,1/14/2024,Active,HR,HR Generalist,Atlanta,GA,West,52960,Support Plans,1097026,1167055
+8875910,4/24/1984,9/28/2024,OnLeave,Finance,HR Generalist,Phoenix,AZ,South,78983,Support Plans,1087819,1472561
+8876621,3/22/1970,12/9/2024,Terminated,IT,Sales Representative,Atlanta,GA,Midwest,79820,Professional Services,343826,185862
+8884344,11/18/1983,10/1/2018,Active,IT,Customer Success Manager,Dallas,TX,Northeast,140749,SaaS,1182797,308924
+8892137,11/26/1977,6/23/2019,OnLeave,Sales Ops,Sales Operations Analyst,San Jose,CA,Northeast,124713,SaaS,585373,791026
+8900437,4/1/1966,5/12/2021,OnLeave,Operations,HR Generalist,Boston,MA,South,57162,Hardware,793161,188812
+8907479,8/5/1981,10/21/2021,Active,Sales,Senior Account Executive,Houston,TX,Northeast,123929,Subscriptions,1064174,1310064
+8910239,6/23/1962,5/21/2025,OnLeave,Marketing,Account Executive,Houston,TX,Northeast,73863,Support Plans,1024351,530374
+8915401,9/11/1969,12/31/2024,OnLeave,Sales,Senior Account Executive,New York,NY,Midwest,113846,Subscriptions,1044793,1383231
+8921220,4/27/2001,11/24/2022,Terminated,Sales Ops,Customer Success Manager,Denver,CO,Northeast,102896,Hardware,1169389,732385
+8940601,8/26/1973,5/4/2019,Active,HR,Senior Account Executive,San Diego,CA,West,89253,Professional Services,999523,636162
+8945176,12/2/1980,7/14/2021,Active,Operations,Customer Success Manager,San Jose,CA,South,99669,Subscriptions,738048,278040
+8959208,4/11/2008,4/18/2018,Active,Operations,Operations Coordinator,Miami,FL,West,73325,Subscriptions,1076379,411782
+8977384,8/6/1977,1/19/2023,Active,Operations,Marketing Specialist,Los Angeles,CA,Midwest,62006,Hardware,275565,70150
+8980474,7/26/1965,2/14/2018,Terminated,Finance,Financial Analyst,San Antonio,TX,South,94977,Support Plans,630080,882411
+8985071,11/12/1993,3/7/2020,Terminated,Customer Success,Marketing Specialist,Seattle,WA,Northeast,56405,Support Plans,699071,193208
+9001313,8/13/1977,4/20/2023,Active,Marketing,HR Generalist,Dallas,TX,South,81336,Professional Services,326267,96961
+9001819,8/19/2003,12/9/2020,Active,Sales Ops,Customer Success Manager,Philadelphia,PA,South,132651,Subscriptions,648650,875783
+9008950,6/23/1978,6/30/2016,Active,Sales Ops,Account Executive,San Jose,CA,South,115114,Subscriptions,515486,803474
+9009043,7/24/1981,1/20/2024,Active,Sales Ops,Senior Account Executive,New York,NY,Northeast,129673,Support Plans,175519,175283
+9017404,9/1/1977,7/29/2020,Active,Operations,Sales Manager,Philadelphia,PA,Northeast,113837,Hardware,945601,1010505
+9018314,10/25/1986,10/1/2019,Active,Sales Ops,IT Support Specialist,Atlanta,GA,Midwest,62255,Subscriptions,190209,253824
+9027296,2/17/1975,5/21/2025,Terminated,Customer Success,Customer Success Manager,Houston,TX,Northeast,93483,Professional Services,1121231,1225568
+9030740,5/28/1977,2/27/2020,Active,HR,IT Support Specialist,Dallas,TX,Northeast,85385,SaaS,479745,636819
+9045358,1/25/1992,2/4/2019,OnLeave,IT,Sales Representative,Denver,CO,West,90496,Professional Services,444893,371787
+9056879,1/8/1997,11/8/2024,Active,Sales,HR Generalist,Seattle,WA,South,62210,Professional Services,841484,582846
+9063761,12/4/1996,2/9/2023,Active,Marketing,Senior Account Executive,Boston,MA,Midwest,154812,Professional Services,862037,426626
+9064527,3/24/1966,10/8/2024,Active,Customer Success,Operations Coordinator,San Jose,CA,West,65744,Subscriptions,400508,325644
+9073469,8/23/1970,12/26/2016,Active,HR,Financial Analyst,Philadelphia,PA,West,70405,Hardware,712021,817902
+9077226,3/17/1972,7/7/2019,Active,Customer Success,Senior Account Executive,San Antonio,TX,Midwest,149436,Subscriptions,958687,1093657
+9089532,8/6/2007,1/17/2020,OnLeave,Operations,Sales Manager,San Diego,CA,West,136408,SaaS,872928,969356
+9106597,4/28/2006,9/11/2022,Active,Customer Success,Sales Operations Analyst,Atlanta,GA,Midwest,91171,SaaS,869493,947668
+9127566,11/12/2007,5/30/2025,Active,Sales,Sales Operations Analyst,Denver,CO,Northeast,74290,SaaS,1156573,1261327
+9137529,9/28/1962,9/3/2023,Active,Finance,Sales Operations Analyst,Houston,TX,Northeast,112248,Hardware,177462,229165
+9138921,3/2/1975,5/23/2018,Terminated,Customer Success,Operations Coordinator,Los Angeles,CA,South,68425,Hardware,938026,525028
+9146624,5/12/2000,5/21/2021,Active,Customer Success,Customer Success Manager,Phoenix,AZ,Midwest,140155,Subscriptions,313091,329831
+9149315,4/24/2005,3/24/2019,Active,HR,Sales Representative,Seattle,WA,Midwest,97001,Hardware,877075,552181
+9154322,7/26/1987,8/30/2020,Active,Marketing,HR Generalist,Boston,MA,South,64212,Subscriptions,648690,652748
+9163714,2/3/2006,1/28/2020,Active,HR,Operations Coordinator,Phoenix,AZ,Midwest,57347,SaaS,927997,1153461
+9172284,4/28/1963,10/12/2020,Active,Operations,Sales Manager,San Jose,CA,South,100448,SaaS,863247,627475
+9172556,3/18/1988,4/5/2018,Active,Customer Success,Marketing Specialist,Dallas,TX,West,84199,Subscriptions,1181436,1679713
+9173032,9/22/2002,12/26/2022,OnLeave,Sales,Account Executive,Phoenix,AZ,Midwest,77292,Support Plans,1164749,953774
+9175615,2/12/1970,9/9/2019,Active,Customer Success,Sales Manager,Los Angeles,CA,West,131877,Hardware,769349,489267
+9176248,2/7/1986,4/11/2018,Terminated,HR,Financial Analyst,San Jose,CA,West,94413,Support Plans,743153,1171093
+9178502,7/28/2002,11/28/2021,Active,Sales,Operations Coordinator,Boston,MA,West,53317,Professional Services,691741,183367
+9178909,10/9/2005,9/18/2020,Active,Finance,IT Support Specialist,Atlanta,GA,South,83565,Support Plans,815964,1113247
+9179932,5/18/1974,9/4/2025,Active,Sales Ops,Marketing Specialist,Atlanta,GA,Northeast,75798,Subscriptions,275530,145857
+9188861,12/18/1992,8/25/2016,Active,Operations,IT Support Specialist,Miami,FL,South,78312,Support Plans,1199036,435584
+9191837,8/13/1975,6/18/2021,Active,Finance,Marketing Specialist,Chicago,IL,South,83172,Subscriptions,738206,481317
+9195872,5/25/1965,5/27/2021,Active,Finance,Customer Success Manager,San Jose,CA,Midwest,74684,Hardware,838516,865675
+9204336,5/21/1967,9/13/2017,Active,Marketing,Financial Analyst,New York,NY,West,61106,SaaS,153175,164163
+9206306,3/31/1978,3/24/2021,Active,HR,Customer Success Manager,Atlanta,GA,Midwest,144133,Hardware,1043131,1127565
+9211353,5/4/1993,4/26/2022,Active,Marketing,Operations Coordinator,Denver,CO,Northeast,90683,Professional Services,643793,524434
+9220688,6/13/2000,6/24/2021,Active,Finance,HR Generalist,Atlanta,GA,Northeast,80422,Subscriptions,697745,413480
+9232921,1/29/1988,3/16/2018,Active,Sales,Operations Coordinator,Phoenix,AZ,Midwest,91490,Professional Services,197235,211253
+9235513,6/11/1995,1/15/2018,Terminated,HR,Customer Success Manager,Chicago,IL,South,126285,Hardware,727250,1098476
+9274548,3/24/1978,7/26/2025,Active,Marketing,Sales Manager,Philadelphia,PA,Northeast,118583,Hardware,373151,399125
+9275580,11/19/1977,7/7/2025,OnLeave,Customer Success,Account Executive,Houston,TX,Northeast,90080,SaaS,289976,212241
+9277919,1/11/1990,7/11/2020,Active,Sales Ops,Financial Analyst,San Jose,CA,West,89999,Professional Services,574660,272323
+9285569,2/15/1972,6/14/2021,Terminated,Customer Success,Customer Success Manager,Seattle,WA,Midwest,93507,Hardware,219128,86085
+9285808,9/26/1976,7/24/2024,Terminated,Sales,Senior Account Executive,Dallas,TX,South,114547,Support Plans,1105295,466928
+9298940,8/5/1978,9/28/2018,OnLeave,IT,Account Executive,Houston,TX,Midwest,78559,Support Plans,1042072,867859
+9304559,3/8/1988,6/5/2018,Active,HR,Sales Operations Analyst,New York,NY,West,88542,Subscriptions,663482,814488
+9308084,8/1/1985,6/8/2017,OnLeave,Customer Success,Customer Success Manager,Houston,TX,South,85498,SaaS,1199495,1278068
+9313448,12/2/1971,12/1/2021,Active,Sales Ops,Sales Operations Analyst,Boston,MA,Midwest,98808,Professional Services,1037867,898102
+9315457,5/9/1961,6/4/2022,Active,IT,Marketing Specialist,Philadelphia,PA,Northeast,59697,Support Plans,921618,894597
+9328244,12/23/1995,1/1/2024,Active,Sales Ops,HR Generalist,Houston,TX,South,50895,Hardware,1024842,703864
+9329435,5/11/1988,6/26/2020,OnLeave,Finance,IT Support Specialist,Boston,MA,Northeast,86848,Hardware,1056852,1081002
+9335921,5/13/1998,8/18/2024,Active,Finance,Sales Representative,Miami,FL,Northeast,114749,Support Plans,614691,960278
+9346460,3/14/1966,3/29/2023,Active,Operations,Sales Manager,Atlanta,GA,Midwest,172685,SaaS,526934,161816
+9350532,12/27/1991,11/14/2021,Active,HR,Sales Representative,Boston,MA,South,114212,SaaS,1009755,1036041
+9352739,3/13/1974,12/23/2025,Active,HR,Financial Analyst,New York,NY,Midwest,57586,Hardware,1104439,1260223
+9378350,2/15/1992,3/6/2022,Active,Operations,HR Generalist,Miami,FL,West,47823,Hardware,672205,357306
+9383836,2/8/1974,9/11/2021,Terminated,Sales,Sales Representative,San Antonio,TX,Midwest,69515,Hardware,482373,376312
+9395067,10/24/2001,7/10/2018,Active,Operations,Financial Analyst,Los Angeles,CA,Northeast,92856,SaaS,1179070,1199297
+9400039,11/23/1990,2/18/2017,Active,Customer Success,Financial Analyst,San Diego,CA,Midwest,76206,Professional Services,967154,373265
+9416217,6/27/1980,10/15/2021,Active,HR,Marketing Specialist,Atlanta,GA,Northeast,46188,Professional Services,594770,893041
+9419955,8/1/1970,9/26/2023,Terminated,Marketing,IT Support Specialist,Los Angeles,CA,Midwest,77162,Professional Services,976742,1371691
+9439857,3/21/1993,12/5/2025,Active,Marketing,Financial Analyst,New York,NY,Northeast,68419,SaaS,359610,375200
+9442511,12/30/1962,9/9/2016,Active,Customer Success,Sales Representative,Phoenix,AZ,Northeast,108905,Hardware,1095382,1455248
+9442656,11/4/1983,10/24/2021,Active,IT,Operations Coordinator,Denver,CO,South,81655,SaaS,356063,120159
+9446772,4/18/1996,3/20/2025,Active,Finance,Senior Account Executive,San Diego,CA,West,153228,Subscriptions,1024885,1006490
+9447889,10/26/1973,6/12/2016,Active,Operations,HR Generalist,Los Angeles,CA,Midwest,48344,Hardware,382860,403123
+9449922,9/19/1969,12/15/2018,Active,Finance,Senior Account Executive,Boston,MA,Midwest,126550,Subscriptions,419918,178972
+9451817,9/10/1998,7/26/2018,Active,Sales,IT Support Specialist,San Antonio,TX,South,90049,SaaS,665089,201897
+9456040,12/3/1985,3/5/2025,Active,Operations,Sales Representative,San Jose,CA,South,73081,Support Plans,480739,628760
+9458568,3/12/1968,6/9/2018,Terminated,Sales,Sales Representative,Houston,TX,Northeast,90958,SaaS,1191730,1872489
+9477699,6/21/1967,5/4/2020,Active,Operations,Senior Account Executive,Miami,FL,Midwest,129547,Hardware,534355,529027
+9480319,10/28/1981,7/27/2020,Active,Marketing,Sales Manager,Philadelphia,PA,Midwest,174759,Support Plans,1085056,1087363
+9483172,8/22/1977,5/18/2017,Active,Operations,Customer Success Manager,San Antonio,TX,Northeast,92490,Hardware,494210,286339
+9504555,10/3/1976,6/3/2023,Terminated,Finance,Operations Coordinator,San Antonio,TX,Northeast,48192,Support Plans,917533,1329578
+9517089,11/15/1980,3/8/2018,OnLeave,IT,Customer Success Manager,Seattle,WA,West,157547,SaaS,1083423,358664
+9525345,3/21/1961,2/4/2020,Active,Operations,Financial Analyst,Seattle,WA,South,65121,Support Plans,670695,192101
+9528830,7/5/1984,10/1/2023,Active,Sales,Sales Operations Analyst,San Diego,CA,South,74592,Support Plans,603512,939412
+9574699,4/17/1973,3/8/2020,Active,Operations,Senior Account Executive,Philadelphia,PA,South,99302,SaaS,289398,176859
+9590900,9/16/1967,12/1/2024,Active,Sales,HR Generalist,San Diego,CA,Midwest,78036,Support Plans,195891,77491
+9604816,2/24/1962,9/11/2024,Active,Sales Ops,Account Executive,Houston,TX,Midwest,108783,Support Plans,783239,499658
+9605173,2/8/2001,7/15/2022,OnLeave,Marketing,Senior Account Executive,Atlanta,GA,South,120796,Subscriptions,725232,582131
+9607782,9/14/1991,12/21/2018,Active,Finance,Financial Analyst,Phoenix,AZ,Midwest,90321,Professional Services,983896,584799
+9612709,11/20/1997,3/23/2019,OnLeave,Customer Success,Sales Operations Analyst,Phoenix,AZ,Northeast,88581,Subscriptions,152872,47780
+9613386,1/14/1980,6/13/2022,Active,Operations,Account Executive,Boston,MA,South,89154,Subscriptions,383887,612220
+9632752,4/30/1974,6/9/2020,Active,Operations,Customer Success Manager,Atlanta,GA,South,106375,Subscriptions,233402,199721
+9643945,8/2/1977,9/8/2018,Active,HR,Marketing Specialist,Boston,MA,South,81791,Professional Services,1078783,569939
+9667346,1/11/1987,10/31/2018,Active,IT,Sales Representative,New York,NY,Midwest,82622,Professional Services,301555,104542
+9687317,2/14/1968,8/29/2022,Active,Finance,Sales Manager,San Diego,CA,West,127706,Support Plans,1021814,600455
+9708380,8/7/1977,8/26/2022,Active,Finance,HR Generalist,Houston,TX,South,70728,Professional Services,720841,839348
+9714005,8/18/1977,9/28/2019,Active,Operations,Senior Account Executive,San Antonio,TX,West,121611,Hardware,671065,439811
+9715442,6/2/2006,10/26/2021,Active,Sales,Senior Account Executive,Phoenix,AZ,South,149770,Support Plans,627047,429292
+9715702,6/20/2007,9/4/2023,Active,Marketing,Operations Coordinator,San Jose,CA,Midwest,53275,Support Plans,1075337,914534
+9723148,7/16/1994,3/14/2019,OnLeave,Operations,Senior Account Executive,Boston,MA,Northeast,131641,Hardware,561342,776846
+9726039,2/2/1997,11/4/2017,Active,Finance,Sales Operations Analyst,Seattle,WA,Midwest,84983,Professional Services,1185686,1470247
+9727781,9/11/1969,4/4/2016,Active,Sales,Sales Manager,Phoenix,AZ,Midwest,156494,Subscriptions,931259,1231714
+9740037,5/30/1972,1/19/2016,Active,Sales,Sales Manager,San Jose,CA,West,119539,Hardware,865777,1382702
+9746981,11/15/1963,10/3/2023,Active,Marketing,Account Executive,Boston,MA,Northeast,72291,Support Plans,970136,530965
+9753520,3/5/1976,4/25/2020,OnLeave,Sales Ops,Account Executive,Chicago,IL,Midwest,58100,Support Plans,838937,1198415
+9754455,11/27/1976,7/11/2022,Active,HR,Marketing Specialist,Atlanta,GA,Northeast,51646,Subscriptions,1144545,1135793
+9778751,6/9/2001,9/10/2018,Active,Marketing,Customer Success Manager,Miami,FL,Midwest,96322,Subscriptions,268309,420333
+9779057,5/31/2006,6/27/2024,Active,Sales,Operations Coordinator,Phoenix,AZ,South,85602,Subscriptions,1067575,1172880
+9796573,9/4/2006,5/10/2021,Active,Sales,Account Executive,Phoenix,AZ,West,112985,Hardware,576310,116013
+9818647,11/25/1973,1/18/2016,Active,Customer Success,Customer Success Manager,San Antonio,TX,Midwest,130038,Subscriptions,684413,593573
+9833120,1/14/1991,12/31/2023,Active,HR,Operations Coordinator,Seattle,WA,Midwest,85238,Professional Services,1032778,709092
+9864366,11/30/1969,11/6/2025,OnLeave,IT,Senior Account Executive,San Diego,CA,South,98757,Hardware,770350,1079001
+9886073,10/31/1993,5/25/2020,Active,IT,Marketing Specialist,Phoenix,AZ,West,72937,SaaS,433850,669783
+9902882,8/24/1998,3/5/2019,Active,HR,IT Support Specialist,Houston,TX,Northeast,88640,Support Plans,762427,172804
+9931071,7/31/1996,1/8/2022,Active,Finance,Sales Manager,Boston,MA,South,141228,Support Plans,393901,297106
+9940555,3/25/2000,11/13/2020,Active,Sales Ops,IT Support Specialist,Philadelphia,PA,West,77104,Hardware,928940,763401
+9949567,11/18/1977,3/19/2018,Active,Customer Success,Sales Representative,Denver,CO,Midwest,69333,Professional Services,1137277,1642270
+9953645,12/27/1997,9/8/2023,Active,Sales,Sales Manager,San Jose,CA,Midwest,137265,Professional Services,302532,452448
+9965460,4/19/1983,6/11/2023,Terminated,Sales Ops,Financial Analyst,Denver,CO,West,70905,Hardware,748253,926224
+9970670,6/19/1993,6/28/2016,OnLeave,Marketing,IT Support Specialist,Atlanta,GA,Midwest,52756,SaaS,545561,251357
+9980603,8/5/2007,11/12/2021,Active,Finance,HR Generalist,New York,NY,South,52641,Hardware,243186,91248
+9994901,3/27/1981,2/22/2021,Active,Customer Success,Account Executive,Denver,CO,Northeast,87455,SaaS,799768,900793
+9995405,10/31/1964,9/10/2020,Terminated,Sales Ops,Sales Operations Analyst,Chicago,IL,South,52745,Support Plans,316340,474439
+9998299,8/26/1976,1/3/2016,Active,Sales Ops,Sales Representative,Atlanta,GA,Midwest,70293,Professional Services,793744,1148228
