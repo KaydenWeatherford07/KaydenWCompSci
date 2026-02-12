@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FileIOPart2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2b9b5dc5f34e84339dc906817aa3aea6f2a2cb4a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a7d1d143dbd258b17284620c8ffd13a8f6f45e18")]
 [assembly: System.Reflection.AssemblyProductAttribute("FileIOPart2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FileIOPart2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
