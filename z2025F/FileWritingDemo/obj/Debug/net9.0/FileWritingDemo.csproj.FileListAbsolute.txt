@@ -1,0 +1,5 @@
+C:\Users\ihoph\RiderProjects\CompSci\z2025F\FileWritingDemo\obj\Debug\net9.0\FileWritingDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ihoph\RiderProjects\CompSci\z2025F\FileWritingDemo\obj\Debug\net9.0\FileWritingDemo.AssemblyInfoInputs.cache
+C:\Users\ihoph\RiderProjects\CompSci\z2025F\FileWritingDemo\obj\Debug\net9.0\FileWritingDemo.AssemblyInfo.cs
+C:\Users\ihoph\RiderProjects\CompSci\z2025F\FileWritingDemo\obj\Debug\net9.0\FileWritingDemo.csproj.CoreCompileInputs.cache
+C:\Users\ihoph\RiderProjects\CompSci\z2025F\FileWritingDemo\obj\Debug\net9.0\FileWritingDemo.sourcelink.json

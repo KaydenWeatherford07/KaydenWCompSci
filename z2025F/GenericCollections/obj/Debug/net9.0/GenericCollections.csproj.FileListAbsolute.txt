@@ -1,0 +1,5 @@
+C:\Users\ihoph\RiderProjects\CompSci\z2025F\GenericCollections\obj\Debug\net9.0\GenericCollections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ihoph\RiderProjects\CompSci\z2025F\GenericCollections\obj\Debug\net9.0\GenericCollections.AssemblyInfoInputs.cache
+C:\Users\ihoph\RiderProjects\CompSci\z2025F\GenericCollections\obj\Debug\net9.0\GenericCollections.AssemblyInfo.cs
+C:\Users\ihoph\RiderProjects\CompSci\z2025F\GenericCollections\obj\Debug\net9.0\GenericCollections.csproj.CoreCompileInputs.cache
+C:\Users\ihoph\RiderProjects\CompSci\z2025F\GenericCollections\obj\Debug\net9.0\GenericCollections.sourcelink.json

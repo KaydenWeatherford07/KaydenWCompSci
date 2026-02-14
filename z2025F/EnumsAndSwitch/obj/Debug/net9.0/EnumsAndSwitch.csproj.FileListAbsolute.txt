@@ -1,0 +1,5 @@
+C:\Users\ihoph\RiderProjects\CompSci\z2025F\EnumsAndSwitch\obj\Debug\net9.0\EnumsAndSwitch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ihoph\RiderProjects\CompSci\z2025F\EnumsAndSwitch\obj\Debug\net9.0\EnumsAndSwitch.AssemblyInfoInputs.cache
+C:\Users\ihoph\RiderProjects\CompSci\z2025F\EnumsAndSwitch\obj\Debug\net9.0\EnumsAndSwitch.AssemblyInfo.cs
+C:\Users\ihoph\RiderProjects\CompSci\z2025F\EnumsAndSwitch\obj\Debug\net9.0\EnumsAndSwitch.csproj.CoreCompileInputs.cache
+C:\Users\ihoph\RiderProjects\CompSci\z2025F\EnumsAndSwitch\obj\Debug\net9.0\EnumsAndSwitch.sourcelink.json
