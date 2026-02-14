@@ -64,6 +64,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Extensions", "zS2026\Extens
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQ", "zS2026\LINQ\LINQ.csproj", "{6F219FE4-336B-498F-BB00-2A9817011C8F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Events", "zS2026\Events\Events.csproj", "{A6684B42-5997-4368-9774-8FBB9599F20D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp1", "ytestingground\WpfApp1\WpfApp1.csproj", "{BA6DD352-2D18-47CA-9FAE-1FD4980A510D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -194,5 +198,13 @@ Global
 		{6F219FE4-336B-498F-BB00-2A9817011C8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6F219FE4-336B-498F-BB00-2A9817011C8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6F219FE4-336B-498F-BB00-2A9817011C8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6684B42-5997-4368-9774-8FBB9599F20D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6684B42-5997-4368-9774-8FBB9599F20D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6684B42-5997-4368-9774-8FBB9599F20D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6684B42-5997-4368-9774-8FBB9599F20D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA6DD352-2D18-47CA-9FAE-1FD4980A510D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA6DD352-2D18-47CA-9FAE-1FD4980A510D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA6DD352-2D18-47CA-9FAE-1FD4980A510D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA6DD352-2D18-47CA-9FAE-1FD4980A510D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
