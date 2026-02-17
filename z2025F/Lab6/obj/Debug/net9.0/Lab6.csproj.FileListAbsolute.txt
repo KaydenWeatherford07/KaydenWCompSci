@@ -34,8 +34,6 @@ C:\Users\ihoph\RiderProjects\CompSci\z2025F\Lab6\bin\Debug\net9.0\Lab6.runtimeco
 C:\Users\ihoph\RiderProjects\CompSci\z2025F\Lab6\bin\Debug\net9.0\Lab6.dll
 C:\Users\ihoph\RiderProjects\CompSci\z2025F\Lab6\bin\Debug\net9.0\Lab6.pdb
 C:\Users\ihoph\RiderProjects\CompSci\z2025F\Lab6\obj\Debug\net9.0\Lab6.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\ihoph\RiderProjects\CompSci\z2025F\Lab6\obj\Debug\net9.0\Lab6.AssemblyInfoInputs.cache
-C:\Users\ihoph\RiderProjects\CompSci\z2025F\Lab6\obj\Debug\net9.0\Lab6.AssemblyInfo.cs
 C:\Users\ihoph\RiderProjects\CompSci\z2025F\Lab6\obj\Debug\net9.0\Lab6.csproj.CoreCompileInputs.cache
 C:\Users\ihoph\RiderProjects\CompSci\z2025F\Lab6\obj\Debug\net9.0\Lab6.sourcelink.json
 C:\Users\ihoph\RiderProjects\CompSci\z2025F\Lab6\obj\Debug\net9.0\Lab6.dll

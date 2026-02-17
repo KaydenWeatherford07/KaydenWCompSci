@@ -1,2 +1,0 @@
-# LangDocs
-Langdocs

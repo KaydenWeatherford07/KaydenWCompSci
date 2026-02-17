@@ -1,5 +1,0 @@
-C:\Users\ihoph\RiderProjects\CompSci\zS2026\Events\obj\Debug\net9.0\Events.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\ihoph\RiderProjects\CompSci\zS2026\Events\obj\Debug\net9.0\Events.AssemblyInfoInputs.cache
-C:\Users\ihoph\RiderProjects\CompSci\zS2026\Events\obj\Debug\net9.0\Events.AssemblyInfo.cs
-C:\Users\ihoph\RiderProjects\CompSci\zS2026\Events\obj\Debug\net9.0\Events.csproj.CoreCompileInputs.cache
-C:\Users\ihoph\RiderProjects\CompSci\zS2026\Events\obj\Debug\net9.0\Events.sourcelink.json

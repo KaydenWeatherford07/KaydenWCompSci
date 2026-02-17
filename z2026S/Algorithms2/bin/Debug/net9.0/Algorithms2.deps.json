@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Algorithms2/1.0.0": {
+        "runtime": {
+          "Algorithms2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Algorithms2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

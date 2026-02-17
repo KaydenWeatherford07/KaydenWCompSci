@@ -48,4 +48,9 @@ class Person
     {
         return $"\nName: \t\t {name} \nID: \t\t {Id} \nSalary: \t {salary:C2}";
     }
+
+    public void DispPerson()
+    {
+        
+    }
 }

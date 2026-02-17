@@ -1,0 +1,15 @@
+C:\Users\ihoph\RiderProjects\CompSci\z2026S\Algorithms2\bin\Debug\net9.0\Algorithms2.exe
+C:\Users\ihoph\RiderProjects\CompSci\z2026S\Algorithms2\bin\Debug\net9.0\Algorithms2.deps.json
+C:\Users\ihoph\RiderProjects\CompSci\z2026S\Algorithms2\bin\Debug\net9.0\Algorithms2.runtimeconfig.json
+C:\Users\ihoph\RiderProjects\CompSci\z2026S\Algorithms2\bin\Debug\net9.0\Algorithms2.dll
+C:\Users\ihoph\RiderProjects\CompSci\z2026S\Algorithms2\bin\Debug\net9.0\Algorithms2.pdb
+C:\Users\ihoph\RiderProjects\CompSci\z2026S\Algorithms2\obj\Debug\net9.0\Algorithms2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ihoph\RiderProjects\CompSci\z2026S\Algorithms2\obj\Debug\net9.0\Algorithms2.AssemblyInfoInputs.cache
+C:\Users\ihoph\RiderProjects\CompSci\z2026S\Algorithms2\obj\Debug\net9.0\Algorithms2.AssemblyInfo.cs
+C:\Users\ihoph\RiderProjects\CompSci\z2026S\Algorithms2\obj\Debug\net9.0\Algorithms2.csproj.CoreCompileInputs.cache
+C:\Users\ihoph\RiderProjects\CompSci\z2026S\Algorithms2\obj\Debug\net9.0\Algorithms2.sourcelink.json
+C:\Users\ihoph\RiderProjects\CompSci\z2026S\Algorithms2\obj\Debug\net9.0\Algorithms2.dll
+C:\Users\ihoph\RiderProjects\CompSci\z2026S\Algorithms2\obj\Debug\net9.0\refint\Algorithms2.dll
+C:\Users\ihoph\RiderProjects\CompSci\z2026S\Algorithms2\obj\Debug\net9.0\Algorithms2.pdb
+C:\Users\ihoph\RiderProjects\CompSci\z2026S\Algorithms2\obj\Debug\net9.0\Algorithms2.genruntimeconfig.cache
+C:\Users\ihoph\RiderProjects\CompSci\z2026S\Algorithms2\obj\Debug\net9.0\ref\Algorithms2.dll

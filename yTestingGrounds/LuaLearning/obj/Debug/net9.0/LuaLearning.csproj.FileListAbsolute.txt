@@ -4,8 +4,6 @@ C:\Users\ihoph\RiderProjects\CompSci\yTestingGrounds\LuaLearning\bin\Debug\net9.
 C:\Users\ihoph\RiderProjects\CompSci\yTestingGrounds\LuaLearning\bin\Debug\net9.0\LuaLearning.dll
 C:\Users\ihoph\RiderProjects\CompSci\yTestingGrounds\LuaLearning\bin\Debug\net9.0\LuaLearning.pdb
 C:\Users\ihoph\RiderProjects\CompSci\yTestingGrounds\LuaLearning\obj\Debug\net9.0\LuaLearning.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\ihoph\RiderProjects\CompSci\yTestingGrounds\LuaLearning\obj\Debug\net9.0\LuaLearning.AssemblyInfoInputs.cache
-C:\Users\ihoph\RiderProjects\CompSci\yTestingGrounds\LuaLearning\obj\Debug\net9.0\LuaLearning.AssemblyInfo.cs
 C:\Users\ihoph\RiderProjects\CompSci\yTestingGrounds\LuaLearning\obj\Debug\net9.0\LuaLearning.csproj.CoreCompileInputs.cache
 C:\Users\ihoph\RiderProjects\CompSci\yTestingGrounds\LuaLearning\obj\Debug\net9.0\LuaLearning.sourcelink.json
 C:\Users\ihoph\RiderProjects\CompSci\yTestingGrounds\LuaLearning\obj\Debug\net9.0\LuaLearning.dll

@@ -1,5 +1,13 @@
+C:\Users\ihoph\RiderProjects\CompSci\z2025F\Algorithms\bin\Debug\net9.0\Algorithms.exe
+C:\Users\ihoph\RiderProjects\CompSci\z2025F\Algorithms\bin\Debug\net9.0\Algorithms.deps.json
+C:\Users\ihoph\RiderProjects\CompSci\z2025F\Algorithms\bin\Debug\net9.0\Algorithms.runtimeconfig.json
+C:\Users\ihoph\RiderProjects\CompSci\z2025F\Algorithms\bin\Debug\net9.0\Algorithms.dll
+C:\Users\ihoph\RiderProjects\CompSci\z2025F\Algorithms\bin\Debug\net9.0\Algorithms.pdb
 C:\Users\ihoph\RiderProjects\CompSci\z2025F\Algorithms\obj\Debug\net9.0\Algorithms.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\ihoph\RiderProjects\CompSci\z2025F\Algorithms\obj\Debug\net9.0\Algorithms.AssemblyInfoInputs.cache
-C:\Users\ihoph\RiderProjects\CompSci\z2025F\Algorithms\obj\Debug\net9.0\Algorithms.AssemblyInfo.cs
 C:\Users\ihoph\RiderProjects\CompSci\z2025F\Algorithms\obj\Debug\net9.0\Algorithms.csproj.CoreCompileInputs.cache
 C:\Users\ihoph\RiderProjects\CompSci\z2025F\Algorithms\obj\Debug\net9.0\Algorithms.sourcelink.json
+C:\Users\ihoph\RiderProjects\CompSci\z2025F\Algorithms\obj\Debug\net9.0\Algorithms.dll
+C:\Users\ihoph\RiderProjects\CompSci\z2025F\Algorithms\obj\Debug\net9.0\refint\Algorithms.dll
+C:\Users\ihoph\RiderProjects\CompSci\z2025F\Algorithms\obj\Debug\net9.0\Algorithms.pdb
+C:\Users\ihoph\RiderProjects\CompSci\z2025F\Algorithms\obj\Debug\net9.0\Algorithms.genruntimeconfig.cache
+C:\Users\ihoph\RiderProjects\CompSci\z2025F\Algorithms\obj\Debug\net9.0\ref\Algorithms.dll

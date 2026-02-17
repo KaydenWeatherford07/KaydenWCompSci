@@ -34,8 +34,6 @@ C:\Users\ihoph\RiderProjects\CompSci\z2025F\MovieThingIG\bin\Debug\net9.0\MovieT
 C:\Users\ihoph\RiderProjects\CompSci\z2025F\MovieThingIG\bin\Debug\net9.0\MovieThingIG.dll
 C:\Users\ihoph\RiderProjects\CompSci\z2025F\MovieThingIG\bin\Debug\net9.0\MovieThingIG.pdb
 C:\Users\ihoph\RiderProjects\CompSci\z2025F\MovieThingIG\obj\Debug\net9.0\MovieThingIG.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\ihoph\RiderProjects\CompSci\z2025F\MovieThingIG\obj\Debug\net9.0\MovieThingIG.AssemblyInfoInputs.cache
-C:\Users\ihoph\RiderProjects\CompSci\z2025F\MovieThingIG\obj\Debug\net9.0\MovieThingIG.AssemblyInfo.cs
 C:\Users\ihoph\RiderProjects\CompSci\z2025F\MovieThingIG\obj\Debug\net9.0\MovieThingIG.csproj.CoreCompileInputs.cache
 C:\Users\ihoph\RiderProjects\CompSci\z2025F\MovieThingIG\obj\Debug\net9.0\MovieThingIG.sourcelink.json
 C:\Users\ihoph\RiderProjects\CompSci\z2025F\MovieThingIG\obj\Debug\net9.0\MovieThingIG.dll

@@ -4,8 +4,6 @@ C:\Users\ihoph\RiderProjects\CompSci\z2025F\Generics\bin\Debug\net9.0\Generics.r
 C:\Users\ihoph\RiderProjects\CompSci\z2025F\Generics\bin\Debug\net9.0\Generics.dll
 C:\Users\ihoph\RiderProjects\CompSci\z2025F\Generics\bin\Debug\net9.0\Generics.pdb
 C:\Users\ihoph\RiderProjects\CompSci\z2025F\Generics\obj\Debug\net9.0\Generics.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\ihoph\RiderProjects\CompSci\z2025F\Generics\obj\Debug\net9.0\Generics.AssemblyInfoInputs.cache
-C:\Users\ihoph\RiderProjects\CompSci\z2025F\Generics\obj\Debug\net9.0\Generics.AssemblyInfo.cs
 C:\Users\ihoph\RiderProjects\CompSci\z2025F\Generics\obj\Debug\net9.0\Generics.csproj.CoreCompileInputs.cache
 C:\Users\ihoph\RiderProjects\CompSci\z2025F\Generics\obj\Debug\net9.0\Generics.sourcelink.json
 C:\Users\ihoph\RiderProjects\CompSci\z2025F\Generics\obj\Debug\net9.0\Generics.dll

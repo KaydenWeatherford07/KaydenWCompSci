@@ -9,7 +9,10 @@ For my first ever semester during the Fall of 2025, I was learning while recover
 ---
 
 # What Is This?  
-This repository is a collection of my projects and coursework from my time at UWW. Some projects may be experimental or incomplete, while others will be fully developed. My goal is to use this space as a timeline of my progress and learning journey in Computer Science. Currently, this is all written using JetBrains' Rider IDE.
+This repository is a collection of projects and coursework from my time at UWW. 
+Some projects may be experimental or incomplete, while others will be fully developed. 
+My goal is to use this space as a timeline of my progress and learning journey in Computer 
+Science. This is all written using a JetBrains' IDE.
 
 Feel free to explore, follow along, and see how my skills evolve over the next few years!
 
