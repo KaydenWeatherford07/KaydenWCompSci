@@ -54,6 +54,18 @@
             "Microsoft.Playwright": {
               "target": "Package",
               "version": "[1.56.0, )"
+            },
+            "ScottPlot": {
+              "target": "Package",
+              "version": "[5.1.59, )"
+            },
+            "TorchSharp-cuda-windows": {
+              "target": "Package",
+              "version": "[0.107.0, )"
+            },
+            "TorchVision": {
+              "target": "Package",
+              "version": "[0.107.0, )"
             }
           },
           "imports": [

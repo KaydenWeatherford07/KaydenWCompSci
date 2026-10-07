@@ -9,6 +9,9 @@
 
     <ItemGroup>
       <PackageReference Include="Microsoft.Playwright" Version="1.56.0" />
+      <PackageReference Include="ScottPlot" Version="5.1.59" />
+      <PackageReference Include="TorchSharp-cuda-windows" Version="0.107.0" />
+      <PackageReference Include="TorchVision" Version="0.107.0" />
     </ItemGroup>
 
     <ItemGroup>
